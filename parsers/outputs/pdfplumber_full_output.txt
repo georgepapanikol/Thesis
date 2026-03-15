@@ -1,0 +1,1922 @@
+THE GREEK LABOUR MARKET BEFORE
+AND AFTER THE PANDEMIC: SLACK,
+TIGHTNESS AND SKILLS MISMATCH(cid:0)
+Christos Antonopoulos
+Bank of Greece, Economic Analysis and Research Department
+Sofia Anyfantaki
+Bank of Greece, Economic Analysis and Research Department
+Hiona Balfoussia
+Bank of Greece, Economic Analysis and Research Department
+Theodora Kosma
+Bank of Greece, Economic Analysis and Research Department
+Evangelia Papapetrou
+Bank of Greece, Economic Analysis and Research Department,
+and National and Kapodistrian University of Athens, Department of Economics
+Filippos Petroulakis
+Bank of Greece, Economic Analysis and Research Department
+Pavlos Petroulas
+Bank of Greece, Economic Analysis and Research Department
+Pinelopi Zioutou
+Bank of Greece, Economic Analysis and Research Department
+ABSTRACT
+The Greek labour market recorded a significant improvement during the first half of 2022. This
+is encouraging and reflects, inter alia, output growth, the government support measures during
+the pandemic and the implementation of important structural reforms during the previous decade.
+However, in the current inflationary environment, the question that arises is whether the labour
+market is slack or tight and whether wage pressures may be emerging. This article draws on diverse
+sources of information on the labour market, in an attempt to shed some light on this question
+and examine how the Greek labour market evolved before and after the pandemic. In sum, unem-
+ployment remains high in Greece, well above the euro area average, and labour market slack is
+still evident by most measures. However, pockets of tightening are beginning to emerge at the sec-
+toral level. Moreover, slack is declining at a fast pace, much faster than in the euro area, as sug-
+gested by the drop in unemployment over the past three years. The high share of long-term unem-
+ployment and the rather elevated estimates of efficient unemployment presented in this article also
+point in the same direction. Given the recent strong employment growth and the prospect of a sig-
+nificant need for additional labour over the coming years due to the implementation of the
+NextGenerationEU plan, labour market tightness could increase further. This concern is further
+compounded by extensive survey evidence of skills mismatches in the Greek labour market, which
+are known to adversely affect allocative efficiency and, thus, productivity. Looking ahead, it is impor-
+tant to pursue labour market policies aimed at increasing participation rates and upskilling or
+reskilling the labour force, including in particular the long-term unemployed.
+Keywords:labour market; unemployment; Beveridge curve; tightness; slack
+JEL classification:E24; J08; J21; J24; J31
+DOI link:https://doi.org/10.52903/econbull20225602
+56
+EconomicBulletin 45
+December2022
+
+--- PAGE BREAK ---
+
+Η ΕΛΛΗΝΙΚΗ ΑΓΟΡΑ ΕΡΓΑΣΙΑΣ ΠΡΙΝ ΚΑΙ ΜΕΤΑ
+ΤΗΝ ΠΑΝΔΗΜΙΑ: ΧΑΛΑΡΟΤΗΤΑ, ΣΤΕΝΟΤΗΤΑ
+ΚΑΙ ΑΝΑΝΤΙΣΤΟΙΧΙΑ ΔΕΞΙΟΤΗΤΩΝ
+Χρήστος Αντωνόπουλος
+Τράπεζα της Ελλάδος, Διεύθυνση Οικονομικής Ανάλυσης και Μελετών
+Σοφία Ανυφαντάκη
+Τράπεζα της Ελλάδος, Διεύθυνση Οικονομικής Ανάλυσης και Μελετών
+Χιόνα Μπαλφούσια
+Τράπεζα της Ελλάδος, Διεύθυνση Οικονομικής Ανάλυσης και Μελετών
+Θεοδώρα Κοσμά
+Τράπεζα της Ελλάδος, Διεύθυνση Οικονομικής Ανάλυσης και Μελετών
+Ευαγγελία Παπαπέτρου
+Τράπεζα της Ελλάδος, Διεύθυνση Οικονομικής Ανάλυσης και Μελετών,
+και Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών, Τμήμα Οικονομικών Επιστημών
+Φίλιππος Πετρουλάκης
+Τράπεζα της Ελλάδος, Διεύθυνση Οικονομικής Ανάλυσης και Μελετών
+Παύλος Πέτρουλας
+Τράπεζα της Ελλάδος, Διεύθυνση Οικονομικής Ανάλυσης και Μελετών
+Πηνελόπη Ζιούτου
+Τράπεζα της Ελλάδος, Διεύθυνση Οικονομικής Ανάλυσης και Μελετών
+ΠΕΡΙΛΗΨΗ
+Η ελληνική αγορά εργασίας κατέγραψε σημαντική βελτίωση κατά το πρώτο εξάμηνο του 2022. Αυτή
+η τάση αντικατοπτρίζει, μεταξύ άλλων, τον αυξημένο ρυθμό οικονομικής μεγέθυνσης, τα μέτρα στή-
+ριξης που έλαβε η ελληνική κυβέρνηση κατά την πανδημία και την εφαρμογή σημαντικών διαρ-
+θρωτικών μεταρρυθμίσεων κατά την προηγούμενη δεκαετία. Ωστόσο, στο τρέχον πληθωριστικό περι-
+βάλλον, το ερώτημα που τίθεται είναι αν υπάρχει στενότητα (tightness) ή χαλαρότητα (slack) στην
+αγορά εργασίας και αν ενδέχεται να εμφανιστούν μισθολογικές πιέσεις. Το παρόν άρθρο αντλεί
+πληροφορίες για την αγορά εργασίας από διάφορες πηγές, σε μια προσπάθεια να διερευνήσει αυτό
+το ερώτημα και να εξετάσει πώς εξελίχθηκε η ελληνική αγορά εργασίας πριν και μετά την παν-
+δημία. Εν ολίγοις, η ανεργία παραμένει υψηλή στην Ελλάδα, πολύ πάνω από το μέσο όρο της ζώνης
+του ευρώ, και εξακολουθεί να διαπιστώνεται χαλαρότητα στην αγορά εργασίας με βάση τα κύρια
+μεγέθη. Ωστόσο, αρχίζουν να παρατηρούνται κάποιες ενδείξεις στενότητας σε κλαδικό επίπεδο.
+Επιπλέον, η χαλαρότητα στην αγορά εργασίας μειώνεται με γρήγορους ρυθμούς, πολύ ταχύτερα
+από ό,τι στη ζώνη του ευρώ, όπως υποδηλώνει η πτώση της ανεργίας τα τελευταία τρία χρόνια. Το
+υψηλό ποσοστό της μακροχρόνιας ανεργίας και οι μάλλον αυξημένες εκτιμήσεις για την “αποτε-
+λεσματική ανεργία” (efficient unemployment) που παρουσιάζονται σε αυτό το άρθρο αποτελούν
+ενδείξεις προς την ίδια κατεύθυνση. Δεδομένης της πρόσφατης σημαντικής αύξησης της απασχό-
+λησης, καθώς και της προοπτικής δημιουργίας νέων θέσεων εργασίας τα επόμενα χρόνια λόγω της
+εφαρμογής του σχεδίου NextGenerationEU, η στενότητα στην αγορά εργασίας ενδέχεται να αυξη-
+θεί περαιτέρω. Η αναντιστοιχία δεξιοτήτων που διαπιστώνεται στην ελληνική αγορά εργασίας επι-
+τείνει τον ως άνω προβληματισμό. Συνάγεται ότι είναι σημαντικό να επιδιωχθούν πολιτικές που
+στοχεύουν στην αύξηση του ποσοστού συμμετοχής στην αγορά εργασίας και στην εκπαίδευση ή επα-
+νειδίκευση του εργατικού δυναμικού, συμπεριλαμβανομένων ιδίως των μακροχρόνια ανέργων.
+56
+46 EconomicBulletin
+December2022
+
+--- PAGE BREAK ---
+
+THE GREEK LABOUR MARKET BEFORE
+AND AFTER THE PANDEMIC: SLACK,
+TIGHTNESS AND SKILLS MISMATCH*(cid:0)
+Christos Antonopoulos
+Bank of Greece, Economic Analysis and Research Department
+Sofia Anyfantaki
+Bank of Greece, Economic Analysis and Research Department
+Hiona Balfoussia
+Bank of Greece, Economic Analysis and Research Department
+Theodora Kosma
+Bank of Greece, Economic Analysis and Research Department
+Evangelia Papapetrou
+Bank of Greece, Economic Analysis and Research Department,
+and National and Kapodistrian University of Athens, Department of Economics
+Filippos Petroulakis
+Bank of Greece, Economic Analysis and Research Department
+Pavlos Petroulas
+Bank of Greece, Economic Analysis and Research Department
+Pinelopi Zioutou
+Bank of Greece, Economic Analysis and Research Department
+1 INTRODUCTION In sum, recent labour market developments
+are encouraging and reflect, inter alia, output
+The Greek labour market recorded a signifi- growth, the pandemic-related support meas-
+cant improvement during the first half of 2022. ures and the implementation of important
+Aggregate employment increased by 9% year- structural reforms during the previous decade.
+on-year (y-o-y), while dependent employment However, in the current inflationary environ-
+increased by 12%. Almost all sectors recorded ment, the question that arises is whether the
+positive employment growth rates and espe- labour market is slack or tight and whether
+cially the tourism, retail, manufacturing and wage pressures may be emerging. This article
+construction sectors. Moreover, the unem- draws on diverse sources of information on the
+ployment rate declined to 11.8% in September, labour market, in an attempt to shed some
+a level not seen since 2010, though still well light on this question and examine how the
+above the euro area average. Greek labour market evolved before and after
+the pandemic.
+This recent strong performance follows a
+period of notable labour market resilience dur- Delving deeper into the recent sharp decline
+ing the pandemic. While many firms were in unemployment, in Section 2 we show that it
+forced to suspend their operation in 2020, trig- is not driven by lower labour force participa-
+gering a deep recession, the number of persons tion. The participation of workers aged 15-74
+employed declined by much less than economic
+activity or hours worked, and less than in the
+euro area, largely due to the generous support * The views expressed in this article are of the authors and do not
+necessarily reflect those of the Bank of Greece. The authors are
+measures of the Greek government. responsible for any errors or omissions.
+56
+EconomicBulletin 47
+December2022
+
+--- PAGE BREAK ---
+
+has risen over the past decade and is as high unemployment rate has been achieved in
+now as it was in 2010. This increase is not recent years, the high share of long-term
+merely a cyclical phenomenon but rather a unemployed and the known difficulty in re-
+larger trend, underpinned by the rising par- employing this cohort imply that slack in the
+ticipation of women and workers above prime Greek labour market may effectively be lower,
+age. The employment-to-population ratio is and closer to the euro area average, than indi-
+also on the rise. However, it should be noted cated by some of the aforementioned metrics.
+that the labour force participation has been
+growing at a slower pace over recent years and, Turning to a more model-based analysis in Sec-
+in 2022, remains almost 5 percentage points tion 5, an examination of the Greek Beveridge
+lower than the euro area average, suggesting curve from 2009 onwards reveals similar pat-
+that, recent improvements notwithstanding, terns to those reported in the literature,
+the Greek labour market is still some way away namely an increase in tightness (the ratio of
+from fully utilising its human capital. vacancies to unemployment) as unemployment
+declines. However, in the case of Greece, there
+Labour market slack, as measured by the frac- doesn’t seem to be evidence of a concurrent
+tion of the extended labour force not fully decrease in labour market efficiency, i.e. an
+utilised in the labour market, but willing to outward shift of the Beveridge curve, as is
+offer more, improved the most in Greece often the case following a recession. Indeed,
+among euro area countries following the pan- the improvement in the Greek labour market
+demic, as outlined in Section 3, declining from is a result of both a decrease in the separation
+24.3% in the fourth quarter of 2019 to 18% in rate and an increase in the job finding rate.
+the second quarter of 2022. Nonetheless, it This may reflect the positive impact of the
+remains the third highest in the euro area on structural labour market reforms undertaken
+account of Greece’s high unemployment rate, over the past decade. Higher tightness with
+indicating the lingering presence of slack in the broadly constant labour market efficiency
+labour market. could also reflect an increase in productivity,
+which is known to induce firms to increase
+Similarly, the job vacancy rate, a measure of vacancies and hence employment. While
+labour market tightness which is discussed in higher productivity could imply an upward
+Section 4, declined in Greece before the pan- pressure on wages, it would allow for wage
+demic and has been increasing since the first gains without disrupting employment gains.
+quarter of 2021. A similar pattern was recorded
+in the euro area, where the pandemic As a follow-up, we explore the novel notion of
+prompted a sharp temporary fall in job vacancy efficient unemployment, which has not previ-
+rates. By this measure, there has been a tight- ously been considered for Greece. It is defined
+ening in the Greek labour market in recent as the rate of unemployment which minimises
+years. Still, the job vacancy rate in Greece the sum of unemployment and vacancy cre-
+remains much lower than that of the euro area, ation, subject to the Beveridge curve, to
+indicating, yet again, that the Greek labour acknowledge that it is not possible to reduce
+market is less tight than the euro area average. both unemployment and vacancies to zero at
+the same time. We estimate the slope of the
+On the other hand, it is notable that Greece Greek Beveridge curve under alternative
+has the highest long-term unemployment rate assumptions and use its elasticity to calculate
+among euro area countries, standing at 7.8% efficient unemployment for Greece for the
+in the second quarter of 2022 compared to a period from 2010 to date. We show that, at the
+2.7% euro area average, with 63% of all unem- current juncture, efficient unemployment is
+ployed in Greece being long-term unemployed. below, but close to, the current value of head-
+While a substantial decline in the long-term line unemployment for all plausible values of
+56
+48 EconomicBulletin
+December2022
+
+--- PAGE BREAK ---
+
+the Beveridge elasticity, indicating that there the unemployment rate below the level of long-
+still exists slack in the labour market, albeit fast term unemployment, which currently stands at
+declining. about 7%. Subtracting long-term unemploy-
+ment from the measure of slack suggests that
+Turning to sectoral micro-level evidence in slack in Greece may be closer to the euro area
+Section 6, the ERGANI data indicate that the average than indicated by the baseline meas-
+post-COVID period of 2021 has been charac- ure. Estimates of efficient unemployment are
+terised by robust employment growth across also high, hovering around 8-10%. With unem-
+most major sectors. For most sectors, the ployment currently below 12%, this means that
+wages of new hires and their relative wages the unemployment gap, i.e. the distance to
+compared to those of incumbent workers do equilibrium unemployment, is closing. Given
+not show any significant upward trend. Thus, the recent strong employment growth and the
+on balance, wage growth data do not show prospect of a significant need for additional
+signs of a general tightness in the labour mar- labour due to NextGenerationEU (whose
+ket. The Construction, Hotels & Restaurants implementation will require a projected addi-
+and Other Services sectors are exceptions, tional 200,000 jobs by 2026, according to the
+exhibiting an upward trend in wages of new National Recovery and Resilience Plan),
+hires as well as in employment flows, which labour market tightness could increase signif-
+may be indicative of emerging market pres- icantly over the coming years.
+sures.
+This analysis has important policy implications.
+Finally, a discussion of labour market devel- Notably, looking ahead, it is particularly
+opments would be incomplete without con- important to pursue labour market policies
+sidering skills availability and mismatch. As aimed at increasing participation rates and
+discussed in Section 7, an efficient allocation upskilling or reskilling the labour force, includ-
+of workers across tasks is particularly impor- ing in particular the long-term unemployed.
+tant when the aggregate skills supply is rela- The ongoing adverse demographic develop-
+tively limited, as is the case with Greece. Per- ments and the recent exodus of young highly
+sistent skill gaps and mismatches come at eco- skilled workers following the sovereign debt
+nomic and social costs, while skills constraints crisis also underline the pivotal role of active
+can negatively affect labour productivity and labour market policies. Carefully designed
+hamper the ability to innovate and adopt tech- policies to enhance education and skills acqui-
+nological advances. We find that overskill mis- sition would ensure that workers are equipped
+match plays an important role for productivity, with the right skills and that businesses can
+and overskilling in professional occupations, flexibly deploy workers to meet changing
+where Greece scores especially poorly, is a labour market needs. The implementation of
+major drag. such policies will help ensure that technology
+adoption has a positive impact on productivity,
+To sum up, unemployment remains high in output growth and employment.
+Greece, well above the euro area average, and
+labour market slack is still evident by most In this spirit, the National Recovery and
+measures. However, pockets of tightening are Resilience Plan includes reforms which will
+beginning to emerge at the sectoral level. foster labour market activation and upskilling.
+Moreover, slack is declining at a fast pace, Moreover, the timely absorption of the
+much faster than in the euro area, as suggested NextGenerationEU funds and the full imple-
+by the drop in unemployment over the past mentation of the planned investments and
+three years. In addition, long-term unemploy- structural reforms will enhance the economy’s
+ment in Greece is high, suggesting that, at innovation capacity and create new high-skilled
+some point, it may become difficult to reduce jobs, hopefully contributing to a reversal of the
+56
+EconomicBulletin 49
+December2022
+
+--- PAGE BREAK ---
+
+previous decade’s brain drain. In light of the (cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:6)(cid:8)(cid:9)(cid:10)(cid:11)(cid:12)(cid:5)(cid:13)(cid:10)(cid:14)(cid:6)(cid:10)(cid:15)(cid:6)(cid:16)(cid:17)(cid:18)(cid:19)(cid:6)(cid:20)(cid:21)(cid:22)(cid:11)(cid:10)(cid:23)(cid:21)(cid:20)(cid:14)(cid:5)(cid:6)(cid:3)(cid:14)(cid:24)(cid:6)(cid:2)(cid:10)(cid:12)(cid:4)(cid:25)(cid:6)
+analysis presented in this article, optimising the (cid:26)(cid:10)(cid:4)(cid:27)(cid:20)(cid:24)(cid:6)(cid:13)(cid:14)(cid:6)(cid:16)(cid:4)(cid:20)(cid:20)(cid:28)(cid:20)(cid:6)(cid:3)(cid:14)(cid:24)(cid:6)(cid:5)(cid:2)(cid:20)(cid:6)(cid:20)(cid:12)(cid:4)(cid:10)(cid:6)(cid:3)(cid:4)(cid:20)(cid:3)
+use of the NextGenerationEU funds and
+(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:9)(cid:10)(cid:11)(cid:12)(cid:7)(cid:13)(cid:14)(cid:15)(cid:11)(cid:10)(cid:10)(cid:16)(cid:8)(cid:17)(cid:5)(cid:18)(cid:17)(cid:19)(cid:5)(cid:8)(cid:20)(cid:21)(cid:5)(cid:4)(cid:8)(cid:11)(cid:22)(cid:23)(cid:24)(cid:14)(cid:16)(cid:8)(cid:25)(cid:5)(cid:20)(cid:25)(cid:18)(cid:3)(cid:20)(cid:19)(cid:19)(cid:26)(cid:8)(cid:20)(cid:4)(cid:27)(cid:28)(cid:25)(cid:29)(cid:5)(cid:4)(cid:30)
+designing targeted labour market policies will
+be key to ensuring robust employment growth, (cid:32)(cid:33)(cid:34)(cid:35)(cid:23)(cid:35)(cid:36)(cid:37) (cid:36)(cid:38)(cid:17)(cid:19)(cid:18)(cid:26)(cid:38)(cid:5)(cid:3)(cid:29)(cid:35)(cid:23)(cid:35)(cid:36)(cid:37) (cid:39)(cid:18)(cid:28)(cid:40)(cid:25)(cid:35)(cid:41)(cid:18)(cid:40)(cid:42)(cid:5)(cid:4)(cid:35)(cid:23)(cid:35)(cid:36)(cid:37)
+high labour force participation and, ultimately, (cid:32)(cid:33)(cid:34)(cid:35)(cid:23)(cid:35)(cid:36)(cid:43) (cid:36)(cid:38)(cid:17)(cid:19)(cid:18)(cid:26)(cid:38)(cid:5)(cid:3)(cid:29)(cid:35)(cid:23)(cid:35)(cid:36)(cid:43) (cid:39)(cid:18)(cid:28)(cid:40)(cid:25)(cid:35)(cid:41)(cid:18)(cid:40)(cid:42)(cid:5)(cid:4)(cid:35)(cid:23)(cid:35)(cid:36)(cid:43)
+strong and sustainable economic growth over
+(cid:11)(cid:11)(cid:10) (cid:11)(cid:11)(cid:10)
+the medium-term horizon.
+2 RECENT DEVELOPMENTS AND LONG-RUN
+TRENDS IN THE GREEK LABOUR MARKET (cid:11)(cid:10)(cid:10) (cid:11)(cid:10)(cid:10)
+2.1EMPLOYMENT AND UNEMPLOYMENT
+The COVID-19 pandemic led to a significant
+recession in 2020, as many firms, especially in (cid:12)(cid:10) (cid:12)(cid:10)
+the tourism sector, suspended their operation.
+However, due to the support measures of the
+Greek government, the number of persons
+employed declined much less compared to eco-
+(cid:31)(cid:10) (cid:31)(cid:10)
+nomic activity and hours worked. Chart 1 shows
+the evolution of economic activity, aggregate
+employment and hours worked in Greece and
+the euro area. In the second quarter of 2020,
+when the first lockdown occurred, both GDP (cid:24)(cid:10) (cid:24)(cid:10)
+and hours worked declined more in Greece (cid:9)(cid:10)(cid:11)(cid:12)(cid:13)(cid:14) (cid:9)(cid:10)(cid:9)(cid:10)(cid:13)(cid:9) (cid:9)(cid:10)(cid:9)(cid:10)(cid:13)(cid:14) (cid:9)(cid:10)(cid:9)(cid:11)(cid:13)(cid:9) (cid:9)(cid:10)(cid:9)(cid:11)(cid:13)(cid:14) (cid:9)(cid:10)(cid:9)(cid:9)(cid:13)(cid:9)
+compared to the euro area, while aggregate (cid:44)(cid:18)(cid:28)(cid:40)(cid:45)(cid:5)(cid:7)(cid:8)(cid:36)(cid:28)(cid:40)(cid:18)(cid:25)(cid:29)(cid:20)(cid:29)(cid:46)
+(cid:47)(cid:18)(cid:29)(cid:5)(cid:7)(cid:8)(cid:36)(cid:37)(cid:8)(cid:15)(cid:8)(cid:32)(cid:40)(cid:5)(cid:5)(cid:45)(cid:5)(cid:16)(cid:8)(cid:36)(cid:43)(cid:8)(cid:15)(cid:8)(cid:5)(cid:28)(cid:40)(cid:18)(cid:8)(cid:20)(cid:40)(cid:5)(cid:20)(cid:46)
+employment dropped comparatively less.
+Since the second quarter of 2021, when most of
+the COVID-19 containment measures were sectors recorded positive employment growth
+lifted, employment growth has been strong and rates and especially the tourism sector, retail
+has reverted to pre-pandemic levels by achiev- trade, manufacturing and construction. In addi-
+ing higher growth rates compared to the euro tion, the unemployment rate declined to 13.1%
+area. To a large extent, the strong rebound of from 16.5% in the first half of 2022, and to
+the labour market after the lifting of the major- 11.8% in September 2022, reaching a level not
+ity of COVID-19-related measures is likely due, seen since 2010.
+among other things, to the implementation of
+important structural reforms during the previ- The drop in unemployment (Chart 2) was more
+ous decade, which made the labour market significant for the most vulnerable social
+more flexible.1 groups, especially for young people2 and for
+During the first half of 2022, the labour market 1 The extensive 2010-2014 labour market structural reforms, includ-
+ing provisions concerning collective dismissals, the institutional
+improved significantly as the strong demand for framework for unions and collective agreements, the promotion of
+tourism services led to increased hirings in flexible forms of employment, the decentralisation of the wage set-
+ting process, as well as the statutory minimum wage reductions,
+Hotels & Restaurants. As a result, aggregate raised flexibility, contributed to the strong moderation of wage
+costs and increased the resilience of employment to adverse eco-
+employment increased by 9.0% y-o-y in the first
+nomic shocks.
+half of 2022, while dependent employment 2 30.4% in the first half of 2022 compared to 39.0% in the first half
+of 2021 for people aged 20-24, and 20.4% in the first half of 2022
+increased even more, by 12.0% y-o-y. Almost all compared to 29.1% in the first half of 2021 for people aged 25-29.
+56
+50 EconomicBulletin
+December2022
+
+--- PAGE BREAK ---
+
+(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:6)(cid:8)(cid:9)(cid:10)(cid:11)(cid:12)(cid:13)(cid:14)(cid:15)(cid:11)(cid:10)(cid:9)(cid:5)(cid:6)(cid:4)(cid:3)(cid:5)(cid:10)(cid:6)(cid:16)(cid:9)(cid:6)(cid:17)(cid:4)(cid:10)(cid:10)(cid:18)(cid:10)(cid:6)(cid:3)(cid:9)(cid:19)(cid:6)(cid:5)(cid:2)(cid:10)(cid:6)(cid:10)(cid:20)(cid:4)(cid:14)(cid:6) Chart 3 Long-term unemployment rate in the
+(cid:3)(cid:4)(cid:10)(cid:3)(cid:6)(cid:21)(cid:15)(cid:6)(cid:22)(cid:10)(cid:9)(cid:19)(cid:10)(cid:4) euro area
+(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:3)(cid:6)(cid:7)(cid:8)(cid:3)(cid:9)(cid:10)(cid:11)(cid:4)(cid:12)(cid:13)(cid:3)(cid:5)(cid:4)(cid:13)(cid:14)(cid:8)(cid:15)(cid:3)(cid:16)(cid:8)(cid:4)(cid:16)(cid:9)(cid:8)(cid:3)(cid:10)(cid:17)(cid:8)(cid:18)(cid:3)(cid:19)(cid:20)(cid:21)(cid:22)(cid:23)(cid:24) (cid:9)(cid:6)(cid:3)(cid:80)(cid:71)(cid:3)(cid:85)(cid:73)(cid:70)(cid:3)(cid:77)(cid:66)(cid:67)(cid:80)(cid:86)(cid:83)(cid:3)(cid:71)(cid:80)(cid:83)(cid:68)(cid:70)(cid:13)(cid:3)(cid:81)(cid:70)(cid:80)(cid:81)(cid:77)(cid:70)(cid:3)(cid:66)(cid:72)(cid:70)(cid:69)(cid:3)(cid:18)(cid:22)(cid:14)(cid:24)(cid:21)(cid:10)
+(cid:29)(cid:8)(cid:30)(cid:31)(cid:21)(cid:31)(cid:32)(cid:33) (cid:34)(cid:4)(cid:35)(cid:8)(cid:30)(cid:31)(cid:21)(cid:31)(cid:32)(cid:33)
+(cid:29)(cid:8)(cid:30)(cid:31)(cid:21)(cid:31)(cid:32)(cid:36) (cid:34)(cid:4)(cid:35)(cid:8)(cid:30)(cid:31)(cid:21)(cid:31)(cid:32)(cid:36)
+(cid:25)(cid:20) (cid:25)(cid:20)
+(cid:25)(cid:26) (cid:25)(cid:26)
+(cid:19)(cid:20) (cid:19)(cid:20)
+(cid:19)(cid:26) (cid:19)(cid:26)
+(cid:20) (cid:20)
+(cid:26) (cid:26)
+(cid:25)(cid:26)(cid:19)(cid:27)(cid:28)(cid:23) (cid:25)(cid:26)(cid:25)(cid:26)(cid:28)(cid:25) (cid:25)(cid:26)(cid:25)(cid:26)(cid:28)(cid:23) (cid:25)(cid:26)(cid:25)(cid:19)(cid:28)(cid:25) (cid:25)(cid:26)(cid:25)(cid:19)(cid:28)(cid:23) (cid:25)(cid:26)(cid:25)(cid:25)(cid:28)(cid:25)
+(cid:37)(cid:4)(cid:12)(cid:13)(cid:14)(cid:8)(cid:38)(cid:3)(cid:32)(cid:12)(cid:13)(cid:4)(cid:39)(cid:6)(cid:10)(cid:6)(cid:40)
+(cid:41)(cid:4)(cid:6)(cid:8)(cid:38)(cid:3)(cid:32)(cid:33)(cid:3)(cid:42)(cid:3)(cid:43)(cid:13)(cid:8)(cid:8)(cid:14)(cid:8)(cid:15)(cid:3)(cid:32)(cid:36)(cid:3)(cid:42)(cid:3)(cid:8)(cid:12)(cid:13)(cid:4)(cid:3)(cid:10)(cid:13)(cid:8)(cid:10)(cid:40)
+women.3 At the same time, the labour force It is notable, however, that Greece has the
+increased significantly (4.9% y-o-y in the first highest long-term unemployment rate (ratio of
+half of 2022), as people who were reluctant to persons unemployed over 12 months to labour
+enter the labour force due to health concerns force) among euro area countries, standing at
+and the need to take care of their vulnerable rel- 7.8% in the second quarter of 2022, compared
+atives were again available in the labour market. to 2.7% on average in the euro area (see Chart
+3), despite the large improvement since 2019.5
+Nevertheless, while the unemployment rate has
+declined for both men and women, the distance 2.2PARTICIPATION RATES
+from the euro area average remains large. The
+persistently high unemployment in recent years, The recent sharp decline in unemployment is
+despite a long-term decline from its peak, is not simply due to lower participation, as one
+likely to have exacerbated the problem of mis- could have feared due to the pandemic, and as
+match between jobs demanded and offered, as was the case in other countries (e.g. in the
+a significant part of the workforce has lost some
+of its skills.4In addition, factors such as popu- 3 17.3% in the first half of 2022 compared to 20.6% in the first half
+of 2021.
+lation ageing, retirement of workers and labour 4 See Section 6 for a thorough analysis of mismatch in the Greek
+migration during the crisis years have led to labour market.
+5 Long-term unemployment amounts to 62.6% of total unemploy-
+shortages of both low- and high-skilled workers. ment in Greece compared to 41.7% in the euro area.
+56
+EconomicBulletin 51
+December2022
+(cid:66)(cid:70)(cid:83)(cid:66)(cid:136)(cid:80)(cid:83)(cid:86)(cid:38) (cid:70)(cid:68)(cid:70)(cid:70)(cid:83)(cid:40) (cid:79)(cid:74)(cid:66)(cid:81)(cid:52) (cid:90)(cid:77)(cid:66)(cid:85)(cid:42) (cid:66)(cid:74)(cid:76)(cid:66)(cid:87)(cid:80)(cid:77)(cid:52) (cid:77)(cid:66)(cid:72)(cid:86)(cid:85)(cid:83)(cid:80)(cid:49) (cid:84)(cid:86)(cid:83)(cid:81)(cid:90)(cid:36) (cid:78)(cid:86)(cid:74)(cid:72)(cid:77)(cid:70)(cid:35) (cid:70)(cid:68)(cid:79)(cid:66)(cid:83)(cid:39) (cid:69)(cid:79)(cid:66)(cid:77)(cid:79)(cid:74)(cid:39) (cid:66)(cid:74)(cid:83)(cid:85)(cid:84)(cid:86)(cid:34) (cid:90)(cid:79)(cid:66)(cid:78)(cid:83)(cid:70)(cid:40) (cid:84)(cid:69)(cid:79)(cid:66)(cid:77)(cid:83)(cid:70)(cid:73)(cid:85)(cid:70)(cid:47)
+(cid:19)(cid:17)(cid:18)(cid:26)(cid:50)(cid:21) (cid:19)(cid:17)(cid:19)(cid:19)(cid:50)(cid:19)
+(cid:18)(cid:21) (cid:18)(cid:21)
+(cid:18)(cid:19) (cid:18)(cid:19)
+(cid:18)(cid:17) (cid:18)(cid:17)
+(cid:25) (cid:25)
+(cid:23) (cid:23)
+(cid:21) (cid:21)
+(cid:19) (cid:19)
+(cid:17) (cid:17)
+(cid:52)(cid:80)(cid:86)(cid:83)(cid:68)(cid:70)(cid:27)(cid:3)(cid:38)(cid:86)(cid:83)(cid:80)(cid:84)(cid:85)(cid:66)(cid:85)(cid:15)
+(cid:47)(cid:80)(cid:85)(cid:70)(cid:27)(cid:3)(cid:48)(cid:79)(cid:77)(cid:90)(cid:3)(cid:46)(cid:70)(cid:78)(cid:67)(cid:70)(cid:83)(cid:3)(cid:52)(cid:85)(cid:66)(cid:85)(cid:70)(cid:84)(cid:3)(cid:88)(cid:74)(cid:85)(cid:73)(cid:3)(cid:66)(cid:87)(cid:66)(cid:74)(cid:77)(cid:66)(cid:67)(cid:77)(cid:70)(cid:3)(cid:69)(cid:66)(cid:85)(cid:66)(cid:3)(cid:71)(cid:80)(cid:83)(cid:3)(cid:19)(cid:17)(cid:19)(cid:19)(cid:27)(cid:50)(cid:19)(cid:3)(cid:66)(cid:83)(cid:70)(cid:3)
+(cid:81)(cid:83)(cid:70)(cid:84)(cid:70)(cid:79)(cid:85)(cid:70)(cid:69)(cid:15)
+(cid:66)(cid:70)(cid:83)(cid:66)(cid:136)(cid:80)(cid:83)(cid:86)(cid:38) (cid:70)(cid:68)(cid:70)(cid:70)(cid:83)(cid:40) (cid:79)(cid:74)(cid:66)(cid:81)(cid:52) (cid:90)(cid:77)(cid:66)(cid:85)(cid:42) (cid:66)(cid:74)(cid:76)(cid:66)(cid:87)(cid:80)(cid:77)(cid:52) (cid:77)(cid:66)(cid:72)(cid:86)(cid:85)(cid:83)(cid:80)(cid:49) (cid:84)(cid:86)(cid:83)(cid:81)(cid:90)(cid:36) (cid:78)(cid:86)(cid:74)(cid:72)(cid:77)(cid:70)(cid:35) (cid:70)(cid:68)(cid:79)(cid:66)(cid:83)(cid:39) (cid:69)(cid:79)(cid:66)(cid:77)(cid:79)(cid:74)(cid:39) (cid:66)(cid:74)(cid:83)(cid:85)(cid:84)(cid:86)(cid:34) (cid:90)(cid:79)(cid:66)(cid:78)(cid:83)(cid:70)(cid:40) (cid:84)(cid:69)(cid:79)(cid:66)(cid:77)(cid:83)(cid:70)(cid:73)(cid:85)(cid:70)(cid:47)
+(cid:19)(cid:17)(cid:18)(cid:26)(cid:50)(cid:21) (cid:19)(cid:17)(cid:19)(cid:19)(cid:50)(cid:19)
+(cid:18)(cid:21) (cid:18)(cid:21)
+(cid:18)(cid:19) (cid:18)(cid:19)
+(cid:18)(cid:17) (cid:18)(cid:17)
+(cid:25) (cid:25)
+(cid:23) (cid:23)
+(cid:21) (cid:21)
+(cid:19) (cid:19)
+(cid:17) (cid:17)
+(cid:52)(cid:80)(cid:86)(cid:83)(cid:68)(cid:70)(cid:27)(cid:3)(cid:38)(cid:86)(cid:83)(cid:80)(cid:84)(cid:85)(cid:66)(cid:85)(cid:15)
+(cid:47)(cid:80)(cid:85)(cid:70)(cid:27)(cid:3)(cid:48)(cid:79)(cid:77)(cid:90)(cid:3)(cid:46)(cid:70)(cid:78)(cid:67)(cid:70)(cid:83)(cid:3)(cid:52)(cid:85)(cid:66)(cid:85)(cid:70)(cid:84)(cid:3)(cid:88)(cid:74)(cid:85)(cid:73)(cid:3)(cid:66)(cid:87)(cid:66)(cid:74)(cid:77)(cid:66)(cid:67)(cid:77)(cid:70)(cid:3)(cid:69)(cid:66)(cid:85)(cid:66)(cid:3)(cid:71)(cid:80)(cid:83)(cid:3)(cid:19)(cid:17)(cid:19)(cid:19)(cid:27)(cid:50)(cid:19)(cid:3)(cid:66)(cid:83)(cid:70)(cid:3)
+(cid:81)(cid:83)(cid:70)(cid:84)(cid:70)(cid:79)(cid:85)(cid:70)(cid:69)(cid:15)
+(cid:136)
+(cid:52)(cid:80)(cid:86)(cid:83)(cid:68)(cid:70)(cid:27)(cid:3)(cid:38)(cid:86)(cid:83)(cid:80)(cid:84)(cid:85)(cid:66)(cid:85)(cid:15)
+(cid:47)(cid:80)(cid:85)(cid:70)(cid:27)(cid:3)(cid:48)(cid:79)(cid:77)(cid:90)(cid:3)(cid:46)(cid:70)(cid:78)(cid:67)(cid:70)(cid:83)(cid:3)(cid:52)(cid:85)(cid:66)(cid:85)(cid:70)(cid:84)(cid:3)(cid:88)(cid:74)(cid:85)(cid:73)(cid:3)(cid:66)(cid:87)(cid:66)(cid:74)(cid:77)(cid:66)(cid:67)(cid:77)(cid:70)(cid:3)(cid:69)(cid:66)(cid:85)(cid:66)(cid:3)(cid:71)(cid:80)(cid:83)(cid:3)(cid:19)(cid:17)(cid:19)(cid:19)(cid:27)(cid:50)(cid:19)(cid:3)(cid:66)(cid:83)(cid:70)(cid:3)
+(cid:81)(cid:83)(cid:70)(cid:84)(cid:70)(cid:79)(cid:85)(cid:70)(cid:69)(cid:15)
+
+--- PAGE BREAK ---
+
+(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:6)(cid:8)(cid:9)(cid:10)(cid:11)(cid:12)(cid:13)(cid:9)(cid:14)(cid:15)(cid:5)(cid:6)(cid:3)(cid:15)(cid:16)(cid:6)(cid:10)(cid:3)(cid:4)(cid:5)(cid:17)(cid:18)(cid:17)(cid:10)(cid:3)(cid:5)(cid:17)(cid:12)(cid:15)(cid:6)(cid:4)(cid:3)(cid:5)(cid:14)(cid:6)(cid:17)(cid:15)(cid:6) the outset of the pandemic, it continued its
+(cid:19)(cid:4)(cid:14)(cid:14)(cid:18)(cid:14) upward trajectory, reaching 60.2% (for the 15-
+74 age group) in the third quarter of 2021, an
+all-time high. As a result, total employment
+(cid:13)(cid:14)(cid:15)(cid:16)(cid:17)(cid:18)(cid:14)(cid:19)(cid:20)(cid:21)(cid:22)(cid:23)(cid:21)(cid:24)(cid:17)(cid:25)(cid:26)(cid:27)(cid:20)(cid:28)(cid:26)(cid:10)(cid:22)(cid:16)(cid:19)(cid:29)(cid:21)(cid:30)(cid:24)(cid:27)(cid:20)(cid:28)(cid:22)(cid:26)(cid:31)(cid:27)(cid:16)(cid:19)(cid:32)
+passed the 4 million mark in the third quarter
+(cid:33)(cid:27)(cid:34)(cid:21)(cid:35)(cid:31)(cid:35)(cid:15)(cid:27)(cid:21)(cid:35)(cid:17)(cid:20)(cid:22)(cid:34)(cid:27)(cid:21)(cid:19)(cid:22)(cid:23)(cid:36)(cid:10)(cid:22)(cid:34)(cid:35)(cid:37)(cid:24)(cid:21)(cid:30)(cid:24)(cid:27)(cid:20)(cid:28)(cid:22)(cid:26)(cid:31)(cid:27)(cid:16)(cid:19)(cid:32)
+of 2021 for the first time since 2011.
+(cid:11)(cid:10)(cid:6)(cid:6)(cid:6)
+(cid:7)(cid:10)(cid:11)(cid:6)(cid:6) (cid:12)(cid:1) The gains in participation have come primarily
+from two sources: higher participation of work-
+(cid:7)(cid:10)(cid:6)(cid:6)(cid:6)
+ers above prime age and women. As is common
+(cid:11)(cid:2)
+(cid:8)(cid:10)(cid:11)(cid:6)(cid:6) in other advanced economies, the participation
+of prime-age (aged 25-54) men has fallen
+(cid:8)(cid:10)(cid:6)(cid:6)(cid:6)
+slightly over the past two decades (Chart 5), by
+(cid:11)(cid:9)
+approximately one percentage point. By con-
+(cid:5)(cid:10)(cid:11)(cid:6)(cid:6)
+trast, the participation of prime-age women has
+(cid:5)(cid:10)(cid:6)(cid:6)(cid:6) kept rising and is now at 78%, over 15 per-
+(cid:11)(cid:11)
+centage points higher than in the early 2000s.
+(cid:1)(cid:10)(cid:11)(cid:6)(cid:6)
+This likely reflects a combination of demo-
+(cid:1)(cid:10)(cid:6)(cid:6)(cid:6) (cid:11)(cid:8) graphic and social factors, as younger women,
+(cid:1)(cid:2)(cid:2)(cid:3)(cid:4)(cid:1) (cid:5)(cid:6)(cid:6)(cid:1)(cid:4)(cid:5) (cid:5)(cid:6)(cid:6)(cid:7)(cid:4)(cid:8) (cid:5)(cid:6)(cid:6)(cid:9)(cid:4)(cid:7) (cid:5)(cid:6)(cid:1)(cid:1)(cid:4)(cid:1) (cid:5)(cid:6)(cid:1)(cid:7)(cid:4)(cid:5) (cid:5)(cid:6)(cid:1)(cid:9)(cid:4)(cid:8) (cid:5)(cid:6)(cid:5)(cid:6)(cid:4)(cid:7)
+with a much higher tendency to work outside
+(cid:38)(cid:17)(cid:25)(cid:34)(cid:31)(cid:19)(cid:26)(cid:39)(cid:40)(cid:41)(cid:42)(cid:38)(cid:40)(cid:27)(cid:20)(cid:28)(cid:40)(cid:13)(cid:25)(cid:34)(cid:17)(cid:26)(cid:21)(cid:27)(cid:21)(cid:43)
+the home, replace older cohorts. The partici-
+pation of prime-age women seems to have
+plateaued in recent years, and the pandemic
+(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:6)(cid:8)(cid:4)(cid:9)(cid:10)(cid:11)(cid:12)(cid:3)(cid:13)(cid:11)(cid:6)(cid:14)(cid:3)(cid:4)(cid:5)(cid:9)(cid:15)(cid:9)(cid:14)(cid:3)(cid:5)(cid:9)(cid:16)(cid:17)(cid:6)(cid:4)(cid:3)(cid:5)(cid:11)(cid:6)(cid:9)(cid:17)(cid:6)(cid:18)(cid:4)(cid:11)(cid:11)(cid:15)(cid:11)(cid:6)(cid:3)(cid:17)(cid:19)(cid:6)
+(cid:5)(cid:2)(cid:11)(cid:6)(cid:11)(cid:20)(cid:4)(cid:16)(cid:6)(cid:3)(cid:4)(cid:11)(cid:3) does not seem to have changed this. Interest-
+ingly, participation of prime-age men in Greece
+(cid:1)(cid:2)(cid:3) has been consistently slightly higher than in the
+(cid:4)(cid:11)(cid:14)(cid:11)(cid:15)(cid:16)(cid:17)(cid:18)(cid:19)(cid:20)(cid:21)(cid:22)(cid:16)(cid:23)(cid:24) (cid:4)(cid:11)(cid:14)(cid:11)(cid:15)(cid:16)(cid:25)(cid:20)(cid:21)(cid:22)(cid:16)(cid:23)(cid:24) rest of the euro area for the past two decades;
+(cid:4)(cid:11)(cid:14)(cid:11)(cid:15)(cid:16)(cid:17)(cid:18)(cid:19)(cid:20)(cid:21)(cid:22)(cid:16)(cid:23)(cid:26) (cid:4)(cid:11)(cid:14)(cid:11)(cid:15)(cid:16)(cid:25)(cid:20)(cid:21)(cid:22)(cid:16)(cid:23)(cid:26) for women, it has been lower, possibly reflect-
+(cid:7)(cid:5)(cid:5) (cid:7)(cid:5)(cid:5)
+ing, inter alia, the relative inadequacy of sup-
+port measures for motherhood, though the dif-
+ference has shrunk in recent years.
+(cid:10)(cid:5) (cid:10)(cid:5)
+As for older workers (aged 55-74), gains have
+been more modest but are just as important.
+(cid:12)(cid:5) (cid:12)(cid:5) The participation of the 55-74 age cohort has
+risen from 27% in 2008 to 34% in 2021 (Chart
+6). The gains are similar for both men and
+(cid:13)(cid:5) (cid:13)(cid:5) women, though for men participation is
+almost twice as high for this cohort. It is likely
+that participation gains for this group are the
+result of the various reforms that took place,
+(cid:9)(cid:5) (cid:9)(cid:5)
+(cid:4)(cid:5)(cid:5)(cid:5)(cid:6)(cid:7) (cid:4)(cid:5)(cid:5)(cid:8)(cid:6)(cid:7) (cid:4)(cid:5)(cid:5)(cid:9)(cid:6)(cid:7) (cid:4)(cid:5)(cid:5)(cid:10)(cid:6)(cid:7) (cid:4)(cid:5)(cid:7)(cid:4)(cid:6)(cid:7) (cid:4)(cid:5)(cid:7)(cid:11)(cid:6)(cid:7) (cid:4)(cid:5)(cid:7)(cid:12)(cid:6)(cid:7) (cid:4)(cid:5)(cid:4)(cid:7)(cid:6)(cid:7)
+which discourage early retirement; participa-
+(cid:27)(cid:18)(cid:28)(cid:29)(cid:30)(cid:20)(cid:31)(cid:32)(cid:33)(cid:24)(cid:34)(cid:27)(cid:33)(cid:35)(cid:21)(cid:36)(cid:33)(cid:23)(cid:28)(cid:29)(cid:18)(cid:31)(cid:37)(cid:35)(cid:37)(cid:38) tion for these groups is likely to increase
+(cid:39)(cid:18)(cid:37)(cid:20)(cid:32)(cid:33)(cid:23)(cid:24)(cid:33)(cid:40)(cid:33)(cid:41)(cid:29)(cid:20)(cid:20)(cid:30)(cid:20)(cid:22)(cid:33)(cid:23)(cid:26)(cid:33)(cid:40)(cid:33)(cid:20)(cid:28)(cid:29)(cid:18)(cid:33)(cid:35)(cid:29)(cid:20)(cid:35)(cid:38)
+further, as cohorts benefitting from early
+retirement policies are replaced by younger
+United States and the United Kingdom, ones. Newer policies, which substantially
+though not in the EU). The participation of lower pension reductions for working pen-
+workers aged 15-74 (Chart 4) is as high now as sioners, are expected to further fuel this trend.
+it was in 2010; following a predictable fall at On the other hand, the pandemic may have
+56
+52 EconomicBulletin
+December2022
+
+--- PAGE BREAK ---
+
+also hastened retirement for these workers, as (cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:6)(cid:8)(cid:3)(cid:4)(cid:5)(cid:9)(cid:10)(cid:9)(cid:11)(cid:3)(cid:5)(cid:9)(cid:12)(cid:13)(cid:6)(cid:4)(cid:3)(cid:5)(cid:14)(cid:15)(cid:6)(cid:16)(cid:12)(cid:4)(cid:6)(cid:17)(cid:12)(cid:4)(cid:18)(cid:14)(cid:4)(cid:15)(cid:6)(cid:3)(cid:19)(cid:14)(cid:20)(cid:6)(cid:21)(cid:21)(cid:22)(cid:23)(cid:24)(cid:6)
+was the case in other countries, so perhaps (cid:9)(cid:13)(cid:6)(cid:25)(cid:4)(cid:14)(cid:14)(cid:10)(cid:14)(cid:6)(cid:3)(cid:13)(cid:20)(cid:6)(cid:5)(cid:2)(cid:14)(cid:6)(cid:14)(cid:26)(cid:4)(cid:12)(cid:6)(cid:3)(cid:4)(cid:14)(cid:3)
+these trends may have been delayed. The
+(cid:1)(cid:2)(cid:3)
+increase in the participation rate, particularly
+(cid:9)(cid:9)(cid:14)(cid:15)(cid:10)(cid:16)(cid:17)(cid:18)(cid:19)(cid:20)(cid:21)(cid:22)(cid:16)(cid:23)(cid:24) (cid:9)(cid:9)(cid:14)(cid:15)(cid:10)(cid:16)(cid:25)(cid:20)(cid:21)(cid:22)(cid:16)(cid:23)(cid:24)
+because it is not merely a cyclical phenome-
+(cid:9)(cid:9)(cid:14)(cid:15)(cid:10)(cid:16)(cid:17)(cid:18)(cid:19)(cid:20)(cid:21)(cid:22)(cid:16)(cid:23)(cid:26) (cid:9)(cid:9)(cid:14)(cid:15)(cid:10)(cid:16)(cid:25)(cid:20)(cid:21)(cid:22)(cid:16)(cid:23)(cid:26)
+non but rather part of a larger trend, is
+(cid:9)(cid:5) (cid:9)(cid:5)
+encouraging regarding the growth potential of
+the labour market. The participation of older
+men was higher than in the rest of the euro (cid:10)(cid:5) (cid:10)(cid:5)
+area until the crisis, perhaps due to the higher
+rate of self-employment, falling substantially
+(cid:7)(cid:5) (cid:7)(cid:5)
+below at the onset of the crisis due to early
+retirements. Participation of older women,
+however, remains substantially lower. (cid:4)(cid:5) (cid:4)(cid:5)
+Finally, Chart 7 shows the employment-to-pop-
+(cid:8)(cid:5) (cid:8)(cid:5)
+ulation ratio for the 15-74 age group, a rea-
+sonably model-free metric of tightness of the
+labour market. It has risen substantially from (cid:5) (cid:5)
+(cid:4)(cid:5)(cid:5)(cid:5)(cid:6)(cid:4) (cid:4)(cid:5)(cid:5)(cid:7)(cid:6)(cid:8) (cid:4)(cid:5)(cid:5)(cid:9)(cid:6)(cid:10) (cid:4)(cid:5)(cid:5)(cid:11)(cid:6)(cid:7) (cid:4)(cid:5)(cid:8)(cid:8)(cid:6)(cid:4) (cid:4)(cid:5)(cid:8)(cid:10)(cid:6)(cid:8) (cid:4)(cid:5)(cid:8)(cid:12)(cid:6)(cid:10) (cid:4)(cid:5)(cid:8)(cid:13)(cid:6)(cid:7) (cid:4)(cid:5)(cid:4)(cid:4)(cid:6)(cid:4)
+its low of the previous decade and has resumed
+(cid:27)(cid:18)(cid:28)(cid:29)(cid:30)(cid:20)(cid:31)(cid:32)(cid:33)(cid:24)(cid:34)(cid:27)(cid:33)(cid:35)(cid:21)(cid:36)(cid:33)(cid:23)(cid:28)(cid:29)(cid:18)(cid:31)(cid:37)(cid:35)(cid:37)(cid:38)
+its pre-pandemic trend as of 2022. On the other
+(cid:39)(cid:18)(cid:37)(cid:20)(cid:32)(cid:33)(cid:23)(cid:24)(cid:33)(cid:40)(cid:33)(cid:41)(cid:29)(cid:20)(cid:20)(cid:30)(cid:20)(cid:22)(cid:33)(cid:23)(cid:26)(cid:33)(cid:40)(cid:33)(cid:20)(cid:28)(cid:29)(cid:18)(cid:33)(cid:35)(cid:29)(cid:20)(cid:35)(cid:38)
+hand, it is still below its pre-crisis level, sug-
+gesting that further gains may be possible due
+to the various reforms enacted during the sov- (cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:6)(cid:8)(cid:9)(cid:10)(cid:11)(cid:12)(cid:13)(cid:9)(cid:14)(cid:15)(cid:5)(cid:16)(cid:5)(cid:12)(cid:16)(cid:10)(cid:12)(cid:10)(cid:17)(cid:11)(cid:3)(cid:5)(cid:18)(cid:12)(cid:15)(cid:6)(cid:4)(cid:3)(cid:5)(cid:18)(cid:12)(cid:6)(cid:18)(cid:15)(cid:6)(cid:19)(cid:4)(cid:14)(cid:14)(cid:20)(cid:14)(cid:6)
+(cid:3)(cid:15)(cid:21)(cid:6)(cid:5)(cid:2)(cid:14)(cid:6)(cid:14)(cid:17)(cid:4)(cid:12)(cid:6)(cid:3)(cid:4)(cid:14)(cid:3)
+ereign debt crisis to raise participation, cou-
+pled with rising longevity and reductions in
+(cid:1)(cid:2)(cid:3)
+early retirements.
+(cid:14)(cid:15)(cid:16)(cid:16)(cid:17)(cid:16) (cid:18)(cid:19)(cid:15)(cid:20)(cid:21)(cid:22)(cid:15)(cid:16)(cid:22)
+As such, even though the working age popu- (cid:12)(cid:5) (cid:12)(cid:5)
+lation and the labour force may have shrunk
+over the past fifteen years, the higher partici-
+pation rate means that the new equilibrium (cid:9)(cid:9) (cid:9)(cid:9)
+may allow for a higher employment-to-popu-
+lation ratio. All in all, this graphical evidence
+suggests that, despite having improved, the
+(cid:9)(cid:5) (cid:9)(cid:5)
+Greek labour market is still some way away
+from fully utilising its human capital.
+(cid:10)(cid:9) (cid:10)(cid:9)
+Furthermore, the aforementioned analysis
+notwithstanding, the overall labour force par-
+ticipation rate in 2022 remained almost 5 per-
+centage points lower than the euro area aver- (cid:10)(cid:5) (cid:10)(cid:5)
+(cid:4)(cid:5)(cid:5)(cid:5)(cid:6)(cid:4) (cid:4)(cid:5)(cid:5)(cid:7)(cid:6)(cid:8) (cid:4)(cid:5)(cid:5)(cid:9)(cid:6)(cid:10) (cid:4)(cid:5)(cid:5)(cid:11)(cid:6)(cid:7) (cid:4)(cid:5)(cid:8)(cid:8)(cid:6)(cid:4) (cid:4)(cid:5)(cid:8)(cid:10)(cid:6)(cid:8) (cid:4)(cid:5)(cid:8)(cid:12)(cid:6)(cid:10) (cid:4)(cid:5)(cid:8)(cid:13)(cid:6)(cid:7) (cid:4)(cid:5)(cid:4)(cid:4)(cid:6)(cid:4)
+age (Chart 8). This is a perennial problem of
+(cid:23)(cid:20)(cid:19)(cid:15)(cid:17)(cid:16)(cid:24)(cid:25)(cid:26)(cid:27)(cid:28)(cid:23)(cid:26)(cid:22)(cid:29)(cid:30)(cid:26)(cid:18)(cid:19)(cid:15)(cid:20)(cid:24)(cid:31)(cid:22)(cid:31)(cid:32)
+the Greek economy as the lack of support
+measures for motherhood discourages women
+from entering the labour market, while the that would support employment, increase
+family support net in the Greek society is a skills and enhance the experience of workers,
+disincentive for young people to seek a job. especially those most vulnerable, would
+On this front, active labour market policies increase attachment to the labour market and
+56
+EconomicBulletin 53
+December2022
+
+--- PAGE BREAK ---
+
+(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:6)(cid:8)(cid:9)(cid:10)(cid:11)(cid:12)(cid:13)(cid:14)(cid:15)(cid:11)(cid:10)(cid:9)(cid:5)(cid:6)(cid:4)(cid:3)(cid:5)(cid:10)(cid:6)(cid:3)(cid:9)(cid:16)(cid:6)(cid:13)(cid:3)(cid:17)(cid:14)(cid:18)(cid:4)(cid:6)(cid:19)(cid:14)(cid:4)(cid:20)(cid:10)(cid:6) •unemployed people;
+(cid:12)(cid:3)(cid:4)(cid:5)(cid:21)(cid:20)(cid:21)(cid:12)(cid:3)(cid:5)(cid:21)(cid:14)(cid:9)(cid:6)(cid:4)(cid:3)(cid:5)(cid:10)
+•underemployed part-time workers who want
+(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:5)(cid:8)(cid:6)(cid:4)(cid:9)(cid:10)(cid:6)(cid:11)(cid:4)(cid:12)(cid:13)(cid:14)(cid:15)(cid:16)(cid:17)
+to work more;
+(cid:24)(cid:25)(cid:6)(cid:26)(cid:5)(cid:8)(cid:7)(cid:27)(cid:26)(cid:6)(cid:25)(cid:28)(cid:29)(cid:30)(cid:9)(cid:28)(cid:6)(cid:29)(cid:14)(cid:29)(cid:31)(cid:32)(cid:29)(cid:1)(cid:8)(cid:33)(cid:34)(cid:17) (cid:35)(cid:9)(cid:30)(cid:28)(cid:36)(cid:37)(cid:36)(cid:5)(cid:9)(cid:28)(cid:36)(cid:7)(cid:25)(cid:29)(cid:30)(cid:9)(cid:28)(cid:6)(cid:29)(cid:14)(cid:29)(cid:31)(cid:32)(cid:29)(cid:1)(cid:30)(cid:33)(cid:34)(cid:17)
+(cid:24)(cid:25)(cid:6)(cid:26)(cid:5)(cid:8)(cid:7)(cid:27)(cid:26)(cid:6)(cid:25)(cid:28)(cid:29)(cid:30)(cid:9)(cid:28)(cid:6)(cid:29)(cid:14)(cid:29)(cid:31)(cid:38)(cid:29)(cid:1)(cid:8)(cid:33)(cid:34)(cid:17) (cid:35)(cid:9)(cid:30)(cid:28)(cid:36)(cid:37)(cid:36)(cid:5)(cid:9)(cid:28)(cid:36)(cid:7)(cid:25)(cid:29)(cid:30)(cid:9)(cid:28)(cid:6)(cid:29)(cid:14)(cid:29)(cid:31)(cid:38)(cid:29)(cid:1)(cid:30)(cid:33)(cid:34)(cid:17) •people who are available to work but are not
+(cid:22)(cid:19) (cid:15)(cid:19) looking for work;
+(cid:23)(cid:13) •people who are looking for work but are not
+(cid:18)(cid:13)
+available for work.
+(cid:23)(cid:19)
+The first two groups belong to the definition of
+(cid:18)(cid:19)
+(cid:13)(cid:13) the labour force, but the last two belong to the
+definition of inactive persons and are outside
+(cid:12)(cid:13) (cid:13)(cid:19) the labour force. For the analysis of labour
+market slack, we use the “extended labour
+(cid:16)(cid:13) force”, which is the sum of labour force plus
+(cid:12)(cid:19)
+the two last groups.
+(cid:16)(cid:19)
+(cid:13) Chart 9 shows labour market slack as a share
+(cid:22)(cid:13) of the extended labour force for the euro area
+Member States and its decomposition for the
+(cid:19) (cid:22)(cid:19) second quarter of 2022. In addition, the aggre-
+(cid:18)(cid:19)(cid:12)(cid:20)(cid:21)(cid:16) (cid:18)(cid:19)(cid:18)(cid:19)(cid:21)(cid:18) (cid:18)(cid:19)(cid:18)(cid:19)(cid:21)(cid:16) (cid:18)(cid:19)(cid:18)(cid:12)(cid:21)(cid:18) (cid:18)(cid:19)(cid:18)(cid:12)(cid:21)(cid:16) (cid:18)(cid:19)(cid:18)(cid:18)(cid:21)(cid:18)
+gate share for the fourth quarter of 2019 (the
+(cid:39)(cid:7)(cid:40)(cid:30)(cid:37)(cid:6)(cid:41)(cid:4)(cid:31)(cid:40)(cid:30)(cid:7)(cid:34)(cid:28)(cid:9)(cid:28)(cid:42) last quarter before the outbreak of COVID-19
+(cid:43)(cid:7)(cid:28)(cid:6)(cid:41)(cid:4)(cid:31)(cid:32)(cid:4)(cid:44)(cid:4)(cid:45)(cid:30)(cid:6)(cid:6)(cid:37)(cid:6)(cid:3)(cid:4)(cid:31)(cid:38)(cid:4)(cid:44)(cid:4)(cid:6)(cid:40)(cid:30)(cid:7)(cid:4)(cid:9)(cid:30)(cid:6)(cid:9)(cid:42)
+pandemic) is presented.
+eventually result in higher employment and In the second quarter of 2022, euro area
+participation rates. In light of the adverse labour market slack, as measured by the same
+demographic developments and the exodus of metric, stood at around 13.5% of the extended
+young skilled workers with enhanced human labour force compared to 15.0% before the
+capital, especially after the recent economic outbreak of the pandemic. Unemployment
+crisis, the role of active labour market policies accounts for half of this percentage, while the
+along with labour market reforms seems to rest is divided between people who are avail-
+be crucial. able but not seeking a job and people who are
+seeking a job but are not available. Greece
+3 LABOUR MARKET SLACK IN THE GREEK had the third largest share, mainly due to the
+ECONOMY high unemployment rate (11.8% of the
+extended labour force), behind Spain and
+Further to the unemployment rate, another Italy, while in the fourth quarter of 2019 it
+indicator that is widely used to examine slack registered the highest rate. The second largest
+in the labour market is related to a wider contributor was underemployed part-time
+notion of underutilisation. Indeed, to better workers (3.4% of the extended labour force),
+reflect the unmet need for employment, labour as many employees work part-time, while they
+market slack consists of all people who are not
+fully utilised in the labour market, but express 6 According to Eurostat, “persons seeking work but not immedi-
+ately available, consists mostly of people who do not qualify as
+their willingness to offer more. Following unemployed because of their limited availability to start in a new
+Eurostat, there are four different groups that job, despite their being jobseekers”. For more details, see
+https://op.europa.eu/en/publication-detail/-/publication/30df990e-
+belong to the above definition:6 7eea-4dbb-8846-7e9808e3bb65.
+56
+54 EconomicBulletin
+December2022
+
+--- PAGE BREAK ---
+
+Chart 9 Labour market slack in the euro area
+(2022:Q2)
+(cid:9)(cid:6)(cid:3)(cid:80)(cid:71)(cid:3)(cid:85)(cid:73)(cid:70)(cid:3)(cid:70)(cid:89)(cid:85)(cid:70)(cid:79)(cid:69)(cid:70)(cid:69)(cid:3)(cid:77)(cid:66)(cid:67)(cid:80)(cid:86)(cid:83)(cid:3)(cid:71)(cid:80)(cid:83)(cid:68)(cid:70)(cid:13)(cid:3)(cid:81)(cid:70)(cid:80)(cid:81)(cid:77)(cid:70)(cid:3)(cid:66)(cid:72)(cid:70)(cid:69)(cid:3)(cid:18)(cid:22)(cid:14)(cid:24)(cid:21)(cid:13)(cid:3)(cid:84)(cid:70)(cid:66)(cid:84)(cid:80)(cid:79)(cid:66)(cid:77)(cid:77)(cid:90)
+(cid:66)(cid:69)(cid:75)(cid:86)(cid:84)(cid:85)(cid:70)(cid:69)(cid:3)(cid:69)(cid:66)(cid:85)(cid:66)(cid:10)
+want to work more hours and increase their Labour market slack improved in almost all
+income. The third largest category is people Member States (with the exception of Estonia,
+who are available to work but are not seeking Slovakia and Germany) after the pandemic.
+employment (2.5% of the extended labour The most significant improvement was realised
+force); these people are usually those dis- in Greece, as this share of the extended labour
+couraged from a long absence from the labour force declined from 24.3% in the fourth quar-
+market and are not actively searching for a ter of 2019 to 18.0% in the second quarter of
+new job. The long absence from the labour 2022. Chart 10 shows the differences between
+market often leads to a deterioration of their the two periods. Labour market slack declined
+skills. If we examine the share of people who by 6.3 percentage points in Greece, compared
+are available but not seeking a job over time, to 1.5 percentage points in the euro area; all
+the highest rates were observed during the four components contributed to the decline,
+periods of lockdown, i.e. in the second quar- though the drop in the unemployment rate was
+ter of 2020 (4.6% of the extended labour the main factor.
+force), in the fourth quarter of 2020 (5.1% of
+the extended labour force) and in the first Excluding the unemployment rate, the remain-
+quarter of 2021 (6.4% of the extended labour ing three components comprise the potential
+force), as they probably had to take care of the additional labour force (Chart 11). In this case,
+children who were attending school at home the share of Greece is lower relative to the
+and elderly people. euro area average (6.2% compared to 7.1% in
+56
+EconomicBulletin 55
+December2022
+(cid:66)(cid:70)(cid:83)(cid:66)(cid:136)(cid:80)(cid:83)(cid:86)(cid:38) (cid:79)(cid:74)(cid:66)(cid:81)(cid:52) (cid:90)(cid:77)(cid:66)(cid:85)(cid:42) (cid:70)(cid:68)(cid:70)(cid:70)(cid:83)(cid:40) (cid:70)(cid:68)(cid:79)(cid:66)(cid:83)(cid:39) (cid:69)(cid:79)(cid:66)(cid:77)(cid:79)(cid:74)(cid:39) (cid:84)(cid:86)(cid:83)(cid:81)(cid:90)(cid:36) (cid:77)(cid:66)(cid:72)(cid:86)(cid:85)(cid:83)(cid:80)(cid:49) (cid:78)(cid:86)(cid:74)(cid:72)(cid:77)(cid:70)(cid:35) (cid:72)(cid:83)(cid:86)(cid:80)(cid:67)(cid:78)(cid:70)(cid:89)(cid:86)(cid:45) (cid:84)(cid:69)(cid:79)(cid:66)(cid:77)(cid:83)(cid:70)(cid:73)(cid:85)(cid:70)(cid:47) (cid:69)(cid:79)(cid:66)(cid:77)(cid:70)(cid:83)(cid:42) (cid:66)(cid:74)(cid:87)(cid:85)(cid:66)(cid:45) (cid:66)(cid:74)(cid:79)(cid:80)(cid:85)(cid:84)(cid:38) (cid:66)(cid:74)(cid:83)(cid:85)(cid:84)(cid:86)(cid:34) (cid:66)(cid:74)(cid:79)(cid:66)(cid:86)(cid:73)(cid:85)(cid:74)(cid:45) (cid:66)(cid:74)(cid:76)(cid:66)(cid:87)(cid:80)(cid:77)(cid:52) (cid:66)(cid:74)(cid:79)(cid:70)(cid:87)(cid:80)(cid:77)(cid:52) (cid:90)(cid:79)(cid:66)(cid:78)(cid:83)(cid:70)(cid:40) (cid:66)(cid:85)(cid:77)(cid:66)(cid:46)
+Chart 10 Change in labour market slack in the euro
+area (2019:Q4-2022:Q2)
+(cid:9)(cid:81)(cid:70)(cid:83)(cid:68)(cid:70)(cid:79)(cid:85)(cid:66)(cid:72)(cid:70)(cid:3)(cid:81)(cid:80)(cid:74)(cid:79)(cid:85)(cid:84)(cid:13)(cid:3)(cid:81)(cid:70)(cid:80)(cid:81)(cid:77)(cid:70)(cid:3)(cid:66)(cid:72)(cid:70)(cid:69)(cid:3)(cid:18)(cid:22)(cid:14)(cid:24)(cid:21)(cid:13)(cid:3)(cid:84)(cid:70)(cid:66)(cid:84)(cid:80)(cid:79)(cid:66)(cid:77)(cid:77)(cid:90)(cid:3)(cid:66)(cid:69)(cid:75)(cid:86)(cid:84)(cid:85)(cid:70)(cid:69)(cid:3)
+(cid:69)(cid:66)(cid:85)(cid:66)(cid:10)
+(cid:54)(cid:79)(cid:70)(cid:78)(cid:81)(cid:77)(cid:80)(cid:90)(cid:78)(cid:70)(cid:79)(cid:85) (cid:34)(cid:87)(cid:66)(cid:74)(cid:77)(cid:66)(cid:67)(cid:77)(cid:70)(cid:3)(cid:67)(cid:86)(cid:85)(cid:3)(cid:79)(cid:80)(cid:85)(cid:3)(cid:84)(cid:70)(cid:70)(cid:76)(cid:74)(cid:79)(cid:72)
+(cid:52)(cid:70)(cid:70)(cid:76)(cid:74)(cid:79)(cid:72)(cid:3)(cid:67)(cid:86)(cid:85)(cid:3)(cid:79)(cid:80)(cid:85)(cid:3)(cid:66)(cid:87)(cid:66)(cid:74)(cid:77)(cid:66)(cid:67)(cid:77)(cid:70) (cid:54)(cid:79)(cid:69)(cid:70)(cid:83)(cid:70)(cid:78)(cid:81)(cid:77)(cid:80)(cid:90)(cid:70)(cid:69)(cid:3)(cid:81)(cid:66)(cid:83)(cid:85)(cid:14)(cid:85)(cid:74)(cid:78)(cid:70)(cid:3)(cid:88)(cid:80)(cid:83)(cid:76)(cid:70)(cid:83)(cid:84)
+(cid:45)(cid:66)(cid:67)(cid:80)(cid:86)(cid:83)(cid:3)(cid:78)(cid:66)(cid:83)(cid:76)(cid:70)(cid:85)(cid:3)(cid:84)(cid:77)(cid:66)(cid:68)(cid:76)(cid:13)(cid:3)(cid:19)(cid:17)(cid:18)(cid:26)(cid:27)(cid:50)(cid:21)
+(cid:20)(cid:17) (cid:20)(cid:17)
+(cid:19)(cid:22) (cid:19)(cid:22)
+(cid:19)(cid:17) (cid:19)(cid:17)
+(cid:18)(cid:22) (cid:18)(cid:22)
+(cid:18)(cid:17) (cid:18)(cid:17)
+(cid:22) (cid:22)
+(cid:17) (cid:17)
+(cid:66)(cid:70)(cid:83)(cid:66)(cid:136)(cid:80)(cid:83)(cid:86)(cid:38) (cid:70)(cid:68)(cid:70)(cid:70)(cid:83)(cid:40) (cid:69)(cid:79)(cid:66)(cid:77)(cid:79)(cid:74)(cid:39) (cid:69)(cid:79)(cid:66)(cid:77)(cid:70)(cid:83)(cid:42) (cid:84)(cid:69)(cid:79)(cid:66)(cid:77)(cid:83)(cid:70)(cid:73)(cid:85)(cid:70)(cid:47) (cid:90)(cid:77)(cid:66)(cid:85)(cid:42) (cid:70)(cid:68)(cid:79)(cid:66)(cid:83)(cid:39) (cid:66)(cid:85)(cid:77)(cid:66)(cid:46) (cid:79)(cid:74)(cid:66)(cid:81)(cid:52) (cid:77)(cid:66)(cid:72)(cid:86)(cid:85)(cid:83)(cid:80)(cid:49) (cid:78)(cid:86)(cid:74)(cid:72)(cid:77)(cid:70)(cid:35) (cid:66)(cid:74)(cid:87)(cid:85)(cid:66)(cid:45) (cid:84)(cid:86)(cid:83)(cid:81)(cid:90)(cid:36) (cid:66)(cid:74)(cid:83)(cid:85)(cid:84)(cid:86)(cid:34) (cid:66)(cid:74)(cid:79)(cid:70)(cid:87)(cid:80)(cid:77)(cid:52) (cid:72)(cid:83)(cid:86)(cid:80)(cid:67)(cid:78)(cid:70)(cid:89)(cid:86)(cid:45) (cid:66)(cid:74)(cid:79)(cid:66)(cid:86)(cid:73)(cid:85)(cid:74)(cid:45) (cid:66)(cid:74)(cid:76)(cid:66)(cid:87)(cid:80)(cid:77)(cid:52) (cid:90)(cid:79)(cid:66)(cid:78)(cid:83)(cid:70)(cid:40) (cid:66)(cid:74)(cid:79)(cid:80)(cid:85)(cid:84)(cid:38)
+(cid:54)(cid:79)(cid:70)(cid:78)(cid:81)(cid:77)(cid:80)(cid:90)(cid:78)(cid:70)(cid:79)(cid:85) (cid:34)(cid:87)(cid:66)(cid:74)(cid:77)(cid:66)(cid:67)(cid:77)(cid:70)(cid:136)(cid:67)(cid:86)(cid:85)(cid:136)(cid:79)(cid:80)(cid:85)(cid:136)(cid:84)(cid:70)(cid:70)(cid:76)(cid:74)(cid:79)(cid:72)
+(cid:52)(cid:70)(cid:70)(cid:76)(cid:74)(cid:79)(cid:72)(cid:136)(cid:67)(cid:86)(cid:85)(cid:136)(cid:79)(cid:80)(cid:85)(cid:136)(cid:66)(cid:87)(cid:66)(cid:74)(cid:77)(cid:66)(cid:67)(cid:77)(cid:70) (cid:54)(cid:79)(cid:69)(cid:70)(cid:83)(cid:70)(cid:78)(cid:81)(cid:77)(cid:80)(cid:90)(cid:70)(cid:69)(cid:136)(cid:81)(cid:66)(cid:83)(cid:85)(cid:14)(cid:85)(cid:74)(cid:78)(cid:70)(cid:136)(cid:88)(cid:80)(cid:83)(cid:76)(cid:70)(cid:83)(cid:84)
+(cid:36)(cid:73)(cid:66)(cid:79)(cid:72)(cid:70)(cid:3)(cid:74)(cid:79)(cid:3)(cid:77)(cid:66)(cid:67)(cid:80)(cid:86)(cid:83)(cid:3)(cid:78)(cid:66)(cid:83)(cid:76)(cid:70)(cid:85)(cid:3)(cid:84)(cid:77)(cid:66)(cid:68)(cid:76)
+(cid:20) (cid:20)
+(cid:19) (cid:19)
+(cid:18) (cid:18)
+(cid:17) (cid:17)
+(cid:14)(cid:18) (cid:14)(cid:18)
+(cid:14)(cid:19) (cid:14)(cid:19)
+(cid:14)(cid:20) (cid:14)(cid:20)
+(cid:14)(cid:21) (cid:14)(cid:21)
+(cid:14)(cid:22) (cid:14)(cid:22)
+(cid:14)(cid:23) (cid:14)(cid:23)
+(cid:14)(cid:24) (cid:14)(cid:24)
+
+--- PAGE BREAK ---
+
+Chart 11 Shares of the potential additional labour
+force in the euro area (2022:Q2)
+(cid:9)(cid:6)(cid:3)(cid:80)(cid:71)(cid:3)(cid:85)(cid:73)(cid:70)(cid:3)(cid:70)(cid:89)(cid:85)(cid:70)(cid:79)(cid:69)(cid:70)(cid:69)(cid:3)(cid:77)(cid:66)(cid:67)(cid:80)(cid:86)(cid:83)(cid:3)(cid:71)(cid:80)(cid:83)(cid:68)(cid:70)(cid:13)(cid:3)(cid:81)(cid:70)(cid:80)(cid:81)(cid:77)(cid:70)(cid:3)(cid:66)(cid:72)(cid:70)(cid:69)(cid:3)(cid:18)(cid:22)(cid:14)(cid:24)(cid:21)(cid:13)(cid:3)(cid:84)(cid:70)(cid:66)(cid:84)(cid:80)(cid:79)(cid:66)(cid:77)(cid:77)(cid:90)
+(cid:66)(cid:69)(cid:75)(cid:86)(cid:84)(cid:85)(cid:70)(cid:69)(cid:3)(cid:69)(cid:66)(cid:85)(cid:66)(cid:10)
+the euro area). In addition, the share of peo- market should be considered. These include
+ple who are seeking a job, but are not available, easier access to nurseries for young children
+is the third lowest across euro area Member and care homes for the elderly, subsidies for
+States. hiring women, (re)training programmes and
+policies for enhancing their skills. Such poli-
+The share of potential additional labour force cies would encourage women to join the
+is almost double for women (8.3% of the labour force and increase their activity rates
+extended labour force) compared to men and thus, subsequently, total labour force par-
+(4.4% of the extended labour force) (Chart ticipation.
+12). Even though this share has declined com-
+pared to the fourth quarter of 2019, it remains
+high. The share of available but not seeking 4 TIGHTNESS IN THE GREEK LABOUR MARKET:
+women (discouraged workers) is more than JOB VACANCY RATES AND UNEMPLOYMENT
+double compared with the share of men.
+Additional reforms and the implementation of Labour market tightness reflects the relative
+more targeted measures to increase female abundance of vacancies as compared to those
+participation and attachment to the labour seeking for a job. The pandemic resulted in a
+56
+56 EconomicBulletin
+December2022
+(cid:66)(cid:70)(cid:83)(cid:66)(cid:136)(cid:80)(cid:83)(cid:86)(cid:38) (cid:90)(cid:77)(cid:66)(cid:85)(cid:42) (cid:79)(cid:74)(cid:66)(cid:81)(cid:52) (cid:69)(cid:79)(cid:66)(cid:77)(cid:79)(cid:74)(cid:39) (cid:70)(cid:68)(cid:79)(cid:66)(cid:83)(cid:39) (cid:84)(cid:69)(cid:79)(cid:66)(cid:77)(cid:83)(cid:70)(cid:73)(cid:85)(cid:70)(cid:47) (cid:72)(cid:83)(cid:86)(cid:80)(cid:67)(cid:78)(cid:70)(cid:89)(cid:86)(cid:45) (cid:69)(cid:79)(cid:66)(cid:77)(cid:70)(cid:83)(cid:42) (cid:70)(cid:68)(cid:70)(cid:70)(cid:83)(cid:40) (cid:84)(cid:86)(cid:83)(cid:81)(cid:90)(cid:36) (cid:66)(cid:74)(cid:83)(cid:85)(cid:84)(cid:86)(cid:34) (cid:78)(cid:86)(cid:74)(cid:72)(cid:77)(cid:70)(cid:35) (cid:77)(cid:66)(cid:72)(cid:86)(cid:85)(cid:83)(cid:80)(cid:49) (cid:66)(cid:74)(cid:79)(cid:80)(cid:85)(cid:84)(cid:38) (cid:66)(cid:74)(cid:87)(cid:85)(cid:66)(cid:45) (cid:90)(cid:79)(cid:66)(cid:78)(cid:83)(cid:70)(cid:40) (cid:66)(cid:74)(cid:79)(cid:66)(cid:86)(cid:73)(cid:85)(cid:74)(cid:45) (cid:66)(cid:74)(cid:79)(cid:70)(cid:87)(cid:80)(cid:77)(cid:52) (cid:66)(cid:85)(cid:77)(cid:66)(cid:46) (cid:66)(cid:74)(cid:76)(cid:66)(cid:87)(cid:80)(cid:77)(cid:52)
+Chart 12 Shares of the potential additional labour
+force in Greece by gender (2022:Q2)
+(cid:9)(cid:6)(cid:3)(cid:80)(cid:71)(cid:3)(cid:85)(cid:73)(cid:70)(cid:3)(cid:70)(cid:89)(cid:85)(cid:70)(cid:79)(cid:69)(cid:70)(cid:69)(cid:3)(cid:77)(cid:66)(cid:67)(cid:80)(cid:86)(cid:83)(cid:3)(cid:71)(cid:80)(cid:83)(cid:68)(cid:70)(cid:13)(cid:3)(cid:81)(cid:70)(cid:80)(cid:81)(cid:77)(cid:70)(cid:3)(cid:66)(cid:72)(cid:70)(cid:69)(cid:3)(cid:18)(cid:22)(cid:14)(cid:24)(cid:21)(cid:13)(cid:3)(cid:84)(cid:70)(cid:66)(cid:84)(cid:80)(cid:79)(cid:66)(cid:77)(cid:77)(cid:90)
+(cid:66)(cid:69)(cid:75)(cid:86)(cid:84)(cid:85)(cid:70)(cid:69)(cid:3)(cid:69)(cid:66)(cid:85)(cid:66)(cid:10)
+(cid:34)(cid:87)(cid:66)(cid:74)(cid:77)(cid:66)(cid:67)(cid:77)(cid:70)(cid:136)(cid:67)(cid:86)(cid:85)(cid:136)(cid:79)(cid:80)(cid:85)(cid:136)(cid:84)(cid:70)(cid:70)(cid:76)(cid:74)(cid:79)(cid:72) (cid:34)(cid:87)(cid:66)(cid:74)(cid:77)(cid:66)(cid:67)(cid:77)(cid:70)(cid:136)(cid:67)(cid:86)(cid:85)(cid:136)(cid:79)(cid:80)(cid:85)(cid:136)(cid:84)(cid:70)(cid:70)(cid:76)(cid:74)(cid:79)(cid:72)
+(cid:52)(cid:70)(cid:70)(cid:76)(cid:74)(cid:79)(cid:72)(cid:136)(cid:67)(cid:86)(cid:85)(cid:136)(cid:79)(cid:80)(cid:85)(cid:136)(cid:66)(cid:87)(cid:66)(cid:74)(cid:77)(cid:66)(cid:67)(cid:77)(cid:70) (cid:52)(cid:70)(cid:70)(cid:76)(cid:74)(cid:79)(cid:72)(cid:136)(cid:67)(cid:86)(cid:85)(cid:136)(cid:79)(cid:80)(cid:85)(cid:136)(cid:66)(cid:87)(cid:66)(cid:74)(cid:77)(cid:66)(cid:67)(cid:77)(cid:70)
+(cid:54)(cid:79)(cid:69)(cid:70)(cid:83)(cid:70)(cid:78)(cid:81)(cid:77)(cid:80)(cid:90)(cid:70)(cid:69)(cid:136)(cid:81)(cid:66)(cid:83)(cid:85)(cid:14)(cid:85)(cid:74)(cid:78)(cid:70)(cid:136)(cid:88)(cid:80)(cid:83)(cid:76)(cid:70)(cid:83)(cid:84) (cid:54)(cid:79)(cid:69)(cid:70)(cid:83)(cid:70)(cid:78)(cid:81)(cid:77)(cid:80)(cid:90)(cid:70)(cid:69)(cid:136)(cid:81)(cid:66)(cid:83)(cid:85)(cid:14)(cid:85)(cid:74)(cid:78)(cid:70)(cid:136)(cid:88)(cid:80)(cid:83)(cid:76)(cid:70)(cid:83)(cid:84)
+(cid:49)(cid:80)(cid:85)(cid:70)(cid:79)(cid:85)(cid:74)(cid:66)(cid:77)(cid:136)(cid:66)(cid:69)(cid:69)(cid:74)(cid:85)(cid:74)(cid:80)(cid:79)(cid:66)(cid:77)(cid:136)(cid:77)(cid:66)(cid:67)(cid:80)(cid:86)(cid:83)(cid:136)(cid:71)(cid:80)(cid:83)(cid:68)(cid:70)(cid:13)(cid:136)(cid:19)(cid:17)(cid:18)(cid:26)(cid:27)(cid:50)(cid:21) (cid:49)(cid:80)(cid:85)(cid:70)(cid:79)(cid:85)(cid:74)(cid:66)(cid:77)(cid:136)(cid:66)(cid:69)(cid:69)(cid:74)(cid:85)(cid:74)(cid:80)(cid:79)(cid:66)(cid:77)(cid:136)(cid:77)(cid:66)(cid:67)(cid:80)(cid:86)(cid:83)(cid:136)(cid:71)(cid:80)(cid:83)(cid:68)(cid:70)(cid:13)(cid:136)(cid:19)(cid:17)(cid:18)(cid:26)(cid:27)(cid:50)(cid:21)
+(cid:18)(cid:21) (cid:18)(cid:21) (cid:18)(cid:19) (cid:18)(cid:19)
+(cid:18)(cid:19) (cid:18)(cid:19)
+(cid:18)(cid:17) (cid:18)(cid:17)
+(cid:18)(cid:17) (cid:18)(cid:17)
+(cid:25) (cid:25) (cid:25) (cid:25)
+(cid:23) (cid:23)
+(cid:23) (cid:23)
+(cid:21) (cid:21)
+(cid:21) (cid:21)
+(cid:19) (cid:19)
+(cid:17) (cid:17)
+(cid:19) (cid:19)
+(cid:17) (cid:17)
+(cid:53)(cid:80)(cid:85)(cid:66)(cid:77) (cid:46)(cid:70)(cid:79) (cid:56)(cid:80)(cid:78)(cid:70)(cid:79)
+(cid:52)(cid:80)(cid:86)(cid:83)(cid:68)(cid:70)(cid:27)(cid:3)(cid:38)(cid:86)(cid:83)(cid:80)(cid:84)(cid:85)(cid:66)(cid:85)(cid:15) (cid:52)(cid:80)(cid:86)(cid:83)(cid:68)(cid:70)(cid:27)(cid:3)(cid:38)(cid:86)(cid:83)(cid:80)(cid:84)(cid:85)(cid:66)(cid:85)(cid:15)
+
+--- PAGE BREAK ---
+
+sharp fall in job vacancy rates7in the euro area,
+(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:6)(cid:9)(cid:10)(cid:11)(cid:6)(cid:12)(cid:3)(cid:13)(cid:3)(cid:14)(cid:13)(cid:15)(cid:6)(cid:4)(cid:3)(cid:5)(cid:16)(cid:17)
+followed by a recovery. In Greece, despite
+(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:5)(cid:8)(cid:9)(cid:7)(cid:10)(cid:10)(cid:11)(cid:4)(cid:7)(cid:12)(cid:13)(cid:14)(cid:5)(cid:15)(cid:6)(cid:12)(cid:4)(cid:12)(cid:7)(cid:15)(cid:7)(cid:16) lower job vacancy rates compared to the euro
+(cid:25)(cid:14)(cid:26)(cid:8)(cid:27)(cid:7)(cid:26)(cid:6)(cid:7) (cid:28)(cid:26)(cid:6)(cid:6)(cid:29)(cid:6) area, the job vacancy rate declined before the
+pandemic, while it increased from the first
+(cid:22)(cid:23)(cid:24) (cid:22)(cid:23)(cid:24)
+quarter of 2021, reaching 1.1% in the second
+quarter of 2022 (Chart 13).
+(cid:22)(cid:23)(cid:18) (cid:22)(cid:23)(cid:18)
+Among the euro area Member States for which
+comparable data are available,8there are coun-
+(cid:17)(cid:23)(cid:24) (cid:17)(cid:23)(cid:24) tries with a high job vacancy rate, a few coun-
+tries with a low rate, while the majority of them
+are at a medium level (Chart 14). In the first
+(cid:17)(cid:23)(cid:18) (cid:17)(cid:23)(cid:18) group belong the Netherlands (5.0%), Belgium
+(5.0%), Germany (4.7%) and Austria (4.7%).
+Greece is among the countries with the lowest
+(cid:19)(cid:23)(cid:24) (cid:19)(cid:23)(cid:24)
+job vacancy rate, along with Spain (1.1% and
+0.8%, each).
+(cid:19)(cid:23)(cid:18) (cid:19)(cid:23)(cid:18)
+However, compared with the fourth quarter of
+2019 (the last quarter before the outbreak of
+COVID-19), Greece’s job vacancy rate has
+(cid:18)(cid:23)(cid:24) (cid:18)(cid:23)(cid:24)
+increased by 0.5 percentage points, albeit to a
+lesser extent than the euro area average (1.1
+(cid:18)(cid:23)(cid:18) (cid:18)(cid:23)(cid:18) percentage points). In the majority of the
+(cid:17)(cid:18)(cid:19)(cid:20)(cid:21)(cid:19) (cid:17)(cid:18)(cid:19)(cid:20)(cid:21)(cid:22) (cid:17)(cid:18)(cid:17)(cid:18)(cid:21)(cid:19) (cid:17)(cid:18)(cid:17)(cid:18)(cid:21)(cid:22) (cid:17)(cid:18)(cid:17)(cid:19)(cid:21)(cid:19) (cid:17)(cid:18)(cid:17)(cid:19)(cid:21)(cid:22) (cid:17)(cid:18)(cid:17)(cid:17)(cid:21)(cid:19)
+countries, the job vacancy rate increased, with
+(cid:30)(cid:8)(cid:14)(cid:26)(cid:29)(cid:6)(cid:31)(cid:4)(cid:25)(cid:14)(cid:26)(cid:8)(cid:5)(cid:15)(cid:7)(cid:15)(cid:23) changes ranging between 0.1 and 1.7 percent-
+(cid:32)(cid:8)(cid:15)(cid:6)(cid:31)(cid:4)(cid:33)(cid:8)(cid:34)(cid:4)(cid:35)(cid:7)(cid:29)(cid:7)(cid:9)(cid:29)(cid:11)(cid:4)(cid:26)(cid:7)(cid:15)(cid:6)(cid:5)(cid:4)(cid:29)(cid:8)(cid:35)(cid:6)(cid:26)(cid:4)(cid:32)(cid:36)(cid:37)(cid:25)(cid:4)(cid:38)(cid:6)(cid:35)(cid:23)(cid:4)(cid:17)(cid:4)(cid:5)(cid:6)(cid:29)(cid:15)(cid:39)(cid:8)(cid:9)(cid:5)(cid:4)(cid:40)(cid:4)(cid:15)(cid:8)(cid:4)(cid:30)(cid:23)
+age points. The largest increases were
+observed in the Netherlands (1.7 percentage
+points), Austria, Belgium and Germany (1.6
+percentage points, respectively).
+The analysis of job vacancy rates by sector of
+economic activity raises important issues
+regarding the presence of heterogeneity in this
+respect in the Greek labour market. In partic-
+ular, in the second quarter of 2022 there were
+sectors that reported high vacancy rates such
+as construction and trade, transport and
+accommodation (2.7% and 2.0%, respectively),
+presenting at the same time the highest rate of
+change compared to the last quarter of 2019.
+7 The job vacancy rate (JVR) measures the proportion of total job
+posts that are vacant, expressed as a percentage, i.e. JVR = (num-
+ber of job vacancies)*100/(number of occupied posts + number of job vacancies).
+8 Data for France and Italy are not strictly comparable. Particularly
+in France, only business units with 10 employees or more are sur-
+veyed. Moreover, in the case of Public Administration, Education
+and Human Health (NACE Rev. 2 sections O, P and Q, respec-
+tively), public institutions are not covered in France and Italy.
+56
+EconomicBulletin 57
+December2022
+(cid:28)
+(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:6)(cid:9)(cid:10)(cid:11)(cid:6)(cid:12)(cid:3)(cid:13)(cid:3)(cid:14)(cid:13)(cid:15)(cid:6)(cid:4)(cid:3)(cid:5)(cid:16)(cid:17)(cid:6)(cid:18)(cid:14)(cid:6)(cid:5)(cid:2)(cid:16)(cid:6)(cid:16)(cid:19)(cid:4)(cid:10)(cid:6)(cid:3)(cid:4)(cid:16)(cid:3)
+(cid:20)(cid:21)(cid:22)(cid:21)(cid:21)(cid:23)(cid:24)(cid:21)(cid:25)
+(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:5)(cid:8)(cid:9)(cid:7)(cid:10)(cid:10)(cid:11)(cid:4)(cid:7)(cid:12)(cid:13)(cid:14)(cid:5)(cid:15)(cid:6)(cid:12)(cid:4)(cid:12)(cid:7)(cid:15)(cid:7)(cid:16)
+(cid:29)(cid:8)(cid:14)(cid:23)(cid:39)(cid:6)(cid:48)(cid:4)(cid:27)(cid:14)(cid:23)(cid:8)(cid:5)(cid:15)(cid:7)(cid:15)(cid:49)
+(cid:20)(cid:14)(cid:19)(cid:18)(cid:10)(cid:6)(cid:17) (cid:5)(cid:12)(cid:9)(cid:7)(cid:10)(cid:23)(cid:6)(cid:22)(cid:15)(cid:6)(cid:21) (cid:11)(cid:9)(cid:7)(cid:20)(cid:23)(cid:6)(cid:24) (cid:7)(cid:19)(cid:23)(cid:15)(cid:5)(cid:14)(cid:25) (cid:12)(cid:9)(cid:7)(cid:10)(cid:9)(cid:19)(cid:26) (cid:7)(cid:6)(cid:23)(cid:7)(cid:28)(cid:8)(cid:23)(cid:14)(cid:27)(cid:28) (cid:7)(cid:19)(cid:9)(cid:6)(cid:30)(cid:8)(cid:10)(cid:29) (cid:7)(cid:19)(cid:30)(cid:15)(cid:7)(cid:31) (cid:5)(cid:14)(cid:23)(cid:33)(cid:11)(cid:32) (cid:7)(cid:15)(cid:10)(cid:7)(cid:34) (cid:18)(cid:23)(cid:14)(cid:8)(cid:36)(cid:20)(cid:6)(cid:35)(cid:14)(cid:31) (cid:7)(cid:19)(cid:9)(cid:8)(cid:15)(cid:5)(cid:27) (cid:7)(cid:19)(cid:9)(cid:7)(cid:14)(cid:22)(cid:15)(cid:19)(cid:31) (cid:12)(cid:9)(cid:7)(cid:10)(cid:6)(cid:23)(cid:37) (cid:10)(cid:7)(cid:18)(cid:14)(cid:15)(cid:23)(cid:8)(cid:38) (cid:6)(cid:39)(cid:6)(cid:6)(cid:23)(cid:24) (cid:7)(cid:19)(cid:40)(cid:7)(cid:30)(cid:8)(cid:10)(cid:29) (cid:9)(cid:19)(cid:7)(cid:33)(cid:29)
+(cid:47) (cid:47)
+(cid:46) (cid:46)
+(cid:45) (cid:45)
+(cid:44) (cid:44)
+(cid:43) (cid:43)
+(cid:42) (cid:42)
+(cid:41) (cid:41)
+
+--- PAGE BREAK ---
+
+Chart 15 Job vacancy rates by sector in Greece
+(2019:Q4-2022:Q2)
+(cid:9)(cid:6)(cid:13)(cid:3)(cid:84)(cid:70)(cid:66)(cid:84)(cid:80)(cid:79)(cid:66)(cid:77)(cid:77)(cid:90)(cid:3)(cid:66)(cid:69)(cid:75)(cid:86)(cid:84)(cid:85)(cid:70)(cid:69)(cid:3)(cid:69)(cid:66)(cid:85)(cid:66)(cid:10) (cid:3) (cid:3) (cid:3)
+(cid:19)(cid:17)(cid:18)(cid:26)(cid:27)(cid:50)(cid:21) (cid:19)(cid:17)(cid:19)(cid:19)(cid:27)(cid:50)(cid:19)
+(cid:20)(cid:15)(cid:17)
+(cid:19)(cid:15)(cid:22)
+(cid:19)(cid:15)(cid:17)
+(cid:18)(cid:15)(cid:22)
+(cid:18)(cid:15)(cid:17)
+(cid:17)(cid:15)(cid:22)
+(cid:17) (cid:136)
+(cid:53)(cid:80)(cid:85)(cid:66)(cid:77) (cid:42)(cid:79)(cid:69)(cid:86)(cid:84)(cid:85)(cid:83)(cid:90) (cid:46)(cid:66)(cid:79)(cid:86)(cid:71)(cid:66)(cid:14)(cid:36)(cid:80)(cid:79)(cid:84)(cid:85)(cid:83)(cid:86)(cid:68)(cid:85)(cid:74)(cid:80)(cid:79) (cid:53)(cid:83)(cid:66)(cid:136)(cid:69)(cid:70)(cid:13) (cid:49)(cid:83)(cid:80)(cid:71)(cid:70)(cid:84)(cid:84)(cid:74)(cid:80)(cid:79)(cid:66)(cid:77)(cid:13) (cid:49)(cid:86)(cid:67)(cid:77)(cid:74)(cid:68)
+(cid:70)(cid:68)(cid:80)(cid:79)(cid:80)(cid:78)(cid:90) (cid:9)(cid:70)(cid:89)(cid:68)(cid:70)(cid:81)(cid:85) (cid:68)(cid:85)(cid:86)(cid:83)(cid:74)(cid:79)(cid:72) (cid:85)(cid:83)(cid:66)(cid:79)(cid:84)(cid:81)(cid:80)(cid:83)(cid:85)(cid:13) (cid:84)(cid:68)(cid:74)(cid:70)(cid:79)(cid:85)(cid:74)(cid:71)(cid:74)(cid:68)(cid:13) (cid:66)(cid:69)(cid:78)(cid:136)(cid:74)(cid:79)(cid:74)(cid:14)
+(cid:68)(cid:80)(cid:79)(cid:84)(cid:85)(cid:83)(cid:86)(cid:68)(cid:85)(cid:74)(cid:80)(cid:79)(cid:10) (cid:66)(cid:68)(cid:68)(cid:80)(cid:78)(cid:78)(cid:80)(cid:14) (cid:85)(cid:70)(cid:68)(cid:73)(cid:79)(cid:74)(cid:68)(cid:66)(cid:77) (cid:84)(cid:85)(cid:83)(cid:66)(cid:136)(cid:85)(cid:74)(cid:80)(cid:79)
+(cid:69)(cid:66)(cid:85)(cid:74)(cid:80)(cid:79) (cid:66)(cid:79)(cid:69) (cid:66)(cid:79)(cid:69)(cid:136)(cid:69)(cid:70)(cid:71)(cid:70)(cid:79)(cid:68)(cid:70)(cid:13)
+(cid:66)(cid:79)(cid:69)(cid:136)(cid:71)(cid:80)(cid:80)(cid:69) (cid:66)(cid:69)(cid:78)(cid:74)(cid:79)(cid:74)(cid:14) (cid:70)(cid:69)(cid:86)(cid:68)(cid:66)(cid:85)(cid:74)(cid:80)(cid:79)(cid:13)
+(cid:84)(cid:70)(cid:83)(cid:87)(cid:74)(cid:68)(cid:70) (cid:84)(cid:85)(cid:83)(cid:66)(cid:85)(cid:74)(cid:87)(cid:70)(cid:73)(cid:86)(cid:78)(cid:66)(cid:79)(cid:136)(cid:73)(cid:70)(cid:66)(cid:77)(cid:85)(cid:73)
+(cid:66)(cid:68)(cid:85)(cid:74)(cid:87)(cid:74)(cid:85)(cid:74)(cid:70)(cid:84) (cid:66)(cid:68)(cid:85)(cid:74)(cid:87)(cid:74)(cid:85)(cid:74)(cid:70)(cid:84) (cid:66)(cid:79)(cid:69)(cid:136)(cid:80)(cid:85)(cid:73)(cid:70)(cid:83)
+(cid:84)(cid:70)(cid:83)(cid:87)(cid:74)(cid:68)(cid:70)
+(cid:66)(cid:68)(cid:85)(cid:74)(cid:87)(cid:74)(cid:85)(cid:74)(cid:70)(cid:84) (cid:3) (cid:3)
+(cid:52)(cid:80)(cid:86)(cid:83)(cid:68)(cid:70)(cid:27)(cid:3)(cid:38)(cid:86)(cid:83)(cid:80)(cid:84)(cid:85)(cid:66)(cid:85)(cid:15)
+In particular, tourism-related activities showed Belgium, the Netherlands and Austria, while
+a sharp increase of the job vacancy rate, reach- others show the opposite picture. Greece, with
+ing 8.5% in the second quarter of 2022 from an unemployment rate of 12.2% in the second
+2.9% in the fourth quarter of 2019. On the quarter of 2022 and a job vacancy rate of
+other hand, there were sectors like manufac- 1.1%, belongs to the group of countries with
+turing and industry which, despite starting a high unemployment rate and a low job
+from low job vacancy rates, recorded mild vacancy rate, pointing to labour market slack
+increases. In contrast, in services, i.e. the pub- (Chart 16).
+lic administration, education and health sec-
+tors, the job vacancy rates remained flat com- However, looking at the evolution of the
+pared to the fourth quarter of 2019. Overall, labour market during the pre- and post-
+the labour market appears to be tighter than COVID-19 periods, Greece has made signifi-
+before the pandemic, with industry, trade, cant progress, as it recorded the largest reduc-
+tourism and construction revealing higher tion in the unemployment rate (-4.8 percent-
+tightness compared to services (Chart 15). age points), while in the majority of the euro
+area countries the unemployment rate
+Important issues of heterogeneity across euro decreased by less than 1 percentage point, with
+area Member States appear when analysing a simultaneous increase in the job vacancy rate
+the job vacancy rate in combination with the (Chart 17). This suggests that after the pan-
+unemployment rate. Particularly, there are demic Greece is characterised by remaining
+countries with a low unemployment rate and labour market slack and an increase in labour
+a high job vacancy rate, such as Germany, market tightness.
+49
+58 EconomicBulletin
+July2019
+(cid:3)
+(cid:3)
+(cid:3)
+Chart 16 Job vacancy and unemployment rates in
+the euro area (2022:Q2)
+(cid:9)(cid:6)(cid:13)(cid:84)(cid:70)(cid:66)(cid:84)(cid:80)(cid:79)(cid:66)(cid:77)(cid:77)(cid:90)(cid:66)(cid:69)(cid:75)(cid:75)(cid:86)(cid:84)(cid:85)(cid:70)(cid:69)(cid:69)(cid:66)(cid:85)(cid:66)(cid:10)
+(cid:23)(cid:15)(cid:17)
+(cid:47) (cid:22)(cid:15)(cid:17)
+(cid:21)(cid:15)(cid:17)
+(cid:20)(cid:15)(cid:17)
+(cid:53)
+(cid:19)(cid:15)(cid:17)
+(cid:38)
+(cid:44) (cid:18)(cid:15)(cid:17)
+(cid:3)
+(cid:70)(cid:85)(cid:66)(cid:83)(cid:90)(cid:68)(cid:79)(cid:66)(cid:68)(cid:66)(cid:87)(cid:67)(cid:80)(cid:43)
+(cid:3) (cid:3) (cid:3)
+(cid:23)(cid:15)(cid:17)
+(cid:22)(cid:15)(cid:17) (cid:47)(cid:47)(cid:45)(cid:45) (cid:35)(cid:35)(cid:38)(cid:38)
+(cid:37)(cid:37)(cid:38) (cid:34)(cid:53)
+(cid:21)(cid:15)(cid:17)
+(cid:39)(cid:42)
+(cid:38)(cid:34)(cid:14)(cid:14)(cid:18)(cid:26)
+(cid:52)(cid:42)
+(cid:20)(cid:15)(cid:17) (cid:45)(cid:55)(cid:55)
+(cid:46)(cid:53)(cid:53) (cid:36)(cid:58)
+(cid:45)(cid:45)(cid:54)
+(cid:38)(cid:38)
+(cid:19)(cid:15)(cid:17) (cid:45)(cid:45)(cid:53)
+(cid:42)(cid:38)
+(cid:49)(cid:53)
+(cid:38)(cid:45)
+(cid:18)(cid:15)(cid:17) (cid:52)(cid:52)(cid:44)
+(cid:3) (cid:3)
+(cid:3)
+(cid:3)
+(cid:3)
+(cid:3) (cid:3) (cid:3)
+(cid:38)(cid:52)
+(cid:17)(cid:15)(cid:17)
+(cid:17)(cid:15)(cid:17) (cid:19)(cid:15)(cid:17) (cid:21)(cid:15)(cid:17) (cid:23)(cid:15)(cid:17) (cid:25)(cid:15)(cid:17) (cid:18)(cid:17)(cid:15)(cid:17) (cid:18)(cid:19)(cid:15)(cid:17) (cid:18)(cid:21)(cid:15)(cid:17)
+(cid:54)(cid:79)(cid:70)(cid:78)(cid:81)(cid:77)(cid:80)(cid:90)(cid:78)(cid:70)(cid:79)(cid:85)(cid:83)(cid:66)(cid:85)(cid:70)
+(cid:3) (cid:3)
+(cid:52)(cid:80)(cid:86)(cid:83)(cid:68)(cid:70)(cid:27)(cid:3)(cid:38)(cid:86)(cid:83)(cid:80)(cid:84)(cid:85)(cid:66)(cid:85)(cid:15)
+(cid:3)
+(cid:3)
+(cid:3)
+(cid:3) (cid:3) (cid:3)
+(cid:3) (cid:3)
+(cid:3)
+(cid:3)
+(cid:3)
+(cid:3)
+(cid:52)(cid:80)(cid:86)(cid:83)(cid:68)(cid:70)(cid:27)(cid:3)(cid:38)(cid:86)(cid:83)(cid:80)(cid:84)(cid:85)(cid:66)(cid:85)(cid:15)
+
+--- PAGE BREAK ---
+
+ket with constant churn of workers, this means
+that unemployment is higher. As vacancies
+increase, the unemployment rate will decrease.
+The higher the economy is on the v-u space,
+(cid:3) (cid:3) (cid:3)
+the tighter the labour market is; θ=v/u is
+labour market tightness. In tight labour mar-
+kets, it is harder for firms to fill vacancies, and
+so vacancies will remain unfilled for longer. As
+the search for workers is costly, a high θis typ-
+ically thought of as a useful summary statistic
+of the labour market situation.11
+While movements along the Beveridge curve
+reflect changes in tightness, shifts in the Bev-
+eridge curve reflect changes in matching effi-
+ciency, ε. The rate of matches in the labour
+market is determined by the matching func-
+tion, m(θ, ε); mis falling in θ, as fewer matches
+per vacancy are made in tight labour markets,
+and rising in ε. A less efficient labour market
+will have fewer matches for each level of tight-
+ness; put another way, it implies a higher num-
+ber of vacancies to sustain a given unemploy-
+ment rate. As such, a shift out of the Beveridge
+(cid:3) (cid:3)
+curve is associated with a less efficient labour
+market. Labour market efficiency can depend
+on a variety of factors, most prominently fric-
+5 INSIGHTS FROM THE BEVERIDGE CURVE tions in the allocation of workers and the
+matching process itself (how easy it is to access
+5.1THE GREEK BEVERIDGE CURVE vacancies, screen candidates, etc.), as well as
+search effort and the propensity of firms to fill
+To delve deeper into the relationship between vacancies. The two main forces behind the
+job vacancies and unemployment and its evo- Beveridge curve, efficiency and tightness, are
+lution over time, one needs to consider the depicted in Chart 18.
+Beveridge curve.9 The Beveridge curve is an
+empirical relationship between the vacancy (v) Labour market efficiency typically falls after
+and unemployment rates (u); a negative slope recessions. The Beveridge curve shifts out
+of the curve in the v-uspace is a robust empir- when unemployment reaches its local maxi-
+ical feature of market economies, and useful mum; vacancies naturally precede job fillings
+for drawing conclusions about labour market as firms start to look for workers more inten-
+tightness. It is an integral part of standard sively, so the reduction in unemployment will
+macroeconomic analyses of the labour market, lag the rise in vacancies. As the economy
+principally the search and matching framework improves and unemployment falls, labour mar-
+(see Pissarides et al. 2000).10
+Intuitively, when the vacancy rate is low,
+demand for new workers is low relative to the
+labour force, so it is harder for unemployed
+workers to find jobs. In a dynamic labour mar-
+56
+EconomicBulletin 59
+December2022
+(cid:3)
+(cid:3)
+(cid:3)
+(cid:3)
+(cid:70)
+Chart 17 Changes in job vacancy rates and
+unemployment rates in the euro area
+(2019:Q4-2022:Q2)
+(cid:9)(cid:6)(cid:13)(cid:84)(cid:70)(cid:66)(cid:84)(cid:80)(cid:79)(cid:66)(cid:77)(cid:77)(cid:90)(cid:66)(cid:69)(cid:69)(cid:75)(cid:75)(cid:86)(cid:84)(cid:85)(cid:70)(cid:69)(cid:69)(cid:66)(cid:85)(cid:66)(cid:10)
+(cid:85)(cid:66)(cid:83)(cid:90)(cid:68)(cid:68)(cid:79)(cid:66)(cid:68)(cid:66)(cid:87)(cid:67)(cid:80)(cid:43)
+(cid:3) (cid:3) (cid:3)
+NNNLL
+(cid:18)(cid:15)(cid:25) (cid:18)(cid:15)(cid:25)
+AT DDE BEE
+(cid:18)(cid:15)(cid:23) (cid:18)(cid:15)(cid:23)
+(cid:18)(cid:15)(cid:21) (cid:18)(cid:15)(cid:21)
+FI
+(cid:18)(cid:15)(cid:19)
+EEAA-11999
+(cid:18)(cid:15)(cid:19)
+CYSI
+(cid:18)(cid:15)(cid:17) LLUU (cid:18)(cid:15)(cid:17)
+(cid:17)(cid:15)(cid:25) (cid:17)(cid:15)(cid:25)
+IE
+(cid:17)(cid:15)(cid:23) (cid:17)(cid:15)(cid:23)
+EL LLT
+(cid:17)(cid:15)(cid:21) PPPTT (cid:17)(cid:15)(cid:21)
+EE
+(cid:17)(cid:15)(cid:19) EESS (cid:17)(cid:15)(cid:19)
+(cid:3) (cid:3)
+(cid:3)
+(cid:3)
+(cid:3)
+(cid:17)(cid:15)(cid:19) (cid:17)(cid:15)(cid:19)
+SK
+(cid:17)(cid:15)(cid:17) (cid:17)(cid:15)(cid:17)
+LV
+(cid:14)(cid:17)(cid:15)(cid:19) (cid:14)(cid:17)(cid:15)(cid:19)
+(cid:14)(cid:23)(cid:15)(cid:17) (cid:14)(cid:22)(cid:15)(cid:17) (cid:14)(cid:21)(cid:15)(cid:17) (cid:14)(cid:20)(cid:15)(cid:17) (cid:14)(cid:19)(cid:15)(cid:17) (cid:14)(cid:18)(cid:15)(cid:17) (cid:17)(cid:15)(cid:17) (cid:18)(cid:15)(cid:17) (cid:19)(cid:15)(cid:17)
+(cid:54)(cid:79)(cid:70)(cid:78)(cid:81)(cid:77)(cid:80)(cid:90)(cid:78)(cid:70)(cid:79)(cid:85)(cid:83)(cid:66)(cid:85)(cid:70)
+(cid:52)(cid:80)(cid:86)(cid:83)(cid:68)(cid:70)(cid:27)(cid:3)(cid:38)(cid:86)(cid:83)(cid:80)(cid:84)(cid:85)(cid:66)(cid:85)(cid:15)
+9 Note the different definitions of the vacancy rate. In the US it is
+defined as vacancies over employment, and in Europe as vacancies
+over the labour force (unemployed and occupied posts).
+10Pissarides Committee, “Development Plan for the Greek Econ-
+omy”, 2020.
+11If search were costless, firms could post high numbers of vacancies
+irrespective of labour market conditions, making v/uan inappro-
+priate measure of tightness.
+
+--- PAGE BREAK ---
+
+never attained again. The euro area Beveridge
+curve shows a similar relationship.12
+The Beveridge curve for the Greek labour mar-
+ket followed similar dynamics during and fol-
+lowing the financial crisis. This is shown in
+Chart 20, separately for all firms in the business
+sector (excluding the primary sector and house-
+holds) and firms with over 10 employees.13
+There was a steep movement along the Bev-
+eridge curve while unemployment was rising,
+until around 2013. As unemployment stabilised,
+vacancies started to rise, but it took some time
+(cid:3) (cid:3) (cid:3) (cid:3) (cid:3) (cid:3) (cid:3) (cid:3) (cid:3) (cid:3) (cid:3)
+(cid:3) (cid:3) (cid:3) (cid:3) (cid:3) (cid:3) (cid:3) (cid:3) (cid:3) (cid:3) for unemployment to start falling, leading to a
+(cid:3) (cid:3) (cid:3) (cid:3) temporary shift out. Interestingly though, the
+recovery was not followed by movements along
+ket efficiency is gradually restored and the a new, less efficient, curve, as was the case in the
+curve shifts in. This cyclical relationship US or the rest of the euro area.
+between vacancies and unemployment gives
+rise to a banana-shaped chart in the v-uspace The picture is somewhat different depending
+and provides a good representation of on the data used. With vacancy data for all
+advanced economy labour markets during the
+2010s recovery. Chart 19 depicts this pattern
+for the US for illustration purposes. The
+banana-shape formed by the blue and orange
+segments of the US Beveridge curve never fully
+closes, indicating that pre-crisis efficiency was
+56
+60 EconomicBulletin
+December2022
+(cid:3)
+(cid:3)
+(cid:3)
+Chart 18 Movements along and shifts in the
+Beveridge curve
+(cid:66)(cid:10)(cid:3)(cid:36)(cid:73)(cid:66)(cid:79)(cid:72)(cid:70)(cid:84)(cid:3)(cid:74)(cid:79)(cid:3)(cid:85)(cid:74)(cid:72)(cid:73)(cid:85)(cid:79)(cid:70)(cid:84)(cid:84)
+(cid:67)(cid:10)(cid:3)(cid:36)(cid:73)(cid:66)(cid:79)(cid:72)(cid:70)(cid:84)(cid:3)(cid:74)(cid:79)(cid:3)(cid:70)(cid:71)(cid:71)(cid:71)(cid:71)(cid:71)(cid:74)(cid:68)(cid:74)(cid:70)(cid:79)(cid:68)(cid:90)
+(cid:3)
+(cid:3)
+(cid:54)(cid:79)(cid:70)(cid:78)(cid:81)(cid:77)(cid:80)(cid:90)(cid:78)(cid:70)(cid:79)(cid:85)(cid:3)(cid:83)(cid:66)(cid:85)(cid:70)
+(cid:52)(cid:80)(cid:86)(cid:83)(cid:68)(cid:70)(cid:27)(cid:36)(cid:80)(cid:79)(cid:84)(cid:80)(cid:77)(cid:80)(cid:13)(cid:34)(cid:15)(cid:66)(cid:79)(cid:69)(cid:34)(cid:15)(cid:37)(cid:74)(cid:66)(cid:84)(cid:69)(cid:66)(cid:52)(cid:74)(cid:77)(cid:77)(cid:87)(cid:87)(cid:66)(cid:9)(cid:19)(cid:17)(cid:18)(cid:26)(cid:10)(cid:13)(cid:139)(cid:53)(cid:73)(cid:70)(cid:70)(cid:86)(cid:83)(cid:80)
+(cid:66)(cid:83)(cid:70)(cid:66)(cid:77)(cid:66)(cid:67)(cid:80)(cid:86)(cid:83)(cid:78)(cid:66)(cid:83)(cid:76)(cid:70)(cid:85)(cid:85)(cid:73)(cid:83)(cid:80)(cid:86)(cid:72)(cid:73)(cid:85)(cid:73)(cid:70)(cid:77)(cid:70)(cid:79)(cid:84)(cid:80)(cid:71)(cid:85)(cid:73)(cid:70)(cid:35)(cid:70)(cid:87)(cid:70)(cid:83)(cid:74)(cid:69)(cid:72)(cid:70)(cid:68)(cid:86)(cid:83)(cid:87)(cid:70)(cid:140)(cid:13)
+(cid:38)(cid:36)(cid:35)(cid:38)(cid:68)(cid:80)(cid:79)(cid:80)(cid:78)(cid:74)(cid:68)(cid:35)(cid:86)(cid:77)(cid:77)(cid:77)(cid:70)(cid:70)(cid:85)(cid:74)(cid:74)(cid:79)(cid:13)(cid:42)(cid:84)(cid:84)(cid:86)(cid:70)(cid:21)(cid:15)
+(cid:70)(cid:85)(cid:66)(cid:83)(cid:90)(cid:68)(cid:68)(cid:79)(cid:66)(cid:68)(cid:66)(cid:55)
+(cid:54)(cid:79)(cid:70)(cid:78)(cid:81)(cid:77)(cid:80)(cid:90)(cid:78)(cid:70)(cid:79)(cid:85)(cid:83)(cid:66)(cid:85)(cid:70)
+(cid:70)(cid:85)(cid:66)(cid:83)(cid:90)(cid:90)(cid:68)(cid:68)(cid:79)(cid:66)(cid:68)(cid:66)(cid:55)
+(cid:25)
+(cid:55)
+(cid:24)
+(cid:212)(cid:31)(cid:212)
+(cid:18) (cid:19)
+(cid:23)
+(cid:212) (cid:55) (cid:18) (cid:22)
+(cid:18)
+(cid:21)
+(cid:20)
+(cid:212) (cid:19) (cid:19)
+(cid:55)
+(cid:19)
+(cid:35)(cid:36) (cid:18)
+(cid:17)
+(cid:86) (cid:86) (cid:86) (cid:17) (cid:22) (cid:18)(cid:17) (cid:18)(cid:22)
+(cid:18) (cid:19)
+(cid:55)
+(cid:198)(cid:31)(cid:198)
+(cid:18) (cid:19)
+(cid:55) (cid:35)(cid:36)'(cid:9)(cid:198)(cid:10)
+(cid:18) (cid:19)
+(cid:35)(cid:36)(cid:9)(cid:198)(cid:10)
+(cid:18)
+(cid:86) (cid:86) (cid:86)
+(cid:18) (cid:18)
+(cid:70)(cid:85)(cid:66)(cid:83)(cid:3)(cid:90)(cid:68)(cid:79)(cid:66)(cid:68)(cid:66)(cid:87)(cid:3)(cid:67)(cid:80)(cid:43)
+Chart 19 The Beveridge curve in the United States
+(cid:9)(cid:6)(cid:10)
+(cid:19)(cid:17)(cid:17)(cid:24)(cid:14)(cid:19)(cid:17)(cid:17)(cid:26) (cid:19)(cid:17)(cid:18)(cid:17)(cid:14)(cid:19)(cid:17)(cid:19)(cid:17) (cid:49)(cid:66)(cid:79)(cid:69)(cid:70)(cid:78)(cid:74)(cid:68)
+(cid:19)(cid:17)(cid:19)(cid:19)(cid:27)(cid:50)(cid:19)(cid:0)
+(cid:19)(cid:17)(cid:19)(cid:17)(cid:27)(cid:50)(cid:18)(cid:0)
+(cid:19)(cid:17)(cid:17)(cid:24)(cid:27)(cid:50)(cid:18)(cid:0) (cid:19)(cid:17)(cid:19)(cid:17)(cid:27)(cid:50)(cid:19)(cid:0)
+(cid:19)(cid:17)(cid:18)(cid:17)(cid:27)(cid:50)(cid:18)(cid:0)
+(cid:19)(cid:17)(cid:17)(cid:26)(cid:27)(cid:50)(cid:21)(cid:0)
+(cid:54)(cid:79)(cid:70)(cid:78)(cid:81)(cid:77)(cid:80)(cid:90)(cid:78)(cid:70)(cid:79)(cid:85)(cid:3)(cid:83)(cid:66)(cid:85)(cid:70)
+(cid:52)(cid:80)(cid:86)(cid:83)(cid:68)(cid:70)(cid:27)(cid:3)(cid:39)(cid:51)(cid:38)(cid:37)(cid:13)(cid:3)(cid:35)(cid:66)(cid:79)(cid:76)(cid:3)(cid:80)(cid:71)(cid:3)(cid:40)(cid:83)(cid:70)(cid:70)(cid:68)(cid:70)(cid:3)(cid:68)(cid:66)(cid:77)(cid:68)(cid:86)(cid:77)(cid:66)(cid:85)(cid:74)(cid:80)(cid:79)(cid:84)(cid:15)
+(cid:47)(cid:80)(cid:85)(cid:70)(cid:27)(cid:3)(cid:53)(cid:73)(cid:70)(cid:3)(cid:87)(cid:66)(cid:68)(cid:66)(cid:79)(cid:68)(cid:90)(cid:3)(cid:83)(cid:66)(cid:85)(cid:70)(cid:3)(cid:74)(cid:84)(cid:3)(cid:69)(cid:70)(cid:71)(cid:74)(cid:79)(cid:70)(cid:69)(cid:3)(cid:66)(cid:84)(cid:3)(cid:87)(cid:66)(cid:68)(cid:66)(cid:79)(cid:68)(cid:74)(cid:70)(cid:84)(cid:3)(cid:85)(cid:80)(cid:3)(cid:70)(cid:78)(cid:81)(cid:77)(cid:80)(cid:90)(cid:78)(cid:70)(cid:79)(cid:85)(cid:15)
+12Consolo, A. and A. Dias da Silva (2019), “The euro area labour
+market through the lens of the Beveridge curve”, ECB, Economic
+Bulletin, Issue 4.
+13The vacancy rate has been seasonally adjusted by Bank of Greece
+staff, as the official seasonally adjusted series is much shorter. A
+non-seasonally adjusted Beveridge curve gives a very similar result
+qualitatively.
+
+--- PAGE BREAK ---
+
+ees, instead, the curve is steeper and has not
+changed relative to the pre-crisis period.
+As one would probably expect, a shift out dur-
+ing the recovery could be considered evidence
+of improved efficiency, controlling for the
+cycle, arguably a result of the structural labour
+market reforms undertaken over the past
+decade. Similarly, while both charts indicate an
+increase in tightness (the ratio of vacancies to
+unemployment), the increase in the bottom
+panel is much stronger.
+The improvement in the Greek labour market
+is a result of both an increase in the finding
+rate and a decrease in the separation rate
+(Chart 21). This is common for continental
+European countries, and unlike Nordic or
+Anglo-Saxon countries, where movements in
+the finding rate drive the majority of the cycle.
+In fact, the finding rate stalled somewhat in the
+last few quarters before the pandemic, but has
+risen substantially since.
+Putting these charts together, we have clear
+evidence of improvements in the labour mar-
+ket, though with unclear relative magnitudes
+regarding efficiency and tightness. Depending
+on the vacancy measure, there is either mildly
+increasing efficiency and rapidly increasing
+tightness, or vice versa. The large reduction in
+unemployment, together with the extensive set
+of labour market reforms during the crisis
+years, make both cases likely. Indeed, the
+increase in efficiency due to the reforms is the
+reason why, in the Greek Beveridge curve, we
+do not observe the banana-shaped recovery,
+common in other advanced economies.
+It is not possible to analyse these implications
+further, in particular with regard to wages,
+firms, unemployment fell alongside a rela-
+tively flat vacancy rate, a development which
+14The pandemic seems to have dealt a strong blow to the efficiency
+has persisted even through the pandemic. This of the US labour market, by shifting out the Beveridge curve
+is in stark contrast to the dramatic increase in greatly. It has been argued, however, that in the present context of
+the Great Resignation and the increased job-to-job transition rates,
+vacancies recorded in the US following the looking at only unemployment may be misleading about the level
+of tightness in the labour market. In particular, to the extent that
+COVID-19 outbreak, as depicted in Chart 19
+a significant number of new jobs are taken by already employed
+by the green segment of the Beveridge curve.14 individuals, then just comparing vacancies with unemployment will
+tend to underestimate the level of interested workers per vacancy,
+When considering firms with over 10 employ- and hence overestimate both tightness and inefficiency.
+56
+EconomicBulletin 61
+December2022
+(cid:3)
+(cid:3)
+Chart 20 The Beveridge curve in Greece
+(cid:9)(cid:6)(cid:10)
+(cid:19)(cid:17)(cid:17)(cid:26)(cid:14)(cid:19)(cid:17)(cid:18)(cid:21) (cid:19)(cid:17)(cid:18)(cid:22)(cid:14)(cid:19)(cid:17)(cid:19)(cid:19)
+(cid:19)
+(cid:18)(cid:15)(cid:25)
+(cid:18)(cid:15)(cid:23)
+(cid:18)(cid:15)(cid:21)
+(cid:18)(cid:15)(cid:19)
+(cid:18)
+(cid:17)(cid:15)(cid:25)
+(cid:17)(cid:15)(cid:23)
+(cid:17)(cid:15)(cid:21)
+(cid:17)(cid:15)(cid:19)
+(cid:17)
+(cid:26) (cid:18)(cid:21) (cid:18)(cid:26) (cid:19)(cid:21) (cid:19)(cid:26)
+(cid:52)(cid:80)(cid:86)(cid:83)(cid:68)(cid:70)(cid:84)(cid:27)(cid:3)(cid:45)(cid:39)(cid:52)(cid:13)(cid:3)(cid:38)(cid:86)(cid:83)(cid:80)(cid:84)(cid:85)(cid:66)(cid:85)(cid:3)(cid:66)(cid:79)(cid:69)(cid:3)(cid:35)(cid:66)(cid:79)(cid:76)(cid:3)(cid:80)(cid:71)(cid:3)(cid:40)(cid:83)(cid:70)(cid:70)(cid:68)(cid:70)(cid:3)(cid:68)(cid:66)(cid:77)(cid:68)(cid:86)(cid:77)(cid:66)(cid:85)(cid:74)(cid:80)(cid:79)(cid:84)(cid:15)
+(cid:47)(cid:80)(cid:85)(cid:70)(cid:27)(cid:3)(cid:53)(cid:73)(cid:70)(cid:3)(cid:87)(cid:66)(cid:68)(cid:66)(cid:79)(cid:68)(cid:90)(cid:3)(cid:83)(cid:66)(cid:85)(cid:70)(cid:3)(cid:74)(cid:84)(cid:3)(cid:69)(cid:70)(cid:71)(cid:74)(cid:79)(cid:70)(cid:69)(cid:3)(cid:66)(cid:84)(cid:3)(cid:87)(cid:66)(cid:68)(cid:66)(cid:79)(cid:68)(cid:74)(cid:70)(cid:84)(cid:3)(cid:85)(cid:80)(cid:3)(cid:85)(cid:73)(cid:70)(cid:3)(cid:84)(cid:86)(cid:78)(cid:3)(cid:80)(cid:71)(cid:3)
+(cid:87)(cid:66)(cid:68)(cid:66)(cid:79)(cid:68)(cid:74)(cid:70)(cid:84)(cid:3)(cid:66)(cid:79)(cid:69)(cid:3)(cid:80)(cid:68)(cid:68)(cid:86)(cid:81)(cid:74)(cid:70)(cid:69)(cid:3)(cid:81)(cid:80)(cid:84)(cid:74)(cid:85)(cid:74)(cid:80)(cid:79)(cid:84)(cid:15)(cid:3)(cid:53)(cid:73)(cid:70)(cid:3)(cid:85)(cid:80)(cid:81)(cid:3)(cid:81)(cid:66)(cid:79)(cid:70)(cid:77)(cid:3)(cid:84)(cid:73)(cid:80)(cid:88)(cid:84)(cid:3)
+(cid:87)(cid:66)(cid:68)(cid:66)(cid:79)(cid:68)(cid:74)(cid:70)(cid:84)(cid:3)(cid:71)(cid:80)(cid:83)(cid:3)(cid:66)(cid:77)(cid:77)(cid:3)(cid:71)(cid:74)(cid:83)(cid:78)(cid:84)(cid:28)(cid:3)(cid:85)(cid:73)(cid:70)(cid:3)(cid:67)(cid:80)(cid:85)(cid:85)(cid:80)(cid:78)(cid:3)(cid:81)(cid:66)(cid:79)(cid:70)(cid:77)(cid:3)(cid:84)(cid:73)(cid:80)(cid:88)(cid:84)(cid:3)(cid:87)(cid:66)(cid:68)(cid:66)(cid:79)(cid:68)(cid:74)(cid:70)(cid:84)(cid:3)(cid:71)(cid:80)(cid:83)(cid:3)
+(cid:3)
+(cid:71)(cid:74)(cid:83)(cid:78)(cid:84)(cid:3)(cid:88)(cid:74)(cid:85)(cid:73)(cid:3)(cid:80)(cid:87)(cid:70)(cid:83)(cid:3)(cid:18)(cid:17)(cid:3)(cid:70)(cid:78)(cid:81)(cid:77)(cid:80)(cid:90)(cid:70)(cid:70)(cid:84)(cid:15)(cid:3)(cid:53)(cid:73)(cid:70)(cid:3)(cid:86)(cid:79)(cid:70)(cid:78)(cid:81)(cid:77)(cid:80)(cid:90)(cid:78)(cid:70)(cid:79)(cid:85)(cid:3)(cid:83)(cid:66)(cid:85)(cid:70)(cid:3)(cid:74)(cid:84)(cid:3)
+(cid:69)(cid:70)(cid:71)(cid:74)(cid:79)(cid:70)(cid:69)(cid:3)(cid:66)(cid:84)(cid:3)(cid:66)(cid:3)(cid:81)(cid:70)(cid:83)(cid:68)(cid:70)(cid:79)(cid:85)(cid:66)(cid:72)(cid:70)(cid:3)(cid:80)(cid:71)(cid:3)(cid:85)(cid:73)(cid:70)(cid:3)(cid:85)(cid:80)(cid:85)(cid:66)(cid:77)(cid:3)(cid:77)(cid:66)(cid:67)(cid:80)(cid:86)(cid:83)(cid:3)(cid:71)(cid:80)(cid:83)(cid:68)(cid:70)(cid:15)
+(cid:70)(cid:85)(cid:66)(cid:83)(cid:3)(cid:90)(cid:68)(cid:79)(cid:66)(cid:68)(cid:66)(cid:87)(cid:3)(cid:67)(cid:80)(cid:43)
+(cid:19)(cid:17)(cid:17)(cid:26)(cid:14)(cid:19)(cid:17)(cid:18)(cid:21) (cid:19)(cid:17)(cid:18)(cid:22)(cid:14)(cid:19)(cid:17)(cid:19)(cid:19)
+(cid:54)(cid:79)(cid:70)(cid:78)(cid:81)(cid:77)(cid:80)(cid:90)(cid:78)(cid:70)(cid:79)(cid:85)(cid:3)(cid:83)(cid:66)(cid:85)(cid:70)
+(cid:18)
+(cid:17)(cid:15)(cid:26)
+(cid:17)(cid:15)(cid:25)
+(cid:17)(cid:15)(cid:24)
+(cid:17)(cid:15)(cid:23)
+(cid:17)(cid:15)(cid:22)
+(cid:17)(cid:15)(cid:21)
+(cid:17)(cid:15)(cid:20)
+(cid:17)(cid:15)(cid:19)
+(cid:17)(cid:15)(cid:18)
+(cid:17)
+(cid:26) (cid:18)(cid:21) (cid:18)(cid:26) (cid:19)(cid:21) (cid:19)(cid:26)
+(cid:70)(cid:85)(cid:66)(cid:83)(cid:3)(cid:90)(cid:68)(cid:79)(cid:66)(cid:68)(cid:66)(cid:87)(cid:3)(cid:67)(cid:80)(cid:43)
+(cid:66)(cid:10)(cid:3)(cid:34)(cid:77)(cid:77)(cid:3)(cid:71)(cid:74)(cid:83)(cid:78)(cid:84)
+(cid:19)(cid:17)(cid:17)(cid:26)(cid:27)(cid:50)(cid:19)
+(cid:19)(cid:17)(cid:18)(cid:21)(cid:27)(cid:50)(cid:21)
+(cid:19)(cid:17)(cid:19)(cid:19)(cid:27)(cid:50)(cid:19) (cid:19)(cid:17)(cid:18)(cid:17)(cid:27)(cid:50)(cid:21)
+(cid:19)(cid:17)(cid:18)(cid:22)(cid:27)(cid:50)(cid:18)
+(cid:19)(cid:17)(cid:18)(cid:19)(cid:27)(cid:50)(cid:19)
+(cid:19)(cid:17)(cid:19)(cid:17)(cid:27)(cid:50)(cid:21)
+(cid:67)(cid:10)(cid:3)(cid:18)(cid:17)(cid:3)(cid:70)(cid:78)(cid:81)(cid:77)(cid:80)(cid:90)(cid:70)(cid:70)(cid:84)(cid:12)
+(cid:19)(cid:17)(cid:19)(cid:19)(cid:27)(cid:50)(cid:19) (cid:19)(cid:17)(cid:17)(cid:26)(cid:27)(cid:50)(cid:19)
+(cid:19)(cid:17)(cid:18)(cid:25)(cid:27)(cid:50)(cid:21)
+(cid:19)(cid:17)(cid:18)(cid:17)(cid:27)(cid:50)(cid:21)
+(cid:19)(cid:17)(cid:18)(cid:21)(cid:27)(cid:50)(cid:21)
+(cid:19)(cid:17)(cid:18)(cid:22)(cid:27)(cid:50)(cid:21)
+(cid:54)(cid:79)(cid:70)(cid:78)(cid:81)(cid:77)(cid:80)(cid:90)(cid:78)(cid:70)(cid:79)(cid:85)(cid:3)(cid:83)(cid:66)(cid:85)(cid:70)
+
+--- PAGE BREAK ---
+
+Chart 21 Job finding and separation rates in Greece ity raises tightness for given bargaining power
+and efficiency.16
+(cid:9)(cid:6)(cid:10)
+(cid:39)(cid:74)(cid:79)(cid:69)(cid:74)(cid:79)(cid:72)(cid:136)(cid:83)(cid:66)(cid:85)(cid:70) (cid:52)(cid:70)(cid:81)(cid:66)(cid:83)(cid:66)(cid:85)(cid:74)(cid:80)(cid:79)(cid:136)(cid:83)(cid:66)(cid:85)(cid:70) Either of these two scenarios implies higher
+(cid:25) (cid:18)(cid:15)(cid:21) wages. Moreover, the larger the role for pro-
+ductivity, the more likely it is that further wage
+(cid:24)
+(cid:18)(cid:15)(cid:19)
+gains may occur (e.g. when bargaining power
+(cid:23) improves), without disrupting employment
+(cid:18)(cid:15)(cid:17)
+gains. However, an inward shift of the Bev-
+(cid:22) eridge curve without an increase in the vacancy
+(cid:17)(cid:15)(cid:25)
+rate is less empirically plausible, and so the sec-
+(cid:21)
+ond case, with a larger role for productivity
+(cid:17)(cid:15)(cid:23)
+gains, seems more likely. That said, establish-
+(cid:20)
+ing the relative statistical significance of each
+(cid:17)(cid:15)(cid:21)
+(cid:19) of the aforementioned shocks in driving recent
+developments in the Greek labour market is an
+(cid:17)(cid:15)(cid:19)
+(cid:18)
+empirical matter which remains to be
+addressed.
+(cid:17) (cid:17)(cid:15)(cid:17)
+(cid:18)(cid:26)(cid:26)(cid:26)(cid:50)(cid:19) (cid:19)(cid:17)(cid:17)(cid:19)(cid:50)(cid:19) (cid:19)(cid:17)(cid:17)(cid:22)(cid:50)(cid:19) (cid:19)(cid:17)(cid:17)(cid:25)(cid:50)(cid:19) (cid:19)(cid:17)(cid:18)(cid:18)(cid:50)(cid:19) (cid:19)(cid:17)(cid:18)(cid:21)(cid:50)(cid:19) (cid:19)(cid:17)(cid:18)(cid:24)(cid:50)(cid:19) (cid:19)(cid:17)(cid:19)(cid:17)(cid:50)(cid:19)
+(cid:52)(cid:80)(cid:86)(cid:83)(cid:68)(cid:70)(cid:84)(cid:27)(cid:3)(cid:45)(cid:39)(cid:52)(cid:13)(cid:3)(cid:38)(cid:86)(cid:83)(cid:80)(cid:84)(cid:85)(cid:66)(cid:85)(cid:3)(cid:66)(cid:79)(cid:69)(cid:3)(cid:35)(cid:66)(cid:79)(cid:76)(cid:3)(cid:80)(cid:71)(cid:3)(cid:40)(cid:83)(cid:70)(cid:70)(cid:68)(cid:70)(cid:3)(cid:68)(cid:66)(cid:77)(cid:68)(cid:86)(cid:77)(cid:66)(cid:85)(cid:74)(cid:80)(cid:79)(cid:84)(cid:15) 5.2EFFICIENT UNEMPLOYMENT
+(cid:47)(cid:80)(cid:85)(cid:70)(cid:84)(cid:27)(cid:3)(cid:39)(cid:74)(cid:79)(cid:69)(cid:74)(cid:79)(cid:72)(cid:3)(cid:66)(cid:79)(cid:69)(cid:3)(cid:84)(cid:70)(cid:81)(cid:66)(cid:83)(cid:66)(cid:85)(cid:74)(cid:80)(cid:79)(cid:3)(cid:83)(cid:66)(cid:85)(cid:70)(cid:84)(cid:3)(cid:66)(cid:83)(cid:70)(cid:3)(cid:68)(cid:66)(cid:77)(cid:68)(cid:86)(cid:77)(cid:66)(cid:85)(cid:70)(cid:69)(cid:3)(cid:86)(cid:84)(cid:74)(cid:79)(cid:72)(cid:3)(cid:85)(cid:73)(cid:70)(cid:3)
+(cid:81)(cid:83)(cid:80)(cid:68)(cid:70)(cid:69)(cid:86)(cid:83)(cid:70)(cid:3)(cid:80)(cid:71)(cid:3)(cid:52)(cid:73)(cid:74)(cid:78)(cid:70)(cid:83)(cid:13)(cid:3)(cid:51)(cid:15)(cid:3)(cid:9)(cid:19)(cid:17)(cid:18)(cid:19)(cid:10)(cid:13)(cid:3)(cid:139)(cid:51)(cid:70)(cid:66)(cid:84)(cid:84)(cid:70)(cid:84)(cid:84)(cid:74)(cid:79)(cid:72)(cid:3)(cid:85)(cid:73)(cid:70)(cid:3)(cid:42)(cid:79)(cid:84)(cid:3)(cid:66)(cid:79)(cid:69)(cid:3)(cid:48)(cid:86)(cid:85)(cid:84)(cid:3)
+(cid:80)(cid:71)(cid:3)(cid:54)(cid:79)(cid:70)(cid:78)(cid:81)(cid:77)(cid:80)(cid:90)(cid:78)(cid:70)(cid:79)(cid:85)(cid:140)(cid:13)(cid:3)(cid:51)(cid:70)(cid:87)(cid:74)(cid:70)(cid:88)(cid:3)(cid:80)(cid:71)(cid:3)(cid:38)(cid:68)(cid:80)(cid:79)(cid:80)(cid:78)(cid:74)(cid:68)(cid:3)(cid:37)(cid:90)(cid:79)(cid:66)(cid:78)(cid:74)(cid:68)(cid:84)(cid:13)(cid:3)(cid:18)(cid:22)(cid:9)(cid:19)(cid:10)(cid:13)(cid:3) The literature typically measures the unem-
+(cid:18)(cid:19)(cid:24)(cid:14)(cid:18)(cid:21)(cid:25)(cid:28)(cid:3)(cid:66)(cid:79)(cid:69)(cid:3)(cid:85)(cid:73)(cid:70)(cid:3)(cid:83)(cid:70)(cid:71)(cid:74)(cid:79)(cid:70)(cid:78)(cid:70)(cid:79)(cid:85)(cid:3)(cid:80)(cid:71)(cid:3)(cid:38)(cid:77)(cid:84)(cid:67)(cid:90)(cid:13)(cid:3)(cid:46)(cid:15)(cid:13)(cid:3)(cid:35)(cid:15)(cid:3)(cid:41)(cid:80)(cid:67)(cid:74)(cid:75)(cid:79)(cid:13)(cid:3)(cid:66)(cid:79)(cid:69)(cid:3)(cid:34)(cid:15)(cid:3)
+ployment gap by comparing actual unemploy-
+(cid:1799)(cid:66)(cid:73)(cid:74)(cid:79)(cid:3)(cid:9)(cid:19)(cid:17)(cid:18)(cid:20)(cid:10)(cid:13)(cid:3)(cid:139)(cid:54)(cid:79)(cid:70)(cid:78)(cid:81)(cid:77)(cid:80)(cid:90)(cid:78)(cid:70)(cid:79)(cid:85)(cid:3)(cid:37)(cid:90)(cid:79)(cid:66)(cid:78)(cid:74)(cid:68)(cid:84)(cid:3)(cid:74)(cid:79)(cid:3)(cid:85)(cid:73)(cid:70)(cid:3)(cid:48)(cid:38)(cid:36)(cid:37)(cid:140)(cid:13)(cid:3)
+(cid:51)(cid:70)(cid:87)(cid:74)(cid:70)(cid:88)(cid:3)(cid:80)(cid:71)(cid:3)(cid:38)(cid:68)(cid:80)(cid:79)(cid:80)(cid:78)(cid:74)(cid:68)(cid:84)(cid:3)(cid:66)(cid:79)(cid:69)(cid:3)(cid:52)(cid:85)(cid:66)(cid:85)(cid:74)(cid:84)(cid:85)(cid:74)(cid:68)(cid:84)(cid:13)(cid:3)(cid:26)(cid:22)(cid:9)(cid:19)(cid:10)(cid:13)(cid:3)(cid:22)(cid:20)(cid:17)(cid:14)(cid:22)(cid:21)(cid:25)(cid:15)(cid:3) ment with trend unemployment or NAIRU. A
+fundamental problem with both these meas-
+without a model. Either case is consistent with ures is that, because they are latent, they are
+a combination of productivity and efficiency calculated using unobserved components
+shocks, as well as (to a lesser extent) bar- models, which are known to be particularly
+gaining shocks. Establishing which shocks problematic in end-points and hence real-time
+dominate is beyond the scope of this article, estimation. A second problem has to do with
+whose intent is to lay out the different sce- the interpretation of the measures; the trend
+narios. In particular, in a standard search and measure may make little sense in an economy
+matching framework, the difference depends with as large shocks as the Greek one, while
+on the relative size of shocks.15In both cases, NAIRU can also be a poor measure of slack at
+the results are consistent with an increase in a time of large supply shocks, such as the cur-
+productivity (profitability), which would rent episode.
+induce firms to increase vacancies and hence
+employment, as well as to offer higher wages, A new alternative measure, proposed by
+given the assumed higher productivity. Michaillat and Saez (2021),17 is theoretically
+Higher efficiency and moderately increasing grounded and is designed to account for the
+tightness (i.e. an inward shift of the curve, as fact that unemployment is itself wasteful, as
+in the top panel of Chart 20) may additionally willing workers remain idle, but the recruiting
+reflect higher bargaining power, which would process is also wasteful, as hiring committees
+explain why firms might avoid posting more
+vacancies per unemployed worker. Instead,
+15For a deeper discussion of the framework, see Consolo, A. and A.
+higher tightness but mostly constant efficiency Dias da Silva (2019), “The euro area labour market through the
+lens of the Beveridge curve”, ECB, Economic Bulletin, Issue 4.
+(i.e. a movement along the curve, as in the
+16The rise is higher with lower worker bargaining power, but this is
+bottom panel of Chart 20) is consistent with a an unlikely scenario at the current juncture.
+17See Michaillat, P. and E. Saez (2021), “Beveridgean unemployment
+larger role for productivity; higher productiv- gap”, Journal of Public Economics Plus.
+56
+62 EconomicBulletin
+December2022
+
+--- PAGE BREAK ---
+
+need to expend valuable resources in non-pro- Chart 22 Efficient unemployment in Greece
+ductive activities. This gives rise to the notion
+of “efficient unemployment”, the rate of unem- (cid:9)(cid:6)(cid:10)
+ployment which minimises the sum of unem- (cid:54) (cid:194)(cid:30) (cid:79)(cid:70) (cid:18) (cid:78) (cid:15)(cid:21) (cid:81)(cid:77)(cid:80)(cid:90)(cid:78)(cid:70)(cid:79)(cid:85) (cid:194)(cid:30)(cid:18)(cid:15)(cid:23) (cid:194)(cid:30)(cid:18)(cid:15)(cid:25) (cid:194)(cid:30)(cid:19)
+ployment and vacancy creation, subject to the (cid:20)(cid:17) (cid:20)(cid:17)
+Beveridge curve, which recognises that it is not
+possible to reduce both unemployment and (cid:19)(cid:22) (cid:19)(cid:22)
+vacancies to zero at the same time. Frictions in
+the labour market imply that vacancies are
+(cid:19)(cid:17) (cid:19)(cid:17)
+needed to reduce unemployment, and that
+lower vacancies will raise unemployment.
+(cid:18)(cid:22) (cid:18)(cid:22)
+Michaillat and Saez (2021) end up with a suf-
+ficient statistic formula composed of three (cid:18)(cid:17) (cid:18)(cid:17)
+parameters: the slope of the Beveridge curve,
+the cost of recruiting, and the value of non-
+(cid:22) (cid:22)
+employment. We estimate the slope of the Bev-
+eridge curve with Greek data, taking into
+account structural breaks around turning (cid:17) (cid:17)
+(cid:19)(cid:17)(cid:18)(cid:17)(cid:50)(cid:19) (cid:19)(cid:17)(cid:18)(cid:18)(cid:50)(cid:21) (cid:19)(cid:17)(cid:18)(cid:20)(cid:50)(cid:19) (cid:19)(cid:17)(cid:18)(cid:21)(cid:50)(cid:21) (cid:19)(cid:17)(cid:18)(cid:23)(cid:50)(cid:19) (cid:19)(cid:17)(cid:18)(cid:24)(cid:50)(cid:21) (cid:19)(cid:17)(cid:18)(cid:26)(cid:50)(cid:19) (cid:19)(cid:17)(cid:19)(cid:17)(cid:50)(cid:21) (cid:19)(cid:17)(cid:19)(cid:19)(cid:50)(cid:19)
+points in the cycle. The elasticity is estimated
+(cid:52)(cid:80)(cid:86)(cid:83)(cid:68)(cid:70)(cid:84)(cid:27)(cid:3)(cid:45)(cid:39)(cid:52)(cid:13)(cid:3)(cid:38)(cid:86)(cid:83)(cid:80)(cid:84)(cid:85)(cid:66)(cid:85)(cid:3)(cid:66)(cid:79)(cid:69)(cid:3)(cid:35)(cid:66)(cid:79)(cid:76)(cid:3)(cid:80)(cid:71)(cid:3)(cid:40)(cid:83)(cid:70)(cid:70)(cid:68)(cid:70)(cid:3)(cid:68)(cid:66)(cid:77)(cid:68)(cid:86)(cid:77)(cid:66)(cid:85)(cid:74)(cid:80)(cid:79)(cid:84)(cid:15)
+to be between 1.4 and 2, depending on the sam- (cid:47)(cid:80)(cid:85)(cid:70)(cid:27)(cid:3)(cid:38)(cid:71)(cid:71)(cid:74)(cid:68)(cid:74)(cid:70)(cid:79)(cid:85)(cid:3)(cid:86)(cid:79)(cid:70)(cid:78)(cid:81)(cid:77)(cid:80)(cid:90)(cid:78)(cid:70)(cid:79)(cid:85)(cid:3)(cid:74)(cid:84)(cid:3)(cid:70)(cid:84)(cid:85)(cid:74)(cid:78)(cid:66)(cid:85)(cid:70)(cid:69)(cid:3)(cid:86)(cid:84)(cid:74)(cid:79)(cid:72)(cid:3)(cid:85)(cid:73)(cid:70)(cid:3)(cid:78)(cid:70)(cid:85)(cid:73)(cid:80)(cid:69)(cid:3)(cid:80)(cid:71)(cid:3)
+ple and definition used (excluding outliers).18 (cid:46)(cid:74)(cid:68)(cid:73)(cid:66)(cid:74)(cid:77)(cid:77)(cid:66)(cid:85)(cid:13)(cid:3)(cid:49)(cid:15)(cid:3)(cid:66)(cid:79)(cid:69)(cid:3)(cid:38)(cid:15)(cid:3)(cid:52)(cid:66)(cid:70)(cid:91)(cid:3)(cid:9)(cid:19)(cid:17)(cid:19)(cid:18)(cid:10)(cid:13)(cid:3)(cid:139)(cid:35)(cid:70)(cid:87)(cid:70)(cid:83)(cid:74)(cid:69)(cid:72)(cid:70)(cid:66)(cid:79)(cid:3)(cid:86)(cid:79)(cid:70)(cid:78)(cid:81)(cid:77)(cid:80)(cid:90)(cid:78)(cid:70)(cid:79)(cid:85)(cid:3)
+(cid:72)(cid:66)(cid:81)(cid:140)(cid:13)(cid:3)(cid:43)(cid:80)(cid:86)(cid:83)(cid:79)(cid:66)(cid:77)(cid:3)(cid:80)(cid:71)(cid:3)(cid:49)(cid:86)(cid:67)(cid:77)(cid:74)(cid:68)(cid:3)(cid:38)(cid:68)(cid:80)(cid:79)(cid:80)(cid:78)(cid:74)(cid:68)(cid:84)(cid:3)(cid:49)(cid:77)(cid:86)(cid:84)(cid:13)(cid:3)(cid:19)(cid:3)(cid:9)(cid:19)(cid:17)(cid:19)(cid:18)(cid:10)(cid:15)
+This is substantially higher than the value of
+around 1 reported for the US, which is rea-
+sonable given the much lower levels of trend still exists slack in the labour market. Note that
+unemployment in the US.19Given model and slack in this context refers to underutilisation
+estimation uncertainty, we consider levels of u* of resources below their efficient level and
+for values of the elasticity α from 1.4 to 2. In does not imply the existence of price pressures,
+our baseline estimates, we use the same value as does its more common interpretation in a
+of non-labour ζas Michaillat and Saez (2021) NAIRU/Phillips curve framework.
+at 0.26 (especially given that the US values
+have a very large confidence interval), while we The 10% value is likely a conservative estimate.
+assume the cost of recruiting κis at 2, double It assumes that u* is essentially at the same
+the US value.20 level as in 2010, despite a very expansive set of
+reforms that took place during the crisis years.
+The estimates are shown in Chart 22. We plot, It is also based on conservative assumptions
+in dark blue, actual headline unemployment, about the cost of recruiting and the value of
+together with efficient unemployment under
+four different levels of the Beveridge elastic- 18The procedure involves regressing log vacancies on log unem-
+ity, from 1.4 to 2. As expected, the value of effi- ployment, for each segment of the Beveridge curve, to take into
+account the breaks in the relationship at turning points of the busi-
+cient unemployment is a key predictor of the ness cycle. There are several breaks whose identification is
+required. Michaillat and Saez (2021) use the Bai-Perron procedure,
+Beveridge elasticity; moreover, the higher
+and that same approach is followed here as well. The estimation
+unemployment is, the larger the discrepancy of is conducted separately in each segment. See Michaillat, P. and E.
+Saez (2021), “Beveridgean unemployment gap”, Journal of Pub-
+u*across different measures. Focusing on the lic Economics Plus.
+current juncture, we see that for all values of 19The specific features of the Greek labour market, where informal
+networks are likely more important than in the US or other EU
+the Beveridge elasticity, u* is comfortably countries, may mean that firms post fewer vacancies for given
+labour needs. However, the survey asks firms about positions they
+below the current value of headline unem-
+create and take steps to fill; it does not require that a formal
+ployment of 11.8% (September 2022); with an vacancy is posted.
+20Sensitivity checks have been performed and are available upon
+elasticity of 2, u*is 10.1%, indicating that there request.
+56
+EconomicBulletin 63
+December2022
+
+--- PAGE BREAK ---
+
+non-labour. Sensitivity checks show that less The analysis is limited to full-time jobs, which
+conservative values, especially for the cost of ensures comparability of wages. For con-
+recruiting, give larger values of slack.21With the creteness we also focus our analysis on the sec-
+baseline calibration, a value of the Beveridge toral and skill dimension of the data by aggre-
+elasticity α of 1.8 gives u* equal to 9%. Note gating appropriately the relevant information.
+that, while efficient unemployment remains
+well below headline unemployment, irrespec- We will proceed by presenting net employment
+tive of the calibration used, there is clearly a flows (hires-fires-voluntary exits) and the
+rapid narrowing of the distance between actual respective wage of the new hires in order to see
+and efficient unemployment in Chart 22. Not whether any significant common trends emerge
+only has actual unemployment fallen in recent (see Chart 23). Moreover, to see how the wage
+years, but efficient unemployment has also of newcomers compares to the wage of those
+risen, as a result of higher vacancy creation. already employed, we also analyse the evolution
+This suggests that, while still slack, the Greek of the wage of newcomers in relation to the
+labour market could tighten over the medium wage of the relevant employment stock. Usu-
+term, if current trends persist. ally, the wages of the incumbent workers ben-
+efit from a tenure-related premium, which
+reflects the firm-specific human capital that has
+6 WAGES AND EMPLOYMENT FLOWS: INSIGHTS been acquired through the years. If the wage of
+FROM THE ERGANI INFORMATION SYSTEM newcomers comes closer to the wage of incum-
+bent workers, i.e. their relative wage comes
+This section focuses on the evolution of closer to one, there are indications of wage
+employment flows and wages across major sec- pressures as the newcomers get a premium in
+tors of activity, with the general aim of identi- order to accept the job offer, which reduces the
+fying common trends and indications of market wage differential relative to incumbents.
+tightness. Our analysis of employment devel-
+opments is based on data for the period from Most major sectors exhibit positive net employ-
+January 2016 to December 2021 from the ment flows in the years following the
+ERGANI information system, an administra- COVID-19 outbreak, with the exception of
+tive database covering the whole population of Utilities and the Primary sector, the net flows
+employees working under private law contracts of which are mostly in negative territory. The
+in Greece.22 The data used in this section are Manufacturing, Construction, Trade, Trans-
+micro-aggregated data from the ERGANI portation & Storage (T&S in Chart 23) and
+monthly flows as well as the ERGANI annual Other Services sectors are characterised by sig-
+accounts. The information available to us refers nificant net employment flows that are above
+to monthly employment flows (i.e. hires, fires those of the pre-COVID period.
+and voluntary exits/resignations) and their
+respective wage. We also use annual wages for Hotels & Restaurants also exhibits significant
+the employment stock as obtained from the positive net employment flows following the
+ERGANI annual accounts, which are extrapo-
+lated to a monthly frequency for comparability. 21Available upon request.
+22This database includes information submitted by all private sector
+In particular, we have the above information
+employers and serves as a detailed registry of the employment in
+across the following worker, employer and job the private sector. Employees working in public sector entities,
+whose contracts are governed by private sector labour laws are also
+characteristics, respectively: (i) worker gender, registered in this database. The information collected is at the job-
+age and occupation; (ii) region, main sector of employment position level.
+23This information is available at the level of 89 2-digit NACE sec-
+establishment activity, firm size (in number of tors of activity, 7 age categories, 46 occupation categories, 12 firm
+size categories, 13 NUTS-2 regions (for a description of the data
+employees); (iii) type of job contract (open-
+dimension, see Kosma, T., P. Petroulas and E. Vourvachaki (2020)
+ended or fixed-term) and type of employment “What drives wage differentials in Greece: workplaces or work-
+ers?”, Bank of Greece, Economic Bulletin, 52, pp. 69-72, Decem-
+(full-time, part-time or intermittent).23 ber).
+56
+64 EconomicBulletin
+December2022
+
+--- PAGE BREAK ---
+
+Chart 23 Net employment flows and wage developments for new hires in main sectors of activity
+(cid:56)(cid:66)(cid:72)(cid:70)(cid:136)(cid:80)(cid:71)(cid:136)(cid:79)(cid:70)(cid:88)(cid:136)(cid:73)(cid:74)(cid:83)(cid:70)(cid:84)(cid:136)(cid:9)(cid:38)(cid:54)(cid:51)(cid:13)(cid:136)(cid:77)(cid:70)(cid:71)(cid:85)(cid:14)(cid:73)(cid:66)(cid:79)(cid:69)(cid:136)(cid:84)(cid:68)(cid:66)(cid:77)(cid:70)(cid:10)
+(cid:47)(cid:70)(cid:85)(cid:136)(cid:70)(cid:78)(cid:81)(cid:77)(cid:80)(cid:90)(cid:78)(cid:70)(cid:79)(cid:85)(cid:136)(cid:71)(cid:77)(cid:80)(cid:88)(cid:84)(cid:136)(cid:9)(cid:79)(cid:86)(cid:78)(cid:67)(cid:70)(cid:83)(cid:136)(cid:80)(cid:71)(cid:136)(cid:81)(cid:70)(cid:83)(cid:84)(cid:80)(cid:79)(cid:84)(cid:13)(cid:136)(cid:83)(cid:74)(cid:72)(cid:73)(cid:85)(cid:14)(cid:73)(cid:66)(cid:79)(cid:69)(cid:136)(cid:84)(cid:68)(cid:66)(cid:77)(cid:70)(cid:10)
+(cid:51)(cid:70)(cid:77)(cid:66)(cid:85)(cid:74)(cid:87)(cid:70)(cid:136)(cid:88)(cid:66)(cid:72)(cid:70)(cid:136)(cid:9)(cid:83)(cid:66)(cid:85)(cid:74)(cid:80)(cid:13)(cid:136)(cid:77)(cid:70)(cid:71)(cid:85)(cid:14)(cid:73)(cid:66)(cid:79)(cid:69)(cid:136)(cid:84)(cid:68)(cid:66)(cid:77)(cid:70)(cid:10)
+(cid:49)(cid:83)(cid:74)(cid:78)(cid:66)(cid:83)(cid:90)(cid:3)(cid:84)(cid:70)(cid:68)(cid:85)(cid:80)(cid:83)
+(cid:19)(cid:13)(cid:17)(cid:17)(cid:17) (cid:17)(cid:15)(cid:24)(cid:24) (cid:19)(cid:13)(cid:17)(cid:17)(cid:17)
+(cid:18)(cid:13)(cid:23)(cid:17)(cid:17) (cid:18)(cid:13)(cid:23)(cid:17)(cid:17)
+(cid:25)(cid:19)(cid:22) (cid:17)(cid:15)(cid:24)(cid:22)
+(cid:18)(cid:13)(cid:19)(cid:17)(cid:17) (cid:18)(cid:13)(cid:19)(cid:17)(cid:17)
+(cid:17)(cid:15)(cid:24)(cid:20)
+(cid:25)(cid:17)(cid:22)
+(cid:25)(cid:17)(cid:17) (cid:25)(cid:17)(cid:17)
+(cid:17)(cid:15)(cid:24)(cid:18)
+(cid:21)(cid:17)(cid:17) (cid:21)(cid:17)(cid:17)
+(cid:24)(cid:25)(cid:22)
+(cid:17)(cid:15)(cid:23)(cid:26)
+(cid:17) (cid:17)
+(cid:24)(cid:23)(cid:22) (cid:14)(cid:21)(cid:17)(cid:17) (cid:17)(cid:15)(cid:23)(cid:24) (cid:14)(cid:21)(cid:17)(cid:17)
+(cid:19)(cid:17)(cid:18)(cid:24) (cid:19)(cid:17)(cid:18)(cid:25) (cid:19)(cid:17)(cid:18)(cid:26) (cid:19)(cid:17)(cid:19)(cid:17) (cid:19)(cid:17)(cid:19)(cid:18) (cid:19)(cid:17)(cid:18)(cid:24) (cid:19)(cid:17)(cid:18)(cid:25) (cid:19)(cid:17)(cid:18)(cid:26) (cid:19)(cid:17)(cid:19)(cid:17) (cid:19)(cid:17)(cid:19)(cid:18)
+(cid:46)(cid:66)(cid:79)(cid:86)(cid:71)(cid:66)(cid:68)(cid:85)(cid:86)(cid:83)(cid:74)(cid:79)(cid:72)
+(cid:26)(cid:22)(cid:22) (cid:18)(cid:20)(cid:13)(cid:22)(cid:17)(cid:17) (cid:17)(cid:15)(cid:24)(cid:25) (cid:18)(cid:20)(cid:13)(cid:22)(cid:17)(cid:17)
+(cid:18)(cid:19)(cid:13)(cid:22)(cid:17)(cid:17) (cid:18)(cid:19)(cid:13)(cid:22)(cid:17)(cid:17)
+(cid:18)(cid:18)(cid:13)(cid:22)(cid:17)(cid:17) (cid:18)(cid:18)(cid:13)(cid:22)(cid:17)(cid:17)
+(cid:26)(cid:20)(cid:22)
+(cid:18)(cid:17)(cid:13)(cid:22)(cid:17)(cid:17) (cid:18)(cid:17)(cid:13)(cid:22)(cid:17)(cid:17)
+(cid:17)(cid:15)(cid:24)(cid:23)
+(cid:26)(cid:13)(cid:22)(cid:17)(cid:17) (cid:26)(cid:13)(cid:22)(cid:17)(cid:17)
+(cid:26)(cid:18)(cid:22)
+(cid:25)(cid:13)(cid:22)(cid:17)(cid:17) (cid:25)(cid:13)(cid:22)(cid:17)(cid:17)
+(cid:24)(cid:13)(cid:22)(cid:17)(cid:17) (cid:24)(cid:13)(cid:22)(cid:17)(cid:17)
+(cid:25)(cid:26)(cid:22) (cid:23)(cid:13)(cid:22)(cid:17)(cid:17) (cid:17)(cid:15)(cid:24)(cid:21) (cid:23)(cid:13)(cid:22)(cid:17)(cid:17)
+(cid:19)(cid:17)(cid:18)(cid:24) (cid:19)(cid:17)(cid:18)(cid:25) (cid:19)(cid:17)(cid:18)(cid:26) (cid:19)(cid:17)(cid:19)(cid:17) (cid:19)(cid:17)(cid:19)(cid:18) (cid:19)(cid:17)(cid:18)(cid:24) (cid:19)(cid:17)(cid:18)(cid:25) (cid:19)(cid:17)(cid:18)(cid:26) (cid:19)(cid:17)(cid:19)(cid:17) (cid:19)(cid:17)(cid:19)(cid:18)
+(cid:54)(cid:85)(cid:74)(cid:77)(cid:74)(cid:85)(cid:74)(cid:70)(cid:84)
+(cid:18)(cid:13)(cid:22)(cid:19)(cid:22) (cid:17)(cid:15)(cid:21)(cid:23) (cid:18)(cid:13)(cid:22)(cid:19)(cid:22)
+(cid:26)(cid:18)(cid:22)
+(cid:18)(cid:13)(cid:18)(cid:19)(cid:22) (cid:18)(cid:13)(cid:18)(cid:19)(cid:22)
+(cid:25)(cid:26)(cid:22)
+(cid:24)(cid:19)(cid:22) (cid:24)(cid:19)(cid:22)
+(cid:17)(cid:15)(cid:21)(cid:21)
+(cid:20)(cid:19)(cid:22) (cid:20)(cid:19)(cid:22)
+(cid:25)(cid:24)(cid:22)
+(cid:14)(cid:24)(cid:22) (cid:14)(cid:24)(cid:22)
+(cid:25)(cid:22)(cid:22) (cid:14)(cid:21)(cid:24)(cid:22) (cid:17)(cid:15)(cid:21)(cid:19) (cid:14)(cid:21)(cid:24)(cid:22)
+(cid:19)(cid:17)(cid:18)(cid:24) (cid:19)(cid:17)(cid:18)(cid:25) (cid:19)(cid:17)(cid:18)(cid:26) (cid:19)(cid:17)(cid:19)(cid:17) (cid:19)(cid:17)(cid:19)(cid:18) (cid:19)(cid:17)(cid:18)(cid:24) (cid:19)(cid:17)(cid:18)(cid:25) (cid:19)(cid:17)(cid:18)(cid:26) (cid:19)(cid:17)(cid:19)(cid:17) (cid:19)(cid:17)(cid:19)(cid:18)
+(cid:52)(cid:80)(cid:86)(cid:83)(cid:68)(cid:70)(cid:27)(cid:3)(cid:38)(cid:51)(cid:40)(cid:34)(cid:47)(cid:42)(cid:3)(cid:66)(cid:79)(cid:69)(cid:3)(cid:35)(cid:66)(cid:79)(cid:76)(cid:3)(cid:80)(cid:71)(cid:3)(cid:40)(cid:83)(cid:70)(cid:70)(cid:68)(cid:70)(cid:3)(cid:68)(cid:66)(cid:77)(cid:68)(cid:86)(cid:77)(cid:66)(cid:85)(cid:74)(cid:80)(cid:79)(cid:84)(cid:15)
+(cid:47)(cid:80)(cid:85)(cid:70)(cid:27)(cid:3)(cid:47)(cid:70)(cid:85)(cid:3)(cid:70)(cid:78)(cid:81)(cid:77)(cid:80)(cid:90)(cid:78)(cid:70)(cid:79)(cid:85)(cid:3)(cid:71)(cid:77)(cid:80)(cid:88)(cid:84)(cid:3)(cid:66)(cid:83)(cid:70)(cid:3)(cid:85)(cid:80)(cid:85)(cid:66)(cid:77)(cid:3)(cid:71)(cid:77)(cid:80)(cid:88)(cid:84)(cid:3)(cid:74)(cid:79)(cid:3)(cid:85)(cid:73)(cid:70)(cid:3)(cid:90)(cid:70)(cid:66)(cid:83)(cid:3)(cid:9)(cid:84)(cid:86)(cid:78)(cid:3)(cid:80)(cid:71)(cid:3)(cid:78)(cid:80)(cid:79)(cid:85)(cid:73)(cid:77)(cid:90)(cid:3)(cid:79)(cid:70)(cid:85)(cid:3)(cid:71)(cid:77)(cid:80)(cid:88)(cid:84)(cid:10)(cid:3)(cid:85)(cid:80)(cid:3)(cid:66)(cid:69)(cid:69)(cid:83)(cid:70)(cid:84)(cid:84)(cid:3)(cid:84)(cid:70)(cid:66)(cid:84)(cid:80)(cid:79)(cid:66)(cid:77)(cid:74)(cid:85)(cid:90)(cid:15)(cid:3)(cid:53)(cid:73)(cid:70)(cid:3)(cid:88)(cid:66)(cid:72)(cid:70)(cid:84)(cid:3)(cid:80)(cid:71)(cid:3)(cid:79)(cid:70)(cid:88)(cid:68)(cid:80)(cid:78)(cid:70)(cid:83)(cid:84)(cid:3)(cid:66)(cid:83)(cid:70)(cid:3)
+(cid:90)(cid:70)(cid:66)(cid:83)(cid:3)(cid:66)(cid:87)(cid:70)(cid:83)(cid:66)(cid:72)(cid:70)(cid:84)(cid:3)(cid:67)(cid:66)(cid:84)(cid:70)(cid:69)(cid:3)(cid:80)(cid:79)(cid:3)(cid:78)(cid:80)(cid:79)(cid:85)(cid:73)(cid:77)(cid:90)(cid:3)(cid:69)(cid:66)(cid:85)(cid:66)(cid:15)(cid:3)(cid:53)(cid:73)(cid:70)(cid:3)(cid:83)(cid:70)(cid:77)(cid:66)(cid:85)(cid:74)(cid:87)(cid:70)(cid:3)(cid:88)(cid:66)(cid:72)(cid:70)(cid:3)(cid:74)(cid:84)(cid:3)(cid:85)(cid:73)(cid:70)(cid:3)(cid:83)(cid:66)(cid:85)(cid:74)(cid:80)(cid:3)(cid:80)(cid:71)(cid:3)(cid:85)(cid:73)(cid:70)(cid:3)(cid:88)(cid:66)(cid:72)(cid:70)(cid:3)(cid:80)(cid:71)(cid:3)(cid:79)(cid:70)(cid:88)(cid:68)(cid:80)(cid:78)(cid:70)(cid:83)(cid:84)(cid:3)(cid:85)(cid:80)(cid:3)(cid:85)(cid:73)(cid:70)(cid:3)(cid:83)(cid:70)(cid:84)(cid:81)(cid:70)(cid:68)(cid:85)(cid:74)(cid:87)(cid:70)(cid:3)(cid:88)(cid:66)(cid:72)(cid:70)(cid:3)(cid:80)(cid:71)(cid:3)(cid:85)(cid:73)(cid:70)(cid:3)(cid:70)(cid:78)(cid:81)(cid:77)(cid:80)(cid:90)(cid:78)(cid:70)(cid:79)(cid:85)(cid:3)
+(cid:84)(cid:85)(cid:80)(cid:68)(cid:76)(cid:3)(cid:80)(cid:67)(cid:85)(cid:66)(cid:74)(cid:79)(cid:70)(cid:69)(cid:3)(cid:71)(cid:83)(cid:80)(cid:78)(cid:3)(cid:85)(cid:73)(cid:70)(cid:3)(cid:66)(cid:79)(cid:79)(cid:86)(cid:66)(cid:77)(cid:3)(cid:38)(cid:51)(cid:40)(cid:34)(cid:47)(cid:42)(cid:3)(cid:66)(cid:68)(cid:68)(cid:80)(cid:86)(cid:79)(cid:85)(cid:84)(cid:3)(cid:83)(cid:70)(cid:71)(cid:70)(cid:83)(cid:83)(cid:74)(cid:79)(cid:72)(cid:3)(cid:85)(cid:80)(cid:3)(cid:47)(cid:80)(cid:87)(cid:70)(cid:78)(cid:67)(cid:70)(cid:83)(cid:3)(cid:74)(cid:79)(cid:3)(cid:70)(cid:66)(cid:68)(cid:73)(cid:3)(cid:90)(cid:70)(cid:66)(cid:83)(cid:15)
+56
+EconomicBulletin 65
+December2022
+
+--- PAGE BREAK ---
+
+Chart 23 Net employment flows and wage developments for new hires in main sectors of activity
+(cid:9)(cid:68)(cid:80)(cid:79)(cid:85)(cid:74)(cid:79)(cid:86)(cid:70)(cid:69)(cid:10)
+(cid:56)(cid:66)(cid:72)(cid:70)(cid:136)(cid:80)(cid:71)(cid:136)(cid:79)(cid:70)(cid:88)(cid:136)(cid:73)(cid:74)(cid:83)(cid:70)(cid:84)(cid:136)(cid:9)(cid:38)(cid:54)(cid:51)(cid:13)(cid:136)(cid:77)(cid:70)(cid:71)(cid:85)(cid:14)(cid:73)(cid:66)(cid:79)(cid:69)(cid:136)(cid:84)(cid:68)(cid:66)(cid:77)(cid:70)(cid:10)
+(cid:47)(cid:70)(cid:85)(cid:136)(cid:70)(cid:78)(cid:81)(cid:77)(cid:80)(cid:90)(cid:78)(cid:70)(cid:79)(cid:85)(cid:136)(cid:71)(cid:77)(cid:80)(cid:88)(cid:84)(cid:136)(cid:9)(cid:79)(cid:86)(cid:78)(cid:67)(cid:70)(cid:83)(cid:136)(cid:80)(cid:71)(cid:136)(cid:81)(cid:70)(cid:83)(cid:84)(cid:80)(cid:79)(cid:84)(cid:13)(cid:136)(cid:83)(cid:74)(cid:72)(cid:73)(cid:85)(cid:14)(cid:73)(cid:66)(cid:79)(cid:69)(cid:136)(cid:84)(cid:68)(cid:66)(cid:77)(cid:70)(cid:10)
+(cid:51)(cid:70)(cid:77)(cid:66)(cid:85)(cid:74)(cid:87)(cid:70)(cid:136)(cid:88)(cid:66)(cid:72)(cid:70)(cid:136)(cid:9)(cid:83)(cid:66)(cid:85)(cid:74)(cid:80)(cid:13)(cid:136)(cid:77)(cid:70)(cid:71)(cid:85)(cid:14)(cid:73)(cid:66)(cid:79)(cid:69)(cid:136)(cid:84)(cid:68)(cid:66)(cid:77)(cid:70)(cid:10)
+(cid:36)(cid:80)(cid:79)(cid:84)(cid:85)(cid:83)(cid:86)(cid:68)(cid:85)(cid:74)(cid:80)(cid:79)
+(cid:23)(cid:13)(cid:22)(cid:17)(cid:17) (cid:23)(cid:13)(cid:22)(cid:17)(cid:17)
+(cid:17)
+(cid:23)(cid:13)(cid:18)(cid:17)(cid:17) (cid:17)(cid:15)(cid:25)(cid:21) (cid:23)(cid:13)(cid:18)(cid:17)(cid:17)
+(cid:26)(cid:18)(cid:17) (cid:22)(cid:13)(cid:24)(cid:17)(cid:17) (cid:22)(cid:13)(cid:24)(cid:17)(cid:17)
+(cid:22)(cid:13)(cid:20)(cid:17)(cid:17) (cid:22)(cid:13)(cid:20)(cid:17)(cid:17)
+(cid:21)(cid:13)(cid:26)(cid:17)(cid:17) (cid:21)(cid:13)(cid:26)(cid:17)(cid:17)
+(cid:17)(cid:15)(cid:25)(cid:19)
+(cid:21)(cid:13)(cid:22)(cid:17)(cid:17) (cid:21)(cid:13)(cid:22)(cid:17)(cid:17)
+(cid:21)(cid:13)(cid:18)(cid:17)(cid:17) (cid:21)(cid:13)(cid:18)(cid:17)(cid:17)
+(cid:25)(cid:26)(cid:17)
+(cid:20)(cid:13)(cid:24)(cid:17)(cid:17) (cid:20)(cid:13)(cid:24)(cid:17)(cid:17)
+(cid:20)(cid:13)(cid:20)(cid:17)(cid:17) (cid:17)(cid:15)(cid:25)(cid:17) (cid:20)(cid:13)(cid:20)(cid:17)(cid:17)
+(cid:19)(cid:13)(cid:26)(cid:17)(cid:17) (cid:19)(cid:13)(cid:26)(cid:17)(cid:17)
+(cid:19)(cid:13)(cid:22)(cid:17)(cid:17) (cid:19)(cid:13)(cid:22)(cid:17)(cid:17)
+(cid:25)(cid:24)(cid:17) (cid:19)(cid:13)(cid:18)(cid:17)(cid:17) (cid:17)(cid:15)(cid:24)(cid:25) (cid:19)(cid:13)(cid:18)(cid:17)(cid:17)
+(cid:19)(cid:17)(cid:18)(cid:24) (cid:19)(cid:17)(cid:18)(cid:25) (cid:19)(cid:17)(cid:18)(cid:26) (cid:19)(cid:17)(cid:19)(cid:17) (cid:19)(cid:17)(cid:19)(cid:18) (cid:19)(cid:17)(cid:18)(cid:24) (cid:19)(cid:17)(cid:18)(cid:25) (cid:19)(cid:17)(cid:18)(cid:26) (cid:19)(cid:17)(cid:19)(cid:17) (cid:19)(cid:17)(cid:19)(cid:18)
+(cid:53)(cid:83)(cid:66)(cid:69)(cid:70)
+(cid:18)(cid:24)(cid:13)(cid:22)(cid:17)(cid:17) (cid:18)(cid:24)(cid:13)(cid:22)(cid:17)(cid:17)
+(cid:25)(cid:17)(cid:22)
+(cid:17)(cid:15)(cid:24)(cid:21)
+(cid:18)(cid:22)(cid:13)(cid:22)(cid:17)(cid:17) (cid:18)(cid:22)(cid:13)(cid:22)(cid:17)(cid:17)
+(cid:24)(cid:25)(cid:22)
+(cid:18)(cid:20)(cid:13)(cid:22)(cid:17)(cid:17) (cid:18)(cid:20)(cid:13)(cid:22)(cid:17)(cid:17)
+(cid:17)(cid:15)(cid:24)(cid:19)
+(cid:24)(cid:23)(cid:22) (cid:18)(cid:18)(cid:13)(cid:22)(cid:17)(cid:17) (cid:18)(cid:18)(cid:13)(cid:22)(cid:17)(cid:17)
+(cid:26)(cid:13)(cid:22)(cid:17)(cid:17) (cid:26)(cid:13)(cid:22)(cid:17)(cid:17)
+(cid:17)(cid:15)(cid:24)(cid:17)
+(cid:24)(cid:21)(cid:22)
+(cid:24)(cid:13)(cid:22)(cid:17)(cid:17) (cid:24)(cid:13)(cid:22)(cid:17)(cid:17)
+(cid:24)(cid:19)(cid:22) (cid:22)(cid:13)(cid:22)(cid:17)(cid:17) (cid:17)(cid:15)(cid:23)(cid:25) (cid:22)(cid:13)(cid:22)(cid:17)(cid:17)
+(cid:19)(cid:17)(cid:18)(cid:24) (cid:19)(cid:17)(cid:18)(cid:25) (cid:19)(cid:17)(cid:18)(cid:26) (cid:19)(cid:17)(cid:19)(cid:17) (cid:19)(cid:17)(cid:19)(cid:18) (cid:19)(cid:17)(cid:18)(cid:24) (cid:19)(cid:17)(cid:18)(cid:25) (cid:19)(cid:17)(cid:18)(cid:26) (cid:19)(cid:17)(cid:19)(cid:17) (cid:19)(cid:17)(cid:19)(cid:18)
+(cid:53)(cid:7)(cid:52)
+(cid:25)(cid:24)(cid:17)
+(cid:23)(cid:13)(cid:23)(cid:17)(cid:17) (cid:23)(cid:13)(cid:23)(cid:17)(cid:17)
+(cid:22)(cid:13)(cid:23)(cid:17)(cid:17) (cid:17)(cid:15)(cid:23)(cid:18) (cid:22)(cid:13)(cid:23)(cid:17)(cid:17)
+(cid:25)(cid:22)(cid:17)
+(cid:21)(cid:13)(cid:23)(cid:17)(cid:17) (cid:21)(cid:13)(cid:23)(cid:17)(cid:17)
+(cid:20)(cid:13)(cid:23)(cid:17)(cid:17) (cid:20)(cid:13)(cid:23)(cid:17)(cid:17)
+(cid:25)(cid:20)(cid:17)
+(cid:19)(cid:13)(cid:23)(cid:17)(cid:17) (cid:17)(cid:15)(cid:22)(cid:26) (cid:19)(cid:13)(cid:23)(cid:17)(cid:17)
+(cid:25)(cid:18)(cid:17) (cid:18)(cid:13)(cid:23)(cid:17)(cid:17) (cid:18)(cid:13)(cid:23)(cid:17)(cid:17)
+(cid:23)(cid:17)(cid:17) (cid:23)(cid:17)(cid:17)
+(cid:24)(cid:26)(cid:17) (cid:14)(cid:21)(cid:17)(cid:17) (cid:17)(cid:15)(cid:22)(cid:24) (cid:14)(cid:21)(cid:17)(cid:17)
+(cid:19)(cid:17)(cid:18)(cid:24) (cid:19)(cid:17)(cid:18)(cid:25) (cid:19)(cid:17)(cid:18)(cid:26) (cid:19)(cid:17)(cid:19)(cid:17) (cid:19)(cid:17)(cid:19)(cid:18) (cid:19)(cid:17)(cid:18)(cid:24) (cid:19)(cid:17)(cid:18)(cid:25) (cid:19)(cid:17)(cid:18)(cid:26) (cid:19)(cid:17)(cid:19)(cid:17) (cid:19)(cid:17)(cid:19)(cid:18)
+(cid:52)(cid:80)(cid:86)(cid:83)(cid:68)(cid:70)(cid:27)(cid:3)(cid:38)(cid:51)(cid:40)(cid:34)(cid:47)(cid:42)(cid:3)(cid:66)(cid:79)(cid:69)(cid:3)(cid:35)(cid:66)(cid:79)(cid:76)(cid:3)(cid:80)(cid:71)(cid:3)(cid:40)(cid:83)(cid:70)(cid:70)(cid:68)(cid:70)(cid:3)(cid:68)(cid:66)(cid:77)(cid:68)(cid:86)(cid:77)(cid:66)(cid:85)(cid:74)(cid:80)(cid:79)(cid:84)(cid:15)
+(cid:47)(cid:80)(cid:85)(cid:70)(cid:27)(cid:3)(cid:47)(cid:70)(cid:85)(cid:3)(cid:70)(cid:78)(cid:81)(cid:77)(cid:80)(cid:90)(cid:78)(cid:70)(cid:79)(cid:85)(cid:3)(cid:71)(cid:77)(cid:80)(cid:88)(cid:84)(cid:3)(cid:66)(cid:83)(cid:70)(cid:3)(cid:85)(cid:80)(cid:85)(cid:66)(cid:77)(cid:3)(cid:71)(cid:77)(cid:80)(cid:88)(cid:84)(cid:3)(cid:74)(cid:79)(cid:3)(cid:85)(cid:73)(cid:70)(cid:3)(cid:90)(cid:70)(cid:66)(cid:83)(cid:3)(cid:9)(cid:84)(cid:86)(cid:78)(cid:3)(cid:80)(cid:71)(cid:3)(cid:78)(cid:80)(cid:79)(cid:85)(cid:73)(cid:77)(cid:90)(cid:3)(cid:79)(cid:70)(cid:85)(cid:3)(cid:71)(cid:77)(cid:80)(cid:88)(cid:84)(cid:10)(cid:3)(cid:85)(cid:80)(cid:3)(cid:66)(cid:69)(cid:69)(cid:83)(cid:70)(cid:84)(cid:84)(cid:3)(cid:84)(cid:70)(cid:66)(cid:84)(cid:80)(cid:79)(cid:66)(cid:77)(cid:74)(cid:85)(cid:90)(cid:15)(cid:3)(cid:53)(cid:73)(cid:70)(cid:3)(cid:88)(cid:66)(cid:72)(cid:70)(cid:84)(cid:3)(cid:80)(cid:71)(cid:3)(cid:79)(cid:70)(cid:88)(cid:68)(cid:80)(cid:78)(cid:70)(cid:83)(cid:84)(cid:3)(cid:66)(cid:83)(cid:70)(cid:3)
+(cid:90)(cid:70)(cid:66)(cid:83)(cid:3)(cid:66)(cid:87)(cid:70)(cid:83)(cid:66)(cid:72)(cid:70)(cid:84)(cid:3)(cid:67)(cid:66)(cid:84)(cid:70)(cid:69)(cid:3)(cid:80)(cid:79)(cid:3)(cid:78)(cid:80)(cid:79)(cid:85)(cid:73)(cid:77)(cid:90)(cid:3)(cid:69)(cid:66)(cid:85)(cid:66)(cid:15)(cid:3)(cid:53)(cid:73)(cid:70)(cid:3)(cid:83)(cid:70)(cid:77)(cid:66)(cid:85)(cid:74)(cid:87)(cid:70)(cid:3)(cid:88)(cid:66)(cid:72)(cid:70)(cid:3)(cid:74)(cid:84)(cid:3)(cid:85)(cid:73)(cid:70)(cid:3)(cid:83)(cid:66)(cid:85)(cid:74)(cid:80)(cid:3)(cid:80)(cid:71)(cid:3)(cid:85)(cid:73)(cid:70)(cid:3)(cid:88)(cid:66)(cid:72)(cid:70)(cid:3)(cid:80)(cid:71)(cid:3)(cid:79)(cid:70)(cid:88)(cid:68)(cid:80)(cid:78)(cid:70)(cid:83)(cid:84)(cid:3)(cid:85)(cid:80)(cid:3)(cid:85)(cid:73)(cid:70)(cid:3)(cid:83)(cid:70)(cid:84)(cid:81)(cid:70)(cid:68)(cid:85)(cid:74)(cid:87)(cid:70)(cid:3)(cid:88)(cid:66)(cid:72)(cid:70)(cid:3)(cid:80)(cid:71)(cid:3)(cid:85)(cid:73)(cid:70)(cid:3)(cid:70)(cid:78)(cid:81)(cid:77)(cid:80)(cid:90)(cid:78)(cid:70)(cid:79)(cid:85)(cid:3)
+(cid:84)(cid:85)(cid:80)(cid:68)(cid:76)(cid:3)(cid:80)(cid:67)(cid:85)(cid:66)(cid:74)(cid:79)(cid:70)(cid:69)(cid:3)(cid:71)(cid:83)(cid:80)(cid:78)(cid:3)(cid:85)(cid:73)(cid:70)(cid:3)(cid:66)(cid:79)(cid:79)(cid:86)(cid:66)(cid:77)(cid:3)(cid:38)(cid:51)(cid:40)(cid:34)(cid:47)(cid:42)(cid:3)(cid:66)(cid:68)(cid:68)(cid:80)(cid:86)(cid:79)(cid:85)(cid:84)(cid:3)(cid:83)(cid:70)(cid:71)(cid:70)(cid:83)(cid:83)(cid:74)(cid:79)(cid:72)(cid:3)(cid:85)(cid:80)(cid:136)(cid:47)(cid:80)(cid:87)(cid:70)(cid:78)(cid:67)(cid:70)(cid:83)(cid:3)(cid:74)(cid:79)(cid:3)(cid:70)(cid:66)(cid:68)(cid:73)(cid:3)(cid:90)(cid:70)(cid:66)(cid:83)(cid:15)
+56
+66 EconomicBulletin
+December2022
+
+--- PAGE BREAK ---
+
+Chart 23 Net employment flows and wage developments for new hires in main sectors of activity
+(cid:9)(cid:68)(cid:80)(cid:79)(cid:85)(cid:74)(cid:79)(cid:86)(cid:70)(cid:69)(cid:10)
+(cid:56)(cid:66)(cid:72)(cid:70)(cid:136)(cid:80)(cid:71)(cid:136)(cid:79)(cid:70)(cid:88)(cid:136)(cid:73)(cid:74)(cid:83)(cid:70)(cid:84)(cid:136)(cid:9)(cid:38)(cid:54)(cid:51)(cid:13)(cid:136)(cid:77)(cid:70)(cid:71)(cid:85)(cid:14)(cid:73)(cid:66)(cid:79)(cid:69)(cid:136)(cid:84)(cid:68)(cid:66)(cid:77)(cid:70)(cid:10)
+(cid:47)(cid:70)(cid:85)(cid:136)(cid:70)(cid:78)(cid:81)(cid:77)(cid:80)(cid:90)(cid:78)(cid:70)(cid:79)(cid:85)(cid:136)(cid:71)(cid:77)(cid:80)(cid:88)(cid:84)(cid:136)(cid:9)(cid:79)(cid:86)(cid:78)(cid:67)(cid:70)(cid:83)(cid:136)(cid:80)(cid:71)(cid:136)(cid:81)(cid:70)(cid:83)(cid:84)(cid:80)(cid:79)(cid:84)(cid:13)(cid:136)(cid:83)(cid:74)(cid:72)(cid:73)(cid:85)(cid:14)(cid:73)(cid:66)(cid:79)(cid:69)(cid:136)(cid:84)(cid:68)(cid:66)(cid:77)(cid:70)(cid:10)
+(cid:51)(cid:70)(cid:77)(cid:66)(cid:85)(cid:74)(cid:87)(cid:70)(cid:136)(cid:88)(cid:66)(cid:72)(cid:70)(cid:136)(cid:9)(cid:83)(cid:66)(cid:85)(cid:74)(cid:80)(cid:13)(cid:136)(cid:77)(cid:70)(cid:71)(cid:85)(cid:14)(cid:73)(cid:66)(cid:79)(cid:69)(cid:136)(cid:84)(cid:68)(cid:66)(cid:77)(cid:70)(cid:10)
+(cid:41)(cid:80)(cid:85)(cid:70)(cid:77)(cid:84)(cid:3)(cid:66)(cid:79)(cid:69)(cid:3)(cid:51)(cid:70)(cid:84)(cid:85)(cid:66)(cid:86)(cid:83)(cid:66)(cid:79)(cid:85)(cid:84)
+(cid:25)(cid:23)(cid:17)
+(cid:19)(cid:18)(cid:13)(cid:17)(cid:17)(cid:17) (cid:17)(cid:15)(cid:25)(cid:26) (cid:19)(cid:18)(cid:13)(cid:17)(cid:17)(cid:17)
+(cid:25)(cid:21)(cid:17) (cid:18)(cid:23)(cid:13)(cid:17)(cid:17)(cid:17) (cid:18)(cid:23)(cid:13)(cid:17)(cid:17)(cid:17)
+(cid:18)(cid:18)(cid:13)(cid:17)(cid:17)(cid:17) (cid:18)(cid:18)(cid:13)(cid:17)(cid:17)(cid:17)
+(cid:25)(cid:19)(cid:17) (cid:23)(cid:13)(cid:17)(cid:17)(cid:17) (cid:17)(cid:15)(cid:25)(cid:24) (cid:23)(cid:13)(cid:17)(cid:17)(cid:17)
+(cid:18)(cid:13)(cid:17)(cid:17)(cid:17) (cid:18)(cid:13)(cid:17)(cid:17)(cid:17)
+(cid:25)(cid:17)(cid:17) (cid:14)(cid:21)(cid:13)(cid:17)(cid:17)(cid:17) (cid:17)(cid:15)(cid:25)(cid:22) (cid:14)(cid:21)(cid:13)(cid:17)(cid:17)(cid:17)
+(cid:14)(cid:26)(cid:13)(cid:17)(cid:17)(cid:17) (cid:14)(cid:26)(cid:13)(cid:17)(cid:17)(cid:17)
+(cid:24)(cid:25)(cid:17) (cid:14)(cid:18)(cid:21)(cid:13)(cid:17)(cid:17)(cid:17) (cid:14)(cid:18)(cid:21)(cid:13)(cid:17)(cid:17)(cid:17)
+(cid:14)(cid:18)(cid:26)(cid:13)(cid:17)(cid:17)(cid:17) (cid:17)(cid:15)(cid:25)(cid:20) (cid:14)(cid:18)(cid:26)(cid:13)(cid:17)(cid:17)(cid:17)
+(cid:24)(cid:23)(cid:17) (cid:14)(cid:19)(cid:21)(cid:13)(cid:17)(cid:17)(cid:17) (cid:14)(cid:19)(cid:21)(cid:13)(cid:17)(cid:17)(cid:17)
+(cid:14)(cid:19)(cid:26)(cid:13)(cid:17)(cid:17)(cid:17) (cid:14)(cid:19)(cid:26)(cid:13)(cid:17)(cid:17)(cid:17)
+(cid:17)(cid:15)(cid:25)(cid:18)
+(cid:24)(cid:21)(cid:17) (cid:14)(cid:20)(cid:21)(cid:13)(cid:17)(cid:17)(cid:17) (cid:14)(cid:20)(cid:21)(cid:13)(cid:17)(cid:17)(cid:17)
+(cid:14)(cid:20)(cid:26)(cid:13)(cid:17)(cid:17)(cid:17) (cid:14)(cid:20)(cid:26)(cid:13)(cid:17)(cid:17)(cid:17)
+(cid:24)(cid:19)(cid:17) (cid:14)(cid:21)(cid:21)(cid:13)(cid:17)(cid:17)(cid:17) (cid:17)(cid:15)(cid:24)(cid:26) (cid:14)(cid:21)(cid:21)(cid:13)(cid:17)(cid:17)(cid:17)
+(cid:19)(cid:17)(cid:18)(cid:24) (cid:19)(cid:17)(cid:18)(cid:25) (cid:19)(cid:17)(cid:18)(cid:26) (cid:19)(cid:17)(cid:19)(cid:17) (cid:19)(cid:17)(cid:19)(cid:18) (cid:19)(cid:17)(cid:18)(cid:24) (cid:19)(cid:17)(cid:18)(cid:25) (cid:19)(cid:17)(cid:18)(cid:26) (cid:19)(cid:17)(cid:19)(cid:17) (cid:19)(cid:17)(cid:19)(cid:18)
+(cid:48)(cid:85)(cid:73)(cid:70)(cid:83)(cid:3)(cid:84)(cid:70)(cid:83)(cid:87)(cid:74)(cid:68)(cid:70)(cid:84)
+(cid:22)(cid:21)(cid:13)(cid:17)(cid:17)(cid:17) (cid:22)(cid:21)(cid:13)(cid:17)(cid:17)(cid:17)
+(cid:26)(cid:24)(cid:17) (cid:21)(cid:26)(cid:13)(cid:17)(cid:17)(cid:17) (cid:21)(cid:26)(cid:13)(cid:17)(cid:17)(cid:17)
+(cid:17)(cid:15)(cid:24)(cid:21)
+(cid:21)(cid:21)(cid:13)(cid:17)(cid:17)(cid:17) (cid:21)(cid:21)(cid:13)(cid:17)(cid:17)(cid:17)
+(cid:26)(cid:22)(cid:17) (cid:20)(cid:26)(cid:13)(cid:17)(cid:17)(cid:17) (cid:20)(cid:26)(cid:13)(cid:17)(cid:17)(cid:17)
+(cid:20)(cid:21)(cid:13)(cid:17)(cid:17)(cid:17) (cid:17)(cid:15)(cid:24)(cid:19) (cid:20)(cid:21)(cid:13)(cid:17)(cid:17)(cid:17)
+(cid:26)(cid:20)(cid:17) (cid:19)(cid:26)(cid:13)(cid:17)(cid:17)(cid:17) (cid:19)(cid:26)(cid:13)(cid:17)(cid:17)(cid:17)
+(cid:19)(cid:21)(cid:13)(cid:17)(cid:17)(cid:17) (cid:19)(cid:21)(cid:13)(cid:17)(cid:17)(cid:17)
+(cid:26)(cid:18)(cid:17) (cid:18)(cid:26)(cid:13)(cid:17)(cid:17)(cid:17) (cid:17)(cid:15)(cid:24)(cid:17) (cid:18)(cid:26)(cid:13)(cid:17)(cid:17)(cid:17)
+(cid:19)(cid:17)(cid:18)(cid:24) (cid:19)(cid:17)(cid:18)(cid:25) (cid:19)(cid:17)(cid:18)(cid:26) (cid:19)(cid:17)(cid:19)(cid:17) (cid:19)(cid:17)(cid:19)(cid:18) (cid:19)(cid:17)(cid:18)(cid:24) (cid:19)(cid:17)(cid:18)(cid:25) (cid:19)(cid:17)(cid:18)(cid:26) (cid:19)(cid:17)(cid:19)(cid:17) (cid:19)(cid:17)(cid:19)(cid:18)
+(cid:52)(cid:80)(cid:86)(cid:83)(cid:68)(cid:70)(cid:27)(cid:3)(cid:38)(cid:51)(cid:40)(cid:34)(cid:47)(cid:42)(cid:3)(cid:66)(cid:79)(cid:69)(cid:3)(cid:35)(cid:66)(cid:79)(cid:76)(cid:3)(cid:80)(cid:71)(cid:3)(cid:40)(cid:83)(cid:70)(cid:70)(cid:68)(cid:70)(cid:3)(cid:68)(cid:66)(cid:77)(cid:68)(cid:86)(cid:77)(cid:66)(cid:85)(cid:74)(cid:80)(cid:79)(cid:84)(cid:15)
+(cid:47)(cid:80)(cid:85)(cid:70)(cid:27)(cid:3)(cid:47)(cid:70)(cid:85)(cid:3)(cid:70)(cid:78)(cid:81)(cid:77)(cid:80)(cid:90)(cid:78)(cid:70)(cid:79)(cid:85)(cid:3)(cid:71)(cid:77)(cid:80)(cid:88)(cid:84)(cid:3)(cid:66)(cid:83)(cid:70)(cid:3)(cid:85)(cid:80)(cid:85)(cid:66)(cid:77)(cid:3)(cid:71)(cid:77)(cid:80)(cid:88)(cid:84)(cid:3)(cid:74)(cid:79)(cid:3)(cid:85)(cid:73)(cid:70)(cid:3)(cid:90)(cid:70)(cid:66)(cid:83)(cid:3)(cid:9)(cid:84)(cid:86)(cid:78)(cid:3)(cid:80)(cid:71)(cid:3)(cid:78)(cid:80)(cid:79)(cid:85)(cid:73)(cid:77)(cid:90)(cid:3)(cid:79)(cid:70)(cid:85)(cid:3)(cid:71)(cid:77)(cid:80)(cid:88)(cid:84)(cid:10)(cid:3)(cid:85)(cid:80)(cid:3)(cid:66)(cid:69)(cid:69)(cid:83)(cid:70)(cid:84)(cid:84)(cid:3)(cid:84)(cid:70)(cid:66)(cid:84)(cid:80)(cid:79)(cid:66)(cid:77)(cid:74)(cid:85)(cid:90)(cid:15)(cid:3)(cid:53)(cid:73)(cid:70)(cid:3)(cid:88)(cid:66)(cid:72)(cid:70)(cid:84)(cid:3)(cid:80)(cid:71)(cid:3)(cid:79)(cid:70)(cid:88)(cid:68)(cid:80)(cid:78)(cid:70)(cid:83)(cid:84)(cid:3)(cid:66)(cid:83)(cid:70)(cid:3)
+(cid:90)(cid:70)(cid:66)(cid:83)(cid:3)(cid:66)(cid:87)(cid:70)(cid:83)(cid:66)(cid:72)(cid:70)(cid:84)(cid:3)(cid:67)(cid:66)(cid:84)(cid:70)(cid:69)(cid:3)(cid:80)(cid:79)(cid:3)(cid:78)(cid:80)(cid:79)(cid:85)(cid:73)(cid:77)(cid:90)(cid:3)(cid:69)(cid:66)(cid:85)(cid:66)(cid:15)(cid:3)(cid:53)(cid:73)(cid:70)(cid:3)(cid:83)(cid:70)(cid:77)(cid:66)(cid:85)(cid:74)(cid:87)(cid:70)(cid:3)(cid:88)(cid:66)(cid:72)(cid:70)(cid:3)(cid:74)(cid:84)(cid:3)(cid:85)(cid:73)(cid:70)(cid:3)(cid:83)(cid:66)(cid:85)(cid:74)(cid:80)(cid:3)(cid:80)(cid:71)(cid:3)(cid:85)(cid:73)(cid:70)(cid:3)(cid:88)(cid:66)(cid:72)(cid:70)(cid:3)(cid:80)(cid:71)(cid:3)(cid:79)(cid:70)(cid:88)(cid:68)(cid:80)(cid:78)(cid:70)(cid:83)(cid:84)(cid:3)(cid:85)(cid:80)(cid:3)(cid:85)(cid:73)(cid:70)(cid:3)(cid:83)(cid:70)(cid:84)(cid:81)(cid:70)(cid:68)(cid:85)(cid:74)(cid:87)(cid:70)(cid:3)(cid:88)(cid:66)(cid:72)(cid:70)(cid:3)(cid:80)(cid:71)(cid:3)(cid:85)(cid:73)(cid:70)(cid:3)(cid:70)(cid:78)(cid:81)(cid:77)(cid:80)(cid:90)(cid:78)(cid:70)(cid:79)(cid:85)(cid:3)
+(cid:84)(cid:85)(cid:80)(cid:68)(cid:76)(cid:3)(cid:80)(cid:67)(cid:85)(cid:66)(cid:74)(cid:79)(cid:70)(cid:69)(cid:3)(cid:71)(cid:83)(cid:80)(cid:78)(cid:3)(cid:85)(cid:73)(cid:70)(cid:3)(cid:66)(cid:79)(cid:79)(cid:86)(cid:66)(cid:77)(cid:3)(cid:38)(cid:51)(cid:40)(cid:34)(cid:47)(cid:42)(cid:3)(cid:66)(cid:68)(cid:68)(cid:80)(cid:86)(cid:79)(cid:85)(cid:84)(cid:3)(cid:83)(cid:70)(cid:71)(cid:70)(cid:83)(cid:83)(cid:74)(cid:79)(cid:72)(cid:3)(cid:85)(cid:80)(cid:136)(cid:47)(cid:80)(cid:87)(cid:70)(cid:78)(cid:67)(cid:70)(cid:83)(cid:3)(cid:74)(cid:79)(cid:3)(cid:70)(cid:66)(cid:68)(cid:73)(cid:3)(cid:90)(cid:70)(cid:66)(cid:83)(cid:15)(cid:3)(cid:48)(cid:85)(cid:73)(cid:70)(cid:83)(cid:3)(cid:84)(cid:70)(cid:83)(cid:87)(cid:74)(cid:68)(cid:70)(cid:84)(cid:3)(cid:74)(cid:79)(cid:68)(cid:77)(cid:86)(cid:69)(cid:70)(cid:3)(cid:47)(cid:34)(cid:36)(cid:38)(cid:3)(cid:84)(cid:70)(cid:68)(cid:85)(cid:80)(cid:83)(cid:84)(cid:3)(cid:22)(cid:25)(cid:3)(cid:85)(cid:80)(cid:3)(cid:26)(cid:26)(cid:15)
+remarkable decline in net flows after the adop- (i.e. demand effects due to partial reopening of
+tion of the social distancing measures. Actually, the sector) or due to labour supply effects.
+Hotels & Restaurants is the only major sector Even so, it seems that the “lost” flows of the
+with significant negative net employment flows hospitality sector have moved to the Other
+in 2020, which do not seem to have been coun- Services sector which overperformed in terms
+terbalanced yet by the consecutive positive net of new hires. Specifically, in 2021 new hires
+employment flows in 2021. Specifically, while stood at around 35,000 positions above the cor-
+we observed declines of a magnitude of about responding 2020 level and about 20,000 posi-
+43,000 positions cumulatively in 2020, the cor- tions above the 2019 level. We can also note
+responding increase in 2021 is about 24,000 that the Other Services sector has a somewhat
+positions. However, it is not feasible to infer higher average wage for new hires, i.e. around
+from our data whether this was due to the 980 compared to 850 in the Hotels &
+social distancing measures remaining in 2021 Restaurants sector, and significantly less sea-
+56
+EconomicBulletin 67
+€ €
+December2022
+
+--- PAGE BREAK ---
+
+sonality in employment. In this respect, there struction seem to be present as well. In par-
+are strong indications that during the COVID- ticular, the wages of new blue collar hires are
+19 period workers shifted jobs from the hos- fast approaching those of incumbents being
+pitality sector to Other Services for both a bet- about 90%. By contrast, for white collar work-
+ter pay and more “constant” employment. ers, new hires do not exhibit an upward trend
+in wages if they are high-skilled, or are far
+In sum, whereas the post-COVID period of below the wages of incumbents if they are low-
+2021 has been characterised by robust skilled. In this respect, the data show that wage
+employment dynamics across most major sec- and employment pressures in the Construction
+tors, the question is whether they have been sector are mainly driven by the blue collars’
+followed by any significant wage increases. For market segment.
+most sectors, the wages of new hires and their
+relative wages compared to those of incumbent For Hotels & Restaurants, the main contrib-
+workers do not depict any significant upward utor to the developments in this sector is the
+trend.24Other Services, Hotels & Restaurants, low-skilled white collar segment. In particular,
+and Construction are the three sectors with an we can note the sheer size of outflows during
+upward trend in wages of new hires as well as the pandemic, which reached a total of 34,000
+in employment flows. The combination of the in 2020, while the subsequent increase barely
+two could be indicative of some emerging mar- reached a total of 19,000 positions in 2021.
+ket pressures. However, the upward trend in Moreover, the relative wage of new hires ver-
+wages for Other Services is more modest and sus incumbents has reached high levels of
+the wages of new hires are still well below those above 95% in 2021 (up from about 84% in
+of incumbents (at 75%). By contrast, the 2017), on average. For the low-skilled blue
+upward trend in relative wages of new hires is collar segment, similar developments are
+more pronounced, reaching 85% for Con- observed, albeit at significant lower magni-
+struction and almost 90% for Hotels & Restau- tudes. For both these categories a non-negli-
+rants on average in 2021.25 Thus, in what fol- gible tightness in their respective sectoral
+lows we delve deeper into the employment and labour market is indicated by the data.
+wage dynamics of these two sectors.
+On balance, the ERGANI data indicate that
+We decompose employment flows in the Con- there is no general tightness in the labour mar-
+struction and Hotels & Restaurants sectors by ket. That is, the wages of new hires are not
+four skill categories: high-skilled white collar, increasing significantly, in tandem with strong
+low-skilled white collar, high-skilled blue col- employment developments. However, there
+lar and low-skilled blue collar, to observe are some specific sectors and worker types for
+whether the above developments are driven by which the respective segments of the labour
+any particular skill category.26 market indicate some tightness.
+In the Construction sector, in terms of employ- In particular, for Construction, we can note
+ment, all segments, both blue and white collar that it is a sector which has seen a significant
+workers as well as high- and low-skilled work-
+ers have seen a strong increase in net employ- 24One could note, though, an upward shift in wages in the trade sec-
+ments flows in the post-COVID period. More- tor at the beginning of 2019, which can be related to the minimum
+wage increase in February 2019.
+over, for blue collar workers in particular there 25In Hotels & Restaurants we observe relative wages which are close
+to 90%, indicating a high premium for the new hires. However, a
+was no strong decline of employment flows
+specificity of this particular sector should be noted at this point.
+during the pandemic. For new hires, blue col- This is a sector with high seasonality where hires and layoffs may
+refer to the same employee. Therefore, the same employee is hired
+lar workers (both high- and low-skilled) have at the beginning of the tourist season with a wage similar to that
+seen a significant increase in wages. Wage of the previous year and is laid off at the end of the tourist season.
+26Charts are not presented for space considerations but are available
+pressures in the blue collar segment of Con- upon request.
+56
+68 EconomicBulletin
+December2022
+
+--- PAGE BREAK ---
+
+decline in the level of activity during the last reached a 10-year high in 2022, as 78% of
+decade and where a significant share of the Greek firms report talent shortages,30i.e. they
+labour pool has disappeared. In this respect, cannot find employees with the blend of tech-
+the Construction sector is expected to continue nical skills and human strengths they need.
+having a tight labour market in the foreseeable Especially in Attica, 61% of employers state
+future. For Hotels & Restaurants, there are that they face relative difficulty in searching
+indications that the outflow of labour during for talent, 18% a lot of difficulty and 19%
+the pandemic has to a large extent been none. As for response variation by company
+absorbed by the Other Services sector. If this size, 23% of very small businesses, 17% of
+is the case, we can note that the wage for a new small businesses, 16% of medium-sized busi-
+hire in Other Services is approximately 15-20% nesses and 14% of large businesses have a lot
+higher (depending on the skill category) than of difficulty filling positions. Accordingly, 54%
+in Hotels & Restaurants. Moreover, Other of very small businesses, 63% of small busi-
+Services does not have the same seasonality in nesses, 58% of medium-sized businesses and
+employment (and hence income) as Hotels & 65% of large businesses experience relative
+Restaurants. Thus, from an employee’s per- difficulty. Greater difficulty is found in the
+spective, if they have switched sectors, they manufacturing sector, with 30% of employers
+may have experienced both a higher and more reporting that they are having a very difficult
+steady income. In this respect, it will be diffi- time filling positions due to a lack of talent and
+cult to attract them back to the Hotels & 63% reporting relative difficulty. Most
+Restaurants sector. employers (23%) report that it is more diffi-
+cult to find talent in Human Resources (with
+small businesses facing a more acute problem),
+7 A SNAPSHOT OF SKILLS AND SKILLS followed by IT/Data and manufacturing.
+MISMATCH
+However, the problem existed even before the
+7.1SURVEY EVIDENCE pandemic. In fact, according to the European
+Company Survey 2019,31 66% of Greek firms
+Turning to more qualitative evidence of labour indicated that they have difficulty in finding
+market mismatch, a common finding reported employees with the right skills (EU average:
+in business surveys is that of limited availability 76%). When asked what percentage of their
+of skilled labour. Indeed, on the labour employees have skills that are about right to do
+demand side, skill shortages have been con- the job, only 33% reported a percentage of
+sistently high in Greece. According to the Sur- 80% or more (one of the lowest percentages).
+vey on the Access to Finance of Enterprises
+(SAFE),27 the second most pressing problem To date, most EU Member States, including
+for Greek SMEs in the second half of 2021, Greece, have responded to the challenges
+following the cost of production or labour, is posed by demand for higher skills by seeking
+the availability of skilled staff and/or experi- to increase skills supply, mostly through rais-
+enced managers (reported by approximately ing educational attainment. Notably, according
+18%). Data from the EIB Investment Survey to the latest OECD education data, in Greece,
+202128 show that the limited availability of
+skills has increasingly become a concern for
+27https://www.ecb.europa.eu/stats/ecb_surveys/safe/html/index.en.
+firms: 73% of Greek firms reported the limited html.
+availability of staff with the right skills as an 28https://www.eib.org/en/publications/econ-eibis-2021-eu.
+29https://go.manpowergroup.com/hubfs/Talent%20Shortage%20-
+impediment to long-term investment. More- 2022 /MPG_2022_TS_Infographic-Greece.pdf.
+3060% of employers state that they face relative difficulty in filling
+over, according to the latest Manpower Talent
+positions due to a lack of talent, 18% a lot of difficulty and 20%
+Shortage Survey29(which covers more than 40 none.
+31https://www.eurofound.europa.eu/surveys/2019/european-company-
+countries globally), in Greece talent shortages survey-2019.
+56
+EconomicBulletin 69
+December2022
+
+--- PAGE BREAK ---
+
+in 2021, 44% of 25-64 year-olds had attained (87%) require at least basic digital skills. The
+tertiary education, against 33% in 2011.32This need to learn to work with new computer tech-
+is in line with projections of future skills nologies challenges individuals to update,
+demand shifting towards more highly skilled upgrade or learn new digital skills; in the short
+economic activities, as around half of all job to medium term this can cause imbalances
+openings over the next decade are expected to between digital skills demand and supply.
+require a high qualification.33However, there Greece ranks 25th among ΕU-27 countries as
+are concerns that the Greek education and regards the Digital Economy and Society Index
+training system is not sufficiently aligned with for 2022. As regards human capital, in 2021,
+labour market needs. In fact, university edu- 52% of the Greek population was equipped
+cation is frequently criticised for not conferring with basic or above basic digital skills (very
+upon its graduates the cutting-edge skills that close to the ΕU average of 54%). However, the
+their future employers are likely to seek. share of ICT specialists in total employment
+barely reached 2.8%, i.e. the second lowest
+In the Global Talent Competitiveness Index among ΕU-27 countries (ΕU-27: 4.5%),
+2022, Greece ranked 40th out of a sample of despite some progress in the past three years.
+133 countries. The country’s main strength
+relates to retaining talent (mainly thanks to the At the same time, according to data from the
+lifestyle offered) and the quality of the talent OECD Survey of Adult Skills (PIAAC), only
+(mainly thanks to the availability of high-level about one in 20 adults in Greece attains the
+skills and professionals). The greatest scope for highest levels of proficiency in literacy, com-
+improvement, meanwhile, is in vocational and pared with around one in ten adults (10.6%)
+technical skills, and in attracting talent.34 on average across OECD countries, and sim-
+Greece had one of the lowest overall scores in ilarly for numeracy. Moreover, only 2.5% of
+the European Skills Index survey for 2022, only adults in Greece attain the highest proficiency
+marginally improving its performance relative level in problem-solving in technology-rich
+to 2020 (achieving a score of 23 from 20), environments. This is the fourth lowest per-
+pointing to a relatively weak skills system in centage among all participating countries and
+Greece on multiple fronts.35 Greece ranked significantly lower than the OECD average
+41st out of 141 countries in the skills sub-pil- of 5.4%.
+lar of the Global Competitiveness Index 4.0
+published by the World Economic Forum in The low skills level of the Greek economy
+2019 (up from 36th in 2017).36 means that employers may be unable to fill
+vacant positions because of skills gaps or short-
+Because of structural digitalisation trends and ages (lack of employees with suitable skills or
+the recent rapid change in labour markets fol- qualifications), making this mismatch between
+lowing the COVID-19 outbreak, digital skill the supply of and demand for skills a signifi-
+needs have grown. CEDEFOP’s second Euro- cant impediment to potential growth. How-
+pean Skills and Jobs Survey (ESJS2) shows that
+the health crisis affected the employment of
+32https://www.oecd-ilibrary.org/docserver/3197152b-en.pdf?expires
+one in three EU+ workers (33%), with younger =1667392434&id=id&accname=ocid177073a&checksum=8B310
+EE22CEC9AE099EB8DD5FDC15B73.
+and lower-educated workers most negatively
+33CEDEFOP (2020), Skills forecast 2020: Greece, CEDEFOP skills
+affected.37,38In Greece, 48% of adult employ- forecast.
+34https://www.insead.edu/sites/default/files/assets/dept/fr/gtci/GTCI-
+ees had to learn to use new digital technologies 2022-report.pdf.
+to do their main job in 2020-21. Moreover, 35A score of 23 suggests that the country has reached 23% of the ideal
+performance and that there is still 77% room for improvement.
+most EU+ adult workers use a computer A score of 100 corresponds to achieving the “frontier”:
+https://www.cedefop.europa.eu/en/tools/european-skills-index.
+device (a desktop computer, laptop or note-
+36https://www3.weforum.org/docs/WEF_TheGlobalCompetitivene-
+book, tablet or smartphone) as part of their ss Report2019.pdf.
+37EU Member States plus Norway and Iceland.
+work, and more than eight in ten EU+ jobs 38https://www.cedefop.europa.eu/files/9173_en.pdf.
+56
+70 EconomicBulletin
+December2022
+
+--- PAGE BREAK ---
+
+ever, data from PIACC also suggest that ket needs. To steer technological development,
+Greece suffers from a high level of mismatch vocational education and training (VET)
+between the skills workers possess and those should enable those exposed to technological
+demanded of their jobs. Around 28% of work- innovation to reduce their digital skill gaps.
+ers are more proficient in literacy than their The implementation of these policies will help
+job requires (overskilled), the largest propor- ensure that technology adoption has a positive
+tion across all participating economies and impact on both productivity and workers.
+much higher than the OECD average of
+10.8%. Moreover, almost four out of ten work- 7.2AN EMPIRICAL EXPLORATION40
+ers in Greece are either over- or underquali-
+fied for the work they are doing. As for field- In line with theoretical predictions, mismatch
+of-study mismatch, which measures the extent has been shown to be significantly negatively
+to which workers, typically graduates, are related to labour productivity.41Chart 24 shows
+employed in an occupation that is unrelated to that Greece has by far the highest professional
+their principal field of study, almost one in two overskill mismatch (i.e. those working in highly
+workers (41.4%) is employed in a different skilled jobs are more proficient in literacy than
+field than the one in which they earned their their job requires) compared with all other
+highest educational qualification. Most grad- countries in the sample. Most surprisingly,
+uates in the areas of Arts and Humanities while in virtually all countries overskill mis-
+(80%) and ICT (more than 70%) are employed match is much lower for professional occupa-
+in jobs that do not match their sector of spe- tions than for lower-skilled jobs, the opposite
+cialisation. holds for Greece. Moreover, even for lower-
+skilled jobs, overskill mismatch in Greece is
+To add to the above evidence, Eurostat’s high compared with other EU countries,
+experimental indicators on skills mismatches although it is much closer to the sample aver-
+provide information on vertical skills mis- age. Similar results are obtained when using
+matches (overqualification rates) and hori- skills mismatch in numeracy and controlling
+zontal skills mismatches (job mismatch by for sector and firm effects.
+field of education).39 For Greece, there has
+been a 10.3% increase between 2008 and 2020 Given the above evidence of high mismatch in
+in the overqualification rate (i.e. % of people professional occupations in Greece, it is inter-
+aged 20-64 with tertiary education and work- esting to examine the importance of overskill
+ing in ISCO 4-9). At the same time, the hor- mismatch in professional occupations relative
+izontal skills mismatch rate was 26.4% for the to others combining PIACC and Orbis data.42
+age group 15-34 and 30% for the age group
+25-34 in 2020. 39More information on these experimental indicators is available at
+https://ec.europa.eu/eurostat/web/experimental-statistics/skills
+40For a more in depth analysis, see Anyfantaki, S., Y. Caloghirou,
+An efficient allocation of workers across tasks K. Dellis, A. Karadimitropoulou and F. Petroulakis (2022), “Skills,
+management practices and technology adoption in Greek manu-
+is particularly important when the aggregate facturing firms”, Bank of Greece, Economic Bulletin, 55.
+skills supply is relatively limited, as is the case 41See, among others, Decker, R.A., J. Haltiwanger, R.S. Jarmin and
+J. Miranda (2017), “Declining dynamism, allocative efficiency, and
+with Greece. Persistent skill gaps and mis- the productivity slowdown”, American Economic Review, 107(5),
+322-326; Hsieh, C.T. and P.J. Klenow (2009), “Misallocation and
+matches come at economic and social costs,
+manufacturing TFP in China and India”, The Quarterly Journal of
+while skills constraints can negatively affect Economics, 124(4), 1403-1448.
+42Data for productivity from Orbis include 17 countries (Austria, Bel-
+labour productivity and hamper the ability to gium, Germany, Denmark, Estonia, Spain, Finland, France, United
+innovate and adopt technological advances. Kingdom, Greece, Hungary, Italy, Japan, Korea, Latvia, Sweden
+and Slovenia). All measures are averaged for each sector across
+Education, skills and labour market policies 2009 and 2013 to improve reliability. Sectors covered are: manu-
+facturing; electricity, gas, steam and air conditioning supply; water
+should ensure that workers are equipped with
+supply; construction; wholesale and retail trade; transportation and
+the right skills and that businesses can flexibly storage; accommodation and food service activities; information
+and communication technologies; professional, scientific and tech-
+deploy workers to meet changing labour mar- nical activities; administrative and support service activities.
+56
+EconomicBulletin 71
+December2022
+
+--- PAGE BREAK ---
+
+(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:6)(cid:9)(cid:10)(cid:11)(cid:12)(cid:12)(cid:13)(cid:6)(cid:14)(cid:11)(cid:13)(cid:14)(cid:3)(cid:5)(cid:15)(cid:2)(cid:6)(cid:16)(cid:17)(cid:4)(cid:6)(cid:2)(cid:11)(cid:18)(cid:2)(cid:19)(cid:6)(cid:3)(cid:20)(cid:21)(cid:6)(cid:12)(cid:17)(cid:22)(cid:19)(cid:13)(cid:10)(cid:11)(cid:12)(cid:12)(cid:23)(cid:21)(cid:6)(cid:17)(cid:15)(cid:15)(cid:24)(cid:25)(cid:3)(cid:5)(cid:11)(cid:17)(cid:20)(cid:13)
+(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:9)(cid:7)(cid:6)(cid:10)(cid:11)(cid:12)(cid:8)(cid:13)(cid:10)(cid:6)(cid:14)(cid:15)(cid:16)
+(cid:17)(cid:8)(cid:18)(cid:19)(cid:2)(cid:20)(cid:21)(cid:12)(cid:12)(cid:6)(cid:22)
+(cid:23)(cid:21)(cid:24)(cid:3)(cid:19)(cid:2)(cid:20)(cid:21)(cid:12)(cid:12)(cid:6)(cid:22)
+(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:8)(cid:7)(cid:9)(cid:10)
+(cid:44)(cid:45)(cid:49)(cid:46) (cid:44)(cid:45)(cid:49)(cid:46)
+(cid:44)(cid:45)(cid:49)(cid:44) (cid:44)(cid:45)(cid:49)(cid:44)
+(cid:44)(cid:45)(cid:48)(cid:46) (cid:44)(cid:45)(cid:48)(cid:46)
+(cid:44)(cid:45)(cid:48)(cid:44) (cid:44)(cid:45)(cid:48)(cid:44)
+(cid:44)(cid:45)(cid:47)(cid:46) (cid:44)(cid:45)(cid:47)(cid:46)
+(cid:44)(cid:45)(cid:47)(cid:44) (cid:44)(cid:45)(cid:47)(cid:44)
+(cid:44)(cid:45)(cid:44)(cid:46) (cid:44)(cid:45)(cid:44)(cid:46)
+(cid:44)(cid:45)(cid:44)(cid:44) (cid:44)(cid:45)(cid:44)(cid:44)
+(cid:25)(cid:26) (cid:27)(cid:17)(cid:28)(cid:29) (cid:30)(cid:31)(cid:32)(cid:33) (cid:34)(cid:29) (cid:35)(cid:33) (cid:36)(cid:29)(cid:37)(cid:17) (cid:38)(cid:30) (cid:39)(cid:27)(cid:40)(cid:32)(cid:23)(cid:41) (cid:36)(cid:34) (cid:35)(cid:34) (cid:36)(cid:32) (cid:34)(cid:17) (cid:29)(cid:29) (cid:42)(cid:28) (cid:38)(cid:43) (cid:29)(cid:36) (cid:34)(cid:31) (cid:38)(cid:17) (cid:40)(cid:29)(cid:17)(cid:31) (cid:29)(cid:17)
+(cid:11)(cid:9)(cid:12)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:8)(cid:7)(cid:9)(cid:10)
+(cid:44)(cid:45)(cid:47)(cid:48) (cid:44)(cid:45)(cid:47)(cid:48)
+(cid:44)(cid:45)(cid:47)(cid:44) (cid:44)(cid:45)(cid:47)(cid:44)
+(cid:44)(cid:45)(cid:44)(cid:52) (cid:44)(cid:45)(cid:44)(cid:52)
+(cid:44)(cid:45)(cid:44)(cid:51) (cid:44)(cid:45)(cid:44)(cid:51)
+(cid:44)(cid:45)(cid:44)(cid:50) (cid:44)(cid:45)(cid:44)(cid:50)
+(cid:44)(cid:45)(cid:44)(cid:48) (cid:44)(cid:45)(cid:44)(cid:48)
+(cid:44)(cid:45)(cid:44)(cid:44) (cid:44)(cid:45)(cid:44)(cid:44)
+(cid:25)(cid:26) (cid:27)(cid:17)(cid:28)(cid:29) (cid:30)(cid:31)(cid:32)(cid:33) (cid:34)(cid:29) (cid:35)(cid:33) (cid:36)(cid:29)(cid:37)(cid:17) (cid:38)(cid:30) (cid:39)(cid:27)(cid:40)(cid:32)(cid:23)(cid:41) (cid:36)(cid:34) (cid:35)(cid:34) (cid:36)(cid:32) (cid:34)(cid:17) (cid:29)(cid:29) (cid:42)(cid:28) (cid:38)(cid:43) (cid:29)(cid:36) (cid:34)(cid:31) (cid:38)(cid:17) (cid:40)(cid:29)(cid:17)(cid:31) (cid:29)(cid:17)
+(cid:36)(cid:8)(cid:53)(cid:5)(cid:54)(cid:6)(cid:55)(cid:7)(cid:56)(cid:29)(cid:38)(cid:40)(cid:57)(cid:7)(cid:36)(cid:53)(cid:5)(cid:58)(cid:6)(cid:13)(cid:7)(cid:8)(cid:9)(cid:7)(cid:30)(cid:22)(cid:53)(cid:12)(cid:15)(cid:7)(cid:36)(cid:20)(cid:21)(cid:12)(cid:12)(cid:2)(cid:7)(cid:1)(cid:27)(cid:34)(cid:30)(cid:38)(cid:38)(cid:16)(cid:45)
+(cid:37)(cid:8)(cid:15)(cid:6)(cid:55)(cid:7)(cid:56)(cid:58)(cid:6)(cid:5)(cid:2)(cid:20)(cid:21)(cid:12)(cid:12)(cid:6)(cid:22)(cid:7)(cid:18)(cid:8)(cid:5)(cid:20)(cid:6)(cid:5)(cid:2)(cid:7)(cid:4)(cid:5)(cid:6)(cid:7)(cid:15)(cid:3)(cid:8)(cid:2)(cid:6)(cid:7)(cid:18)(cid:3)(cid:8)(cid:2)(cid:6)(cid:7)(cid:11)(cid:5)(cid:8)(cid:9)(cid:21)(cid:54)(cid:21)(cid:6)(cid:14)(cid:54)(cid:13)(cid:7)(cid:2)(cid:54)(cid:8)(cid:5)(cid:6)(cid:7)(cid:21)(cid:2)(cid:7)(cid:3)(cid:21)(cid:24)(cid:3)(cid:6)(cid:5)(cid:7)(cid:15)(cid:3)(cid:4)(cid:14)(cid:7)(cid:15)(cid:3)(cid:4)(cid:15)(cid:7)(cid:54)(cid:8)(cid:5)(cid:5)(cid:6)(cid:2)(cid:11)(cid:8)(cid:14)(cid:22)(cid:21)(cid:14)(cid:24)(cid:7)(cid:15)(cid:8)(cid:7)(cid:15)(cid:3)(cid:6)(cid:7)(cid:59)(cid:46)(cid:15)(cid:3)(cid:7)(cid:11)(cid:6)(cid:5)(cid:54)(cid:6)(cid:14)(cid:15)(cid:21)(cid:12)(cid:6)(cid:7)(cid:8)(cid:9)(cid:7)(cid:2)(cid:6)(cid:12)(cid:9)(cid:19)(cid:5)(cid:6)(cid:11)(cid:8)(cid:5)(cid:15)(cid:6)(cid:22)(cid:7)(cid:18)(cid:6)(cid:12)(cid:12)(cid:19)
+(cid:10)(cid:4)(cid:15)(cid:54)(cid:3)(cid:6)(cid:22)(cid:7)(cid:18)(cid:8)(cid:5)(cid:20)(cid:6)(cid:5)(cid:2)(cid:7)(cid:60)(cid:7)(cid:21)(cid:45)(cid:6)(cid:45)(cid:7)(cid:18)(cid:8)(cid:5)(cid:20)(cid:6)(cid:5)(cid:2)(cid:7)(cid:18)(cid:3)(cid:8)(cid:7)(cid:14)(cid:6)(cid:21)(cid:15)(cid:3)(cid:6)(cid:5)(cid:7)(cid:9)(cid:6)(cid:6)(cid:12)(cid:7)(cid:15)(cid:3)(cid:6)(cid:13)(cid:7)(cid:3)(cid:4)(cid:58)(cid:6)(cid:7)(cid:15)(cid:3)(cid:6)(cid:7)(cid:2)(cid:20)(cid:21)(cid:12)(cid:12)(cid:2)(cid:7)(cid:15)(cid:8)(cid:7)(cid:11)(cid:6)(cid:5)(cid:9)(cid:8)(cid:5)(cid:10)(cid:7)(cid:4)(cid:7)(cid:10)(cid:8)(cid:5)(cid:6)(cid:7)(cid:22)(cid:6)(cid:10)(cid:4)(cid:14)(cid:22)(cid:21)(cid:14)(cid:24)(cid:7)(cid:61)(cid:8)(cid:62)(cid:7)(cid:14)(cid:8)(cid:5)(cid:7)(cid:9)(cid:6)(cid:6)(cid:12)(cid:7)(cid:15)(cid:3)(cid:6)(cid:7)(cid:14)(cid:6)(cid:6)(cid:22)(cid:7)(cid:8)(cid:9)(cid:7)(cid:9)(cid:53)(cid:5)(cid:15)(cid:3)(cid:6)(cid:5)(cid:7)(cid:15)(cid:5)(cid:4)(cid:21)(cid:14)(cid:21)(cid:14)(cid:24)
+(cid:21)(cid:14)(cid:7)(cid:8)(cid:5)(cid:22)(cid:6)(cid:5)(cid:7)(cid:15)(cid:8)(cid:7)(cid:62)(cid:6)(cid:7)(cid:4)(cid:62)(cid:12)(cid:6)(cid:7)(cid:15)(cid:8)(cid:7)(cid:11)(cid:6)(cid:5)(cid:9)(cid:8)(cid:5)(cid:10)(cid:7)(cid:15)(cid:3)(cid:6)(cid:21)(cid:5)(cid:7)(cid:54)(cid:53)(cid:5)(cid:5)(cid:6)(cid:14)(cid:15)(cid:7)(cid:61)(cid:8)(cid:62)(cid:2)(cid:7)(cid:2)(cid:4)(cid:15)(cid:21)(cid:2)(cid:9)(cid:4)(cid:54)(cid:15)(cid:8)(cid:5)(cid:21)(cid:12)(cid:13)(cid:7)(cid:60)(cid:7)(cid:21)(cid:14)(cid:7)(cid:15)(cid:3)(cid:6)(cid:21)(cid:5)(cid:7)(cid:54)(cid:8)(cid:53)(cid:14)(cid:15)(cid:5)(cid:13)(cid:7)(cid:4)(cid:14)(cid:22)(cid:7)(cid:8)(cid:54)(cid:54)(cid:53)(cid:11)(cid:4)(cid:15)(cid:21)(cid:8)(cid:14)(cid:45)(cid:7)(cid:41)(cid:14)(cid:22)(cid:6)(cid:5)(cid:2)(cid:20)(cid:21)(cid:12)(cid:12)(cid:6)(cid:22)(cid:7)(cid:18)(cid:8)(cid:5)(cid:20)(cid:6)(cid:5)(cid:2)(cid:7)(cid:4)(cid:5)(cid:6)(cid:7)(cid:15)(cid:3)(cid:8)(cid:2)(cid:6)(cid:7)(cid:18)(cid:3)(cid:8)(cid:2)(cid:6)(cid:7)
+(cid:11)(cid:5)(cid:8)(cid:9)(cid:21)(cid:54)(cid:21)(cid:6)(cid:14)(cid:54)(cid:13)(cid:7)(cid:2)(cid:54)(cid:8)(cid:5)(cid:6)(cid:7)(cid:21)(cid:2)(cid:7)(cid:12)(cid:8)(cid:18)(cid:6)(cid:5)(cid:7)(cid:15)(cid:3)(cid:4)(cid:14)(cid:7)(cid:15)(cid:3)(cid:4)(cid:15)(cid:7)(cid:54)(cid:8)(cid:5)(cid:5)(cid:6)(cid:2)(cid:11)(cid:8)(cid:14)(cid:22)(cid:21)(cid:14)(cid:24)(cid:7)(cid:15)(cid:8)(cid:7)(cid:15)(cid:3)(cid:6)(cid:7)(cid:46)(cid:15)(cid:3)(cid:7)(cid:11)(cid:6)(cid:5)(cid:54)(cid:6)(cid:14)(cid:15)(cid:21)(cid:12)(cid:6)(cid:7)(cid:8)(cid:9)(cid:7)(cid:2)(cid:6)(cid:12)(cid:9)(cid:19)(cid:5)(cid:6)(cid:11)(cid:8)(cid:5)(cid:15)(cid:6)(cid:22)(cid:7)(cid:18)(cid:6)(cid:12)(cid:12)(cid:19)(cid:10)(cid:4)(cid:15)(cid:54)(cid:3)(cid:6)(cid:22)(cid:7)(cid:18)(cid:8)(cid:5)(cid:20)(cid:6)(cid:5)(cid:2)(cid:7)(cid:21)(cid:14)(cid:7)(cid:15)(cid:3)(cid:6)(cid:21)(cid:5)(cid:7)(cid:54)(cid:8)(cid:53)(cid:14)(cid:15)(cid:5)(cid:13)(cid:7)(cid:4)(cid:14)(cid:22)(cid:7)
+(cid:8)(cid:54)(cid:54)(cid:53)(cid:11)(cid:4)(cid:15)(cid:21)(cid:8)(cid:14)(cid:45)(cid:7)(cid:23)(cid:21)(cid:24)(cid:3)(cid:19)(cid:57)(cid:7)(cid:10)(cid:6)(cid:22)(cid:21)(cid:53)(cid:10)(cid:19)(cid:7)(cid:4)(cid:14)(cid:22)(cid:7)(cid:12)(cid:8)(cid:18)(cid:19)(cid:2)(cid:20)(cid:21)(cid:12)(cid:12)(cid:6)(cid:22)(cid:7)(cid:8)(cid:54)(cid:54)(cid:53)(cid:11)(cid:4)(cid:15)(cid:21)(cid:8)(cid:14)(cid:2)(cid:7)(cid:4)(cid:5)(cid:6)(cid:7)(cid:34)(cid:36)(cid:38)(cid:56)(cid:7)(cid:8)(cid:54)(cid:54)(cid:53)(cid:11)(cid:4)(cid:15)(cid:21)(cid:8)(cid:14)(cid:4)(cid:12)(cid:7)(cid:24)(cid:5)(cid:8)(cid:53)(cid:11)(cid:2)(cid:7)(cid:47)(cid:7)(cid:15)(cid:8)(cid:7)(cid:49)(cid:57)(cid:7)(cid:50)(cid:7)(cid:15)(cid:8)(cid:7)(cid:52)(cid:7)(cid:4)(cid:14)(cid:22)(cid:7)(cid:59)(cid:57)(cid:7)(cid:5)(cid:6)(cid:2)(cid:11)(cid:6)(cid:54)(cid:15)(cid:21)(cid:58)(cid:6)(cid:12)(cid:13)(cid:45)(cid:7)(cid:17)(cid:21)(cid:15)(cid:6)(cid:5)(cid:4)(cid:54)(cid:13)(cid:7)
+(cid:11)(cid:5)(cid:8)(cid:9)(cid:21)(cid:54)(cid:21)(cid:6)(cid:14)(cid:54)(cid:13)(cid:7)(cid:21)(cid:2)(cid:7)(cid:15)(cid:3)(cid:6)(cid:7)(cid:11)(cid:5)(cid:8)(cid:63)(cid:13)(cid:7)(cid:9)(cid:8)(cid:5)(cid:7)(cid:2)(cid:20)(cid:21)(cid:12)(cid:12)(cid:2)(cid:45)
+56
+72 EconomicBulletin
+December2022
+
+--- PAGE BREAK ---
+
+Adalet McGowan and Andrews (2015)43 split ance between the formal and tacit curricula in
+aggregate productivity in each sector into a Greek universities; and (d) upgrading sec-
+within-firm component and an allocative effi- ondary and upper-secondary technical-voca-
+ciency component. Allocative efficiency tional education and training.
+requires that resources flow to their more pro-
+ductive uses. As such, if more productive firms
+are larger, then the allocative efficiency term is 8 CONCLUSIONS
+positive. The effect of mismatch on productiv-
+ity can be estimated through linear regression Euro area labour markets are much tighter
+models, separately for the three productivity than they were before the pandemic, with
+measures (aggregate sectoral, allocative effi- unemployment at a record low and vacancies
+ciency and average firm) on under- and over- rising across sectors. Conversely, in Greece,
+skill mismatch indicators at the sectoral level. the labour market is still not tight overall.
+In fact, when the aggregate sectoral produc- Unemployment is nearly double the euro area
+tivity is the dependent variable, the coefficient average and, although the job vacancy rate
+of overskilling is negative and highly significant; increased after the pandemic, it remains rela-
+it is also negative for underskilling, although tively low. However, there is heterogeneity at
+not significant. The economic magnitude of the the sectoral level, with construction and trade,
+relationship is quite sizeable: a one standard- transport and accommodation presenting high
+deviation increase in overskilling, at the job vacancy rates, and the tourism subsector in
+expense of well-matched workers, holding con- particular showing the greatest tightness by this
+stant the share of underskilled workers, reduces measure. Similarly, while wage growth data do
+weighted sectoral productivity by almost 10%.44 not show signs of generalised tightness, the
+Overall, the results corroborate the findings of Construction, Hotels & Restaurants and Other
+Adalet McGowan and Andrews (2015): over- Services sectors exhibit an upward trend in the
+skilling has a negative effect on productivity. wages of new hires and in employment flows,
+Although regression analysis is only meant to which may reflect emerging labour market
+be indicative, given the small cell sizes espe- pressures.
+cially for the professional occupations, the
+upshot is that overskill mismatch plays an Furthermore, it is notable that, while the
+important role for productivity, and overskilling unemployment rate in Greece remains high, it
+in professional occupations, where Greece declined rapidly in recent years, reflecting gov-
+scores especially poorly, is a major drag. ernment support measures during the pan-
+demic, the implementation of important labour
+Overall, the analysis suggests that there is a market reforms in the previous decade and
+need to improve the alignment of workers’ robust real GDP growth. This sharp decline, in
+skills with the needs of industry, in terms of combination with the high share of long-term
+enhancing both skills endowment and the allo- unemployment and the rather elevated esti-
+cation of current skills to jobs. The key mes- mates of efficient unemployment presented in
+sage is that the various policies should be this article, suggests that labour market slack
+closely coordinated for both higher education may in fact be less than indicated by the base-
+as well as vocational education and training line measure. Given recent strong employment
+(VET). More specifically, concrete strategic growth and the prospect of a significant need
+initiatives should be carefully designed and for additional labour over the coming years
+implemented. These could include: (a) estab-
+lishing and promoting university-industry
+43Adalet McGowan, M. and D. Andrews (2015), “Skill mismatch and
+cooperation schemes; (b) maintaining a bal-
+public policy in OECD countries”, OECD Economics Department
+ance between formal education, in-firm train- Working Paper No. 1210.
+44See Anyfantaki et al. (2022), op. cit., for a description of the
+ing and lifelong learning; (c) maintaining a bal- methodology and detailed results.
+56
+EconomicBulletin 73
+December2022
+
+--- PAGE BREAK ---
+
+due to the implementation of the NextGener- port employment, increase skills and enhance
+ationEU plan, labour market tightness could the experience of workers, especially the more
+increase significantly over the coming years. vulnerable ones, thereby increasing attach-
+This concern is further compounded by exten- ment to the labour market and eventually
+sive survey evidence of skills mismatches in the resulting in higher employment and partici-
+Greek labour market, which are known to pation rates. As regards skills mismatch in
+adversely affect allocative efficiency and, thus, particular, redesigning training programmes
+productivity. and educational curricula to be more closely
+linked to the needs of the labour market, as
+It follows that, from a policy perspective, it is well as strengthening the digital literacy of
+particularly important to pursue labour mar- workers would help reduce the mismatch
+ket policies aimed at increasing participation between the job skills demanded by firms and
+rates and upskilling or reskilling the labour those on offer, thus boosting productivity and
+force, including in particular the long-term potential output. In this regard, the measures
+unemployed. This need is all the more press- included in Greece’s National Recovery and
+ing in light of the adverse demographic trends Resilience Plan to foster labour market acti-
+and the recent exodus of young highly skilled vation and upskilling through redesigning and
+workers following the sovereign debt crisis. strengthening active labour market policies
+Such active labour market policies would sup- are well-timed and crucially important.
+56
+74 EconomicBulletin
+December2022

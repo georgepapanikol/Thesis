@@ -1,0 +1,2433 @@
+56 
+Economic Bulletin 
+December 2022 45 THE GREEK LABOUR MARKET BEFORE 
+AND AFTER THE PANDEMIC: SLACK, 
+TIGHTNESS AND SKILLS MISMATCH□ 
+Christos Antonopoulos 
+Bank of Greece, Economic Analysis and Research Department 
+Sofia Anyfantaki 
+Bank of Greece, Economic Analysis and Research Department 
+Hiona Balfoussia 
+Bank of Greece, Economic Analysis and Research Department 
+Theodora Kosma 
+Bank of Greece, Economic Analysis and Research Department 
+Evangelia Papapetrou 
+Bank of Greece, Economic Analysis and Research Department, 
+and National and Kapodistrian University of Athens, Department of Economics 
+Filippos Petroulakis 
+Bank of Greece, Economic Analysis and Research Department 
+Pavlos Petroulas 
+Bank of Greece, Economic Analysis and Research Department 
+Pinelopi Zioutou 
+Bank of Greece, Economic Analysis and Research Department 
+ABSTRACT 
+The Greek labour market recorded a significant improvement during the first half of 2022. This 
+is encouraging and reflects, inter alia, output growth, the government support measures during 
+the pandemic and the implementation of important structural reforms during the previous decade. 
+However, in the current inflationary environment, the question that arises is whether the labour 
+market is slack or tight and whether wage pressures may be emerging. This article draws on diverse 
+sources of information on the labour market, in an attempt to shed some light on this question 
+and examine how the Greek labour market evolved before and after the pandemic. In sum, unem -
+ployment remains high in Greece, well above the euro area average, and labour market slack is 
+still evident by most measures. However, pockets of tightening are beginning to emerge at the sec -
+toral level. Moreover, slack is declining at a fast pace, much faster than in the euro area, as sug -
+gested by the drop in unemployment over the past three years. The high share of long-term unem -
+ployment and the rather elevated estimates of efficient unemployment presented in this article also 
+point in the same direction. Given the recent strong employment growth and the prospect of a sig -
+nificant need for additional labour over the coming years due to the implementation of the 
+NextGenerationEU plan, labour market tightness could increase further. This concern is further 
+compounded by extensive survey evidence of skills mismatches in the Greek labour market, which 
+are known to adversely affect allocative efficiency and, thus, productivity. Looking ahead, it is impor -
+tant to pursue labour market policies aimed at increasing participation rates and upskilling or 
+reskilling the labour force, including in particular the long-term unemployed. 
+Keywords:labour market; unemployment; Beveridge curve; tightness; slack 
+JEL classification:E24; J08; J21; J24; J31 
+DOI link:https://doi.org/10.52903/econbull20225602 
+
+--- PAGE BREAK ---
+
+Χρήστος Αντωνόπουλος 
+Τράπεζα της Ελλάδος, Διεύθυνση Οικονομικής Ανάλυσης και Μελετών 
+Αοφία Ανυφαντάκη 
+Τράπεζα της Ελλάδος, Διεύθυνση Οικονομικής Ανάλυσης και Μελετών 
+Χιόνα Μπαλφούσια 
+Τράπεζα της Ελλάδος, Διεύθυνση Οικονομικής Ανάλυσης και Μελετών 
+Θεοδώρα Κοσμά 
+Τράπεζα της Ελλάδος, Διεύθυνση Οικονομικής Ανάλυσης και Μελετών 
+Ευαγγελία Σαπαπέτρου 
+Τράπεζα της Ελλάδος, Διεύθυνση Οικονομικής Ανάλυσης και Μελετών, 
+και Εθνικό και Καποδιστριακό Σανεπιστήμιο Αθηνών, Τμήμα Οικονομικών Επιστημών 
+Φίλιππος Σετρουλάκης 
+Τράπεζα της Ελλάδος, Διεύθυνση Οικονομικής Ανάλυσης και Μελετών 
+Σαύλος Σέτρουλας 
+Τράπεζα της Ελλάδος, Διεύθυνση Οικονομικής Ανάλυσης και Μελετών 
+Σηνελόπη Ζιούτου 
+Τράπεζα της Ελλάδος, Διεύθυνση Οικονομικής Ανάλυσης και Μελετών 
+ΣΕΡΙΛΗΨΗ 
+Η ελληνική αγορΤ εργασίας κατέγραψε σημαντική βελτίωση κατΤ το πρώτο εξΤμηνο του 2022. Αυτή 
+η τΤση αντικατοπτρίζει, μεταξύ Τλλων, τον αυξημένο ρυθμό οικονομικής μεγέθυνσης, τα μέτρα στή -
+ριξης που έλαβε η ελληνική κυβέρνηση κατΤ την πανδημία και την εφαρμογή σημαντικών διαρ -
+θρωτικών μεταρρυθμίσεων κατΤ την προηγούμενη δεκαετία. Ωστόσο, στο τρέχον πληθωριστικό περι -
+βΤλλον, το ερώτημα που τίθεται είναι αν υπΤρχει στενότητα ( tightness ) ή χαλαρότητα ( slack ) στην 
+αγορΤ εργασίας και αν ενδέχεται να εμφανιστούν μισθολογικές πιέσεις. Το παρόν Τρθρο αντλεί 
+πληροφορίες για την αγορΤ εργασίας από διΤφορες πηγές, σε μια προσπΤθεια να διερευνήσει αυτό 
+το ερώτημα και να εξετΤσει πώς εξελίχθηκε η ελληνική αγορΤ εργασίας πριν και μετΤ την παν -
+δημία. Εν ολίγοις, η ανεργία παραμένει υψηλή στην ΕλλΤδα, πολύ πΤνω από το μέσο όρο της ζώνης 
+του ευρώ, και εξακολουθεί να διαπιστώνεται χαλαρότητα στην αγορΤ εργασίας με βΤση τα κύρια 
+μεγέθη. Ωστόσο, αρχίζουν να παρατηρούνται κΤποιες ενδείξεις στενότητας σε κλαδικό επίπεδο. 
+Επιπλέον, η χαλαρότητα στην αγορΤ εργασίας μειώνεται με γρήγορους ρυθμούς, πολύ ταχύτερα 
+από ό,τι στη ζώνη του ευρώ, όπως υποδηλώνει η πτώση της ανεργίας τα τελευταία τρία χρόνια. Το 
+υψηλό ποσοστό της μακροχρόνιας ανεργίας και οι μΤλλον αυξημένες εκτιμήσεις για την “αποτε -
+λεσματική ανεργία” ( efficient unemployment ) που παρουσιΤζονται σε αυτό το Τρθρο αποτελούν 
+ενδείξεις προς την ίδια κατεύθυνση. Δεδομένης της πρόσφατης σημαντικής αύξησης της απασχό -
+λησης, καθώς και της προοπτικής δημιουργίας νέων θέσεων εργασίας τα επόμενα χρόνια λόγω της 
+εφαρμογής του σχεδίου NextGenerationEU, η στενότητα στην αγορΤ εργασίας ενδέχεται να αυξη -
+θεί περαιτέρω. Η αναντιστοιχία δεξιοτήτων που διαπιστώνεται στην ελληνική αγορΤ εργασίας επι -
+τείνει τον ως Τνω προβληματισμό. ΣυνΤγεται ότι είναι σημαντικό να επιδιωχθούν πολιτικές που 
+στοχεύουν στην αύξηση του ποσοστού συμμετοχής στην αγορΤ εργασίας και στην εκπαίδευση ή επα -
+νειδίκευση του εργατικού δυναμικού, συμπεριλαμβανομένων ιδίως των μακροχρόνια ανέργων. 
+56 
+Economic Bulletin 
+December 2022 46 Η ΕΛΛΗΝΙΚΗ ΑΓΟΡΑ ΕΡΓΑΑΙΑΑ ΣΡΙΝ ΚΑΙ ΜΕΤΑ 
+ΤΗΝ ΣΑΝΔΗΜΙΑ: ΧΑΛΑΡΟΤΗΤΑ, ΑΤΕΝΟΤΗΤΑ 
+ΚΑΙ ΑΝΑΝΤΙΑΤΟΙΧΙΑ ΔΕΞΙΟΤΗΤΩΝ 
+
+--- PAGE BREAK ---
+
+1INTRODUCTION 
+The Greek labour market recorded a signifi -
+cant improvement during the first half of 2022. 
+Aggregate employment increased by 9% year- 
+on-year (y-o-y), while dependent employment 
+increased by 12%. Almost all sectors recorded 
+positive employment growth rates and espe -
+cially the tourism, retail, manufacturing and 
+construction sectors. Moreover, the unem -
+ployment rate declined to 11.8% in September, 
+a level not seen since 2010, though still well 
+above the euro area average. 
+This recent strong performance follows a 
+period of notable labour market resilience dur -
+ing the pandemic. While many firms were 
+forced to suspend their operation in 2020, trig -
+gering a deep recession, the number of persons 
+employed declined by much less than economic 
+activity or hours worked, and less than in the 
+euro area, largely due to the generous support 
+measures of the Greek government. In sum, recent labour market developments 
+are encouraging and reflect, inter alia, output 
+growth, the pandemic-related support meas -
+ures and the implementation of important 
+structural reforms during the previous decade. 
+However, in the current inflationary environ -
+ment, the question that arises is whether the 
+labour market is slack or tight and whether 
+wage pressures may be emerging. This article 
+draws on diverse sources of information on the 
+labour market, in an attempt to shed some 
+light on this question and examine how the 
+Greek labour market evolved before and after 
+the pandemic. 
+Delving deeper into the recent sharp decline 
+in unemployment, in Section 2 we show that it 
+is not driven by lower labour force participa -
+tion. The participation of workers aged 15-74 
+56 
+Economic Bulletin 
+December 2022 47 THE GREEK LABOUR MARKET BEFORE 
+AND AFTER THE PANDEMIC: SLACK, 
+TIGHTNESS AND SKILLS MISMATCH *□
+Christos Antonopoulos 
+Bank of Greece, Economic Analysis and Research Department 
+Sofia Anyfantaki 
+Bank of Greece, Economic Analysis and Research Department 
+Hiona Balfoussia 
+Bank of Greece, Economic Analysis and Research Department 
+Theodora Kosma 
+Bank of Greece, Economic Analysis and Research Department 
+Evangelia Papapetrou 
+Bank of Greece, Economic Analysis and Research Department, 
+and National and Kapodistrian University of Athens, Department of Economics 
+Filippos Petroulakis 
+Bank of Greece, Economic Analysis and Research Department 
+Pavlos Petroulas 
+Bank of Greece, Economic Analysis and Research Department 
+Pinelopi Zioutou 
+Bank of Greece, Economic Analysis and Research Department 
+*The views expressed in this article are of the authors and do not 
+necessarily reflect those of the Bank of Greece. The authors are 
+responsible for any errors or omissions. 
+
+--- PAGE BREAK ---
+
+has risen over the past decade and is as high 
+now as it was in 2010. This increase is not 
+merely a cyclical phenomenon but rather a 
+larger trend, underpinned by the rising par -
+ticipation of women and workers above prime 
+age. The employment-to-population ratio is 
+also on the rise. However, it should be noted 
+that the labour force participation has been 
+growing at a slower pace over recent years and, 
+in 2022, remains almost 5 percentage points 
+lower than the euro area average, suggesting 
+that, recent improvements notwithstanding, 
+the Greek labour market is still some way away 
+from fully utilising its human capital. 
+Labour market slack, as measured by the frac -
+tion of the extended labour force not fully 
+utilised in the labour market, but willing to 
+offer more, improved the most in Greece 
+among euro area countries following the pan -
+demic, as outlined in Section 3, declining from 
+24.3% in the fourth quarter of 2019 to 18% in 
+the second quarter of 2022. Nonetheless, it 
+remains the third highest in the euro area on 
+account of Greece’s high unemployment rate, 
+indicating the lingering presence of slack in the 
+labour market. 
+Similarly, the job vacancy rate, a measure of 
+labour market tightness which is discussed in 
+Section 4, declined in Greece before the pan -
+demic and has been increasing since the first 
+quarter of 2021. A similar pattern was recorded 
+in the euro area, where the pandemic 
+prompted a sharp temporary fall in job vacancy 
+rates. By this measure, there has been a tight -
+ening in the Greek labour market in recent 
+years. Still, the job vacancy rate in Greece 
+remains much lower than that of the euro area, 
+indicating, yet again, that the Greek labour 
+market is less tight than the euro area average. 
+On the other hand, it is notable that Greece 
+has the highest long-term unemployment rate 
+among euro area countries, standing at 7.8% 
+in the second quarter of 2022 compared to a 
+2.7% euro area average, with 63% of all unem -
+ployed in Greece being long-term unemployed. 
+While a substantial decline in the long-term unemployment rate has been achieved in 
+recent years, the high share of long-term 
+unemployed and the known difficulty in re- 
+employing this cohort imply that slack in the 
+Greek labour market may effectively be lower, 
+and closer to the euro area average, than indi -
+cated by some of the aforementioned metrics. 
+Turning to a more model-based analysis in Sec -
+tion 5, an examination of the Greek Beveridge 
+curve from 2009 onwards reveals similar pat -
+terns to those reported in the literature, 
+namely an increase in tightness (the ratio of 
+vacancies to unemployment) as unemployment 
+declines. However, in the case of Greece, there 
+doesn’t seem to be evidence of a concurrent 
+decrease in labour market efficiency, i.e. an 
+outward shift of the Beveridge curve, as is 
+often the case following a recession. Indeed, 
+the improvement in the Greek labour market 
+is a result of both a decrease in the separation 
+rate and an increase in the job finding rate. 
+This may reflect the positive impact of the 
+structural labour market reforms undertaken 
+over the past decade. Higher tightness with 
+broadly constant labour market efficiency 
+could also reflect an increase in productivity, 
+which is known to induce firms to increase 
+vacancies and hence employment. While 
+higher productivity could imply an upward 
+pressure on wages, it would allow for wage 
+gains without disrupting employment gains. 
+As a follow-up, we explore the novel notion of 
+efficient unemployment, which has not previ -
+ously been considered for Greece. It is defined 
+as the rate of unemployment which minimises 
+the sum of unemployment and vacancy cre -
+ation, subject to the Beveridge curve, to 
+acknowledge that it is not possible to reduce 
+both unemployment and vacancies to zero at 
+the same time. We estimate the slope of the 
+Greek Beveridge curve under alternative 
+assumptions and use its elasticity to calculate 
+efficient unemployment for Greece for the 
+period from 2010 to date. We show that, at the 
+current juncture, efficient unemployment is 
+below, but close to, the current value of head -
+line unemployment for all plausible values of 
+56 
+Economic Bulletin 
+December 2022 48 
+
+--- PAGE BREAK ---
+
+the Beveridge elasticity, indicating that there 
+still exists slack in the labour market, albeit fast 
+declining. 
+Turning to sectoral micro-level evidence in 
+Section 6, the ERGANI data indicate that the 
+post-COVID period of 2021 has been charac -
+terised by robust employment growth across 
+most major sectors. For most sectors, the 
+wages of new hires and their relative wages 
+compared to those of incumbent workers do 
+not show any significant upward trend. Thus, 
+on balance, wage growth data do not show 
+signs of a general tightness in the labour mar -
+ket. The Construction, Hotels & Restaurants 
+and Other Services sectors are exceptions, 
+exhibiting an upward trend in wages of new 
+hires as well as in employment flows, which 
+may be indicative of emerging market pres -
+sures. 
+Finally, a discussion of labour market devel -
+opments would be incomplete without con -
+sidering skills availability and mismatch. As 
+discussed in Section 7, an efficient allocation 
+of workers across tasks is particularly impor -
+tant when the aggregate skills supply is rela -
+tively limited, as is the case with Greece. Per -
+sistent skill gaps and mismatches come at eco -
+nomic and social costs, while skills constraints 
+can negatively affect labour productivity and 
+hamper the ability to innovate and adopt tech -
+nological advances. We find that overskill mis -
+match plays an important role for productivity, 
+and overskilling in professional occupations, 
+where Greece scores especially poorly, is a 
+major drag. 
+To sum up, unemployment remains high in 
+Greece, well above the euro area average, and 
+labour market slack is still evident by most 
+measures. However, pockets of tightening are 
+beginning to emerge at the sectoral level. 
+Moreover, slack is declining at a fast pace, 
+much faster than in the euro area, as suggested 
+by the drop in unemployment over the past 
+three years. In addition, long-term unemploy -
+ment in Greece is high, suggesting that, at 
+some point, it may become difficult to reduce the unemployment rate below the level of long- 
+term unemployment, which currently stands at 
+about 7%. Subtracting long-term unemploy -
+ment from the measure of slack suggests that 
+slack in Greece may be closer to the euro area 
+average than indicated by the baseline meas -
+ure. Estimates of efficient unemployment are 
+also high, hovering around 8-10%. With unem -
+ployment currently below 12%, this means that 
+the unemployment gap, i.e. the distance to 
+equilibrium unemployment, is closing. Given 
+the recent strong employment growth and the 
+prospect of a significant need for additional 
+labour due to NextGenerationEU (whose 
+implementation will require a projected addi -
+tional 200,000 jobs by 2026, according to the 
+National Recovery and Resilience Plan), 
+labour market tightness could increase signif -
+icantly over the coming years. 
+This analysis has important policy implications. 
+Notably, looking ahead, it is particularly 
+important to pursue labour market policies 
+aimed at increasing participation rates and 
+upskilling or reskilling the labour force, includ -
+ing in particular the long-term unemployed. 
+The ongoing adverse demographic develop -
+ments and the recent exodus of young highly 
+skilled workers following the sovereign debt 
+crisis also underline the pivotal role of active 
+labour market policies. Carefully designed 
+policies to enhance education and skills acqui -
+sition would ensure that workers are equipped 
+with the right skills and that businesses can 
+flexibly deploy workers to meet changing 
+labour market needs. The implementation of 
+such policies will help ensure that technology 
+adoption has a positive impact on productivity, 
+output growth and employment. 
+In this spirit, the National Recovery and 
+Resilience Plan includes reforms which will 
+foster labour market activation and upskilling. 
+Moreover, the timely absorption of the 
+NextGenerationEU funds and the full imple -
+mentation of the planned investments and 
+structural reforms will enhance the economy’s 
+innovation capacity and create new high-skilled 
+jobs, hopefully contributing to a reversal of the 
+56 
+Economic Bulletin 
+December 2022 49 
+
+--- PAGE BREAK ---
+
+previous decade’s brain drain. In light of the 
+analysis presented in this article, optimising the 
+use of the NextGenerationEU funds and 
+designing targeted labour market policies will 
+be key to ensuring robust employment growth, 
+high labour force participation and, ultimately, 
+strong and sustainable economic growth over 
+the medium-term horizon. 
+2RECENT DEVELOPMENTS AND LONG-RUN 
+TRENDS IN THE GREEK LABOUR MARKET 
+2.1 EMPLOYMENT AND UNEMPLOYMENT 
+The COVID-19 pandemic led to a significant 
+recession in 2020, as many firms, especially in 
+the tourism sector, suspended their operation. 
+However, due to the support measures of the 
+Greek government, the number of persons 
+employed declined much less compared to eco -
+nomic activity and hours worked. Chart 1 shows 
+the evolution of economic activity, aggregate 
+employment and hours worked in Greece and 
+the euro area. In the second quarter of 2020, 
+when the first lockdown occurred, both GDP 
+and hours worked declined more in Greece 
+compared to the euro area, while aggregate 
+employment dropped comparatively less. 
+Since the second quarter of 2021, when most of 
+the COVID-19 containment measures were 
+lifted, employment growth has been strong and 
+has reverted to pre-pandemic levels by achiev -
+ing higher growth rates compared to the euro 
+area. To a large extent, the strong rebound of 
+the labour market after the lifting of the major -
+ity of COVID-19-related measures is likely due, 
+among other things, to the implementation of 
+important structural reforms during the previ -
+ous decade, which made the labour market 
+more flexible. 1
+During the first half of 2022, the labour market 
+improved significantly as the strong demand for 
+tourism services led to increased hirings in 
+Hotels & Restaurants. As a result, aggregate 
+employment increased by 9.0% y-o-y in the first 
+half of 2022, while dependent employment 
+increased even more, by 12.0% y-o-y. Almost all sectors recorded positive employment growth 
+rates and especially the tourism sector, retail 
+trade, manufacturing and construction. In addi -
+tion, the unemployment rate declined to 13.1% 
+from 16.5% in the first half of 2022, and to 
+11.8% in September 2022, reaching a level not 
+seen since 2010. 
+The drop in unemployment (Chart 2) was more 
+significant for the most vulnerable social 
+groups, especially for young people 2and for 
+56 
+Economic Bulletin 
+December 2022 50 1The extensive 2010-2014 labour market structural reforms, includ -
+ing provisions concerning collective dismissals, the institutional 
+framework for unions and collective agreements, the promotion of 
+flexible forms of employment, the decentralisation of the wage set -
+ting process, as well as the statutory minimum wage reductions, 
+raised flexibility, contributed to the strong moderation of wage 
+costs and increased the resilience of employment to adverse eco -
+nomic shocks. 
+230.4% in the first half of 2022 compared to 39.0% in the first half 
+of 2021 for people aged 20-24, and 20.4% in the first half of 2022 
+compared to 29.1% in the first half of 2021 for people aged 25-29. 	
+
+
+
+
+
+
+
+
+	
+
+
+
+	
+ 	
+	
+	 	
+	
+ 	
+		 	
+	 	
+			
+
+
+
+
+
+
+
+
+
+
+
+ !"##$% $&&##$% '(#)(*##$%
+ !"##$+ $&&##$+ '(#)(*##$+
+,(-$(.
+/$% (-$+((.
+
+--- PAGE BREAK ---
+
+women. 3At the same time, the labour force 
+increased significantly (4.9% y-o-y in the first 
+half of 2022), as people who were reluctant to 
+enter the labour force due to health concerns 
+and the need to take care of their vulnerable rel -
+atives were again available in the labour market. 
+Nevertheless, while the unemployment rate has 
+declined for both men and women, the distance 
+from the euro area average remains large. The 
+persistently high unemployment in recent years, 
+despite a long-term decline from its peak, is 
+likely to have exacerbated the problem of mis -
+match between jobs demanded and offered, as 
+a significant part of the workforce has lost some 
+of its skills. 4In addition, factors such as popu -
+lation ageing, retirement of workers and labour 
+migration during the crisis years have led to 
+shortages of both low- and high-skilled workers. It is notable, however, that Greece has the 
+highest long-term unemployment rate (ratio of 
+persons unemployed over 12 months to labour 
+force) among euro area countries, standing at 
+7.8% in the second quarter of 2022, compared 
+to 2.7% on average in the euro area (see Chart 
+3), despite the large improvement since 2019. 5
+2.2 PARTICIPATION RATES 
+The recent sharp decline in unemployment is 
+not simply due to lower participation, as one 
+could have feared due to the pandemic, and as 
+was the case in other countries (e.g. in the 
+56 
+Economic Bulletin 
+December 2022 51 317.3% in the first half of 2022 compared to 20.6% in the first half 
+of 2021. 
+4See Section 6 for a thorough analysis of mismatch in the Greek 
+labour market. 
+5Long-term unemployment amounts to 62.6% of total unemploy -
+ment in Greece compared to 41.7% in the euro area. 	
+
+	
+	
+
+
+	
+
+
+
+
+	
+
+	
+	
+
+     
+ ! "# !
+ $ "# $
+%& '
+(
+)& !*+ $*
+
+(Chart 3 Long-term unemployment rate in the 
+euro area
+	PGUIFMBCPVSGPSDFQFPQMFBHFE
+&VSPBSFB
+(SFFDF
+4QBJO
+*UBMZ
+4MPWBLJB
+1PSUVHBM
+$ZQSVT
+#FMHJVN
+'SBODF
+'JOMBOE
+"VTUSJB
+(FSNBOZ
+/FUIFSMBOET
+2 2
+4PVSDF&VSPTUBU
+/PUF0OMZ.FNCFS4UBUFTXJUIBWBJMBCMFEBUBGPS2BSF
+QSFTFOUFE       
+ &VSPBSFB
+(SFFDF
+4QBJO
+*UBMZ
+4MPWBLJB
+1PSUVHBM
+$ZQSVT
+#FMHJVN
+'SBODF
+'JOMBOE
+"VTUSJB
+(FSNBOZ
+/FUIFSMBOET
+2 2
+4PVSDF&VSPTUBU
+/PUF0OMZ.FNCFS4UBUFTXJUIBWBJMBCMFEBUBGPS2BSF
+QSFTFOUFE       
+ 
+4PVSDF&VSPTUBU
+/PUF0OMZ.FNCFS4UBUFTXJUIBWBJMBCMFEBUBGPS2BSF
+QSFTFOUFE
+
+--- PAGE BREAK ---
+
+United States and the United Kingdom, 
+though not in the EU). The participation of 
+workers aged 15-74 (Chart 4) is as high now as 
+it was in 2010; following a predictable fall at the outset of the pandemic, it continued its 
+upward trajectory, reaching 60.2% (for the 15- 
+74 age group) in the third quarter of 2021, an 
+all-time high. As a result, total employment 
+passed the 4 million mark in the third quarter 
+of 2021 for the first time since 2011. 
+The gains in participation have come primarily 
+from two sources: higher participation of work -
+ers above prime age and women. As is common 
+in other advanced economies, the participation 
+of prime-age (aged 25-54) men has fallen 
+slightly over the past two decades (Chart 5), by 
+approximately one percentage point. By con -
+trast, the participation of prime-age women has 
+kept rising and is now at 78%, over 15 per -
+centage points higher than in the early 2000s. 
+This likely reflects a combination of demo -
+graphic and social factors, as younger women, 
+with a much higher tendency to work outside 
+the home, replace older cohorts. The partici -
+pation of prime-age women seems to have 
+plateaued in recent years, and the pandemic 
+does not seem to have changed this. Interest -
+ingly, participation of prime-age men in Greece 
+has been consistently slightly higher than in the 
+rest of the euro area for the past two decades; 
+for women, it has been lower, possibly reflect -
+ing, inter alia, the relative inadequacy of sup -
+port measures for motherhood, though the dif -
+ference has shrunk in recent years. 
+As for older workers (aged 55-74), gains have 
+been more modest but are just as important. 
+The participation of the 55-74 age cohort has 
+risen from 27% in 2008 to 34% in 2021 (Chart 
+6). The gains are similar for both men and 
+women, though for men participation is 
+almost twice as high for this cohort. It is likely 
+that participation gains for this group are the 
+result of the various reforms that took place, 
+which discourage early retirement; participa -
+tion for these groups is likely to increase 
+further, as cohorts benefitting from early 
+retirement policies are replaced by younger 
+ones. Newer policies, which substantially 
+lower pension reductions for working pen -
+sioners, are expected to further fuel this trend. 
+On the other hand, the pandemic may have 
+56 
+Economic Bulletin 
+December 2022 52 	
+	
+
+
+
+   	   	 
+
+
+
+
+
+
+
+
+
+	
+ 
+!"###"$
+"#% 
+&"'()*&(("+
+	
+				
+
+
+  	 
+    	
+
+	
+ 
+ 
+ !"!#$!%#%&
+'% !!(!)!!(!!##&
+
+--- PAGE BREAK ---
+
+also hastened retirement for these workers, as
+was the case in other countries, so perhaps
+these trends may have been delayed. The
+increase in the participation rate, particularly
+because it is not merely a cyclical phenome-
+non but rather part of a larger trend, is
+encouraging regarding the growth potential of
+the labour market. The participation of older
+men was higher than in the rest of the euro
+area until the crisis, perhaps due to the higher
+rate of self-employment, falling substantially
+below at the onset of the crisis due to early
+retirements. Participation of older women,
+however, remains substantially lower.
+Finally, Chart 7 shows the employment-to-pop-
+ulation ratio for the 15-74 age group, a rea-
+sonably model-free metric of tightness of the
+labour market. It has risen substantially from
+its low of the previous decade and has resumed
+its pre-pandemic trend as of 2022. On the other
+hand, it is still below its pre-crisis level, sug-
+gesting that further gains may be possible due
+to the various reforms enacted during the sov-
+ereign debt crisis to raise participation, cou-
+pled with rising longevity and reductions in
+early retirements.
+As such, even though the working age popu-
+lation and the labour force may have shrunk
+over the past fifteen years, the higher partici-
+pation rate means that the new equilibrium
+may allow for a higher employment-to-popu-
+lation ratio. All in all, this graphical evidence
+suggests that, despite having improved, the
+Greek labour market is still some way away
+from fully utilising its human capital.
+Furthermore, the aforementioned analysis
+notwithstanding, the overall labour force par-
+ticipation rate in 2022 remained almost 5 per-
+centage points lower than the euro area aver-
+age (Chart 8). This is a perennial problem of
+the Greek economy as the lack of support
+measures for motherhood discourages women
+from entering the labour market, while the
+family support net in the Greek society is a
+disincentive for young people to seek a job.
+On this front, active labour market policiesthat would support employment, increase
+skills and enhance the experience of workers,
+especially those most vulnerable, would
+increase attachment to the labour market and
+56
+Economic Bulletin
+December 2022 53	
+		
+	
+
+
+  	
+   
+ 
+  
+	
+
+			
+ 		
+
+		
+ 		
+
+ !"!#$!%#%&
+'% !!(!)!!(!!##&
+	
+	
+
+
+
+
+  	
+   
+ 
+  
+
+				
+
+
+				 
+ 
+
+--- PAGE BREAK ---
+
+eventually result in higher employment and 
+participation rates. In light of the adverse 
+demographic developments and the exodus of 
+young skilled workers with enhanced human 
+capital, especially after the recent economic 
+crisis, the role of active labour market policies 
+along with labour market reforms seems to 
+be crucial. 
+3LABOUR MARKET SLACK IN THE GREEK 
+ECONOMY 
+Further to the unemployment rate, another 
+indicator that is widely used to examine slack 
+in the labour market is related to a wider 
+notion of underutilisation. Indeed, to better 
+reflect the unmet need for employment, labour 
+market slack consists of all people who are not 
+fully utilised in the labour market, but express 
+their willingness to offer more. Following 
+Eurostat, there are four different groups that 
+belong to the above definition: 6•unemployed people; 
+•underemployed part-time workers who want 
+to work more; 
+•people who are available to work but are not 
+looking for work; 
+•people who are looking for work but are not 
+available for work. 
+The first two groups belong to the definition of 
+the labour force, but the last two belong to the 
+definition of inactive persons and are outside 
+the labour force. For the analysis of labour 
+market slack, we use the “extended labour 
+force”, which is the sum of labour force plus 
+the two last groups. 
+Chart 9 shows labour market slack as a share 
+of the extended labour force for the euro area 
+Member States and its decomposition for the 
+second quarter of 2022. In addition, the aggre -
+gate share for the fourth quarter of 2019 (the 
+last quarter before the outbreak of COVID-19 
+pandemic) is presented. 
+In the second quarter of 2022, euro area 
+labour market slack, as measured by the same 
+metric, stood at around 13.5% of the extended 
+labour force compared to 15.0% before the 
+outbreak of the pandemic. Unemployment 
+accounts for half of this percentage, while the 
+rest is divided between people who are avail -
+able but not seeking a job and people who are 
+seeking a job but are not available. Greece 
+had the third largest share, mainly due to the 
+high unemployment rate (11.8% of the 
+extended labour force), behind Spain and 
+Italy, while in the fourth quarter of 2019 it 
+registered the highest rate. The second largest 
+contributor was underemployed part-time 
+workers (3.4% of the extended labour force), 
+as many employees work part-time, while they 
+56 
+Economic Bulletin 
+December 2022 54 	
+
+	
+	
+
+	
+	
+
+     
+	 !" #	$%$	$	 !"
+	&!" #	$%$	$	&!"
+'(%)("	*
++) ,-%&,(		*
+6According to Eurostat, “persons seeking work but not immedi -
+ately available, consists mostly of people who do not qualify as 
+unemployed because of their limited availability to start in a new 
+job, despite their being jobseekers”. For more details, see 
+https://op.europa.eu/en/publication-detail/-/publication/30df990e- 
+7eea-4dbb-8846-7e9808e3bb65. 
+
+--- PAGE BREAK ---
+
+want to work more hours and increase their 
+income. The third largest category is people 
+who are available to work but are not seeking 
+employment (2.5% of the extended labour 
+force); these people are usually those dis -
+couraged from a long absence from the labour 
+market and are not actively searching for a 
+new job. The long absence from the labour 
+market often leads to a deterioration of their 
+skills. If we examine the share of people who 
+are available but not seeking a job over time, 
+the highest rates were observed during the 
+periods of lockdown, i.e. in the second quar -
+ter of 2020 (4.6% of the extended labour 
+force), in the fourth quarter of 2020 (5.1% of 
+the extended labour force) and in the first 
+quarter of 2021 (6.4% of the extended labour 
+force), as they probably had to take care of the 
+children who were attending school at home 
+and elderly people. Labour market slack improved in almost all 
+Member States (with the exception of Estonia, 
+Slovakia and Germany) after the pandemic. 
+The most significant improvement was realised 
+in Greece, as this share of the extended labour 
+force declined from 24.3% in the fourth quar -
+ter of 2019 to 18.0% in the second quarter of 
+2022. Chart 10 shows the differences between 
+the two periods. Labour market slack declined 
+by 6.3 percentage points in Greece, compared 
+to 1.5 percentage points in the euro area; all 
+four components contributed to the decline, 
+though the drop in the unemployment rate was 
+the main factor. 
+Excluding the unemployment rate, the remain -
+ing three components comprise the potential 
+additional labour force (Chart 11). In this case, 
+the share of Greece is lower relative to the 
+euro area average (6.2% compared to 7.1% in 
+56 
+Economic Bulletin 
+December 2022 55 Chart 9 Labour market slack in the euro area
+(2022:Q2) 
+	PGUIFFYUFOEFEMBCPVSGPSDFQFPQMFBHFETFBTPOBMMZ
+BEKVTUFEEBUB
+&VSPBSFB
+4QBJO
+*UBMZ
+(SFFDF
+'SBODF
+'JOMBOE
+$ZQSVT
+1PSUVHBM
+#FMHJVN
+-VYFNCPVSH
+/FUIFSMBOET
+*SFMBOE
+-BUWJB
+&TUPOJB
+"VTUSJB
+-JUIVBOJB
+4MPWBLJB
+4MPWFOJB
+(FSNBOZ
+.BMUB
+6OFNQMPZNFOU "WBJMBCMFCVUOPUTFFLJOH
+4FFLJOHCVUOPUBWBJMBCMF 6OEFSFNQMPZFEQBSUUJNFXPSLFST
+-BCPVSNBSLFUTMBDL2Chart 10 Change in labour market slack in the euro 
+area (2019:Q4-2022:Q2) 
+	QFSDFOUBHFQPJOUTQFPQMFBHFETFBTPOBMMZBEKVTUFE
+EBUB
+&VSPBSFB
+(SFFDF
+'JOMBOE
+*SFMBOE
+/FUIFSMBOET
+*UBMZ
+'SBODF
+.BMUB
+4QBJO
+1PSUVHBM
+#FMHJVN
+-BUWJB
+$ZQSVT
+"VTUSJB
+4MPWFOJB
+-VYFNCPVSH
+-JUIVBOJB
+4MPWBLJB
+(FSNBOZ
+&TUPOJB
+6OFNQMPZNFOU "WBJMBCMFCVUOPUTFFLJOH
+4FFLJOHCVUOPUBWBJMBCMF 6OEFSFNQMPZFEQBSUUJNFXPSLFST
+$IBOHFJOMBCPVSNBSLFUTMBDL
+
+--- PAGE BREAK ---
+
+the euro area). In addition, the share of peo -
+ple who are seeking a job, but are not available, 
+is the third lowest across euro area Member 
+States. 
+The share of potential additional labour force 
+is almost double for women (8.3% of the 
+extended labour force) compared to men 
+(4.4% of the extended labour force) (Chart 
+12). Even though this share has declined com -
+pared to the fourth quarter of 2019, it remains 
+high. The share of available but not seeking 
+women (discouraged workers) is more than 
+double compared with the share of men. 
+Additional reforms and the implementation of 
+more targeted measures to increase female 
+participation and attachment to the labour market should be considered. These include 
+easier access to nurseries for young children 
+and care homes for the elderly, subsidies for 
+hiring women, (re)training programmes and 
+policies for enhancing their skills. Such poli -
+cies would encourage women to join the 
+labour force and increase their activity rates 
+and thus, subsequently, total labour force par -
+ticipation. 
+4TIGHTNESS IN THE GREEK LABOUR MARKET: 
+JOB VACANCY RATES AND UNEMPLOYMENT 
+Labour market tightness reflects the relative 
+abundance of vacancies as compared to those 
+seeking for a job. The pandemic resulted in a 
+56 
+Economic Bulletin 
+December 2022 56 Chart 11 Shares of the potential additional labour 
+force in the euro area (2022:Q2)
+	PGUIFFYUFOEFEMBCPVSGPSDFQFPQMFBHFETFBTPOBMMZ
+BEKVTUFEEBUB
+&VSPBSFB
+*UBMZ
+4QBJO
+'JOMBOE
+'SBODF
+/FUIFSMBOET
+-VYFNCPVSH
+*SFMBOE
+(SFFDF
+$ZQSVT
+"VTUSJB
+#FMHJVN
+1PSUVHBM
+&TUPOJB
+-BUWJB
+(FSNBOZ
+-JUIVBOJB
+4MPWFOJB
+.BMUB
+4MPWBLJB
+"WBJMBCMFCVUOPUTFFLJOH
+4FFLJOHCVUOPUBWBJMBCMF
+6OEFSFNQMPZFEQBSUUJNFXPSLFST
+1PUFOUJBMBEEJUJPOBMMBCPVSGPSDF2
+4PVSDF&VSPTUBUChart 12 Shares of the potential additional labour 
+force in Greece by gender (2022:Q2) 
+	PGUIFFYUFOEFEMBCPVSGPSDFQFPQMFBHFETFBTPOBMMZ
+BEKVTUFEEBUB
+5PUBM .FO 8PNFO
+"WBJMBCMFCVUOPUTFFLJOH
+4FFLJOHCVUOPUBWBJMBCMF
+6OEFSFNQMPZFEQBSUUJNFXPSLFST
+1PUFOUJBMBEEJUJPOBMMBCPVSGPSDF2
+4PVSDF&VSPTUBU
+
+--- PAGE BREAK ---
+
+sharp fall in job vacancy rates 7in the euro area, 
+followed by a recovery. In Greece, despite 
+lower job vacancy rates compared to the euro 
+area, the job vacancy rate declined before the 
+pandemic, while it increased from the first 
+quarter of 2021, reaching 1.1% in the second 
+quarter of 2022 (Chart 13). 
+Among the euro area Member States for which 
+comparable data are available, 8there are coun -
+tries with a high job vacancy rate, a few coun -
+tries with a low rate, while the majority of them 
+are at a medium level (Chart 14). In the first 
+group belong the Netherlands (5.0%), Belgium 
+(5.0%), Germany (4.7%) and Austria (4.7%). 
+Greece is among the countries with the lowest 
+job vacancy rate, along with Spain (1.1% and 
+0.8%, each). 
+However, compared with the fourth quarter of 
+2019 (the last quarter before the outbreak of 
+COVID-19), Greece’s job vacancy rate has 
+increased by 0.5 percentage points, albeit to a 
+lesser extent than the euro area average (1.1 
+percentage points). In the majority of the 
+countries, the job vacancy rate increased, with 
+changes ranging between 0.1 and 1.7 percent -
+age points. The largest increases were 
+observed in the Netherlands (1.7 percentage 
+points), Austria, Belgium and Germany (1.6 
+percentage points, respectively). 
+The analysis of job vacancy rates by sector of 
+economic activity raises important issues 
+regarding the presence of heterogeneity in this 
+respect in the Greek labour market. In partic -
+ular, in the second quarter of 2022 there were 
+sectors that reported high vacancy rates such 
+as construction and trade, transport and 
+accommodation (2.7% and 2.0%, respectively), 
+presenting at the same time the highest rate of 
+change compared to the last quarter of 2019. 
+56 
+Economic Bulletin 
+December 2022 57 7The job vacancy rate (JVR) measures the proportion of total job 
+posts that are vacant, expressed as a percentage, i.e. JVR = (num -
+ber of job vacancies)*100/(number of occupied posts + number of 
+job vacancies). 
+8Data for France and Italy are not strictly comparable. Particularly 
+in France, only business units with 10 employees or more are sur -
+veyed. Moreover, in the case of Public Administration, Education 
+and Human Health (NACE Rev. 2 sections O, P and Q, respec -
+tively), public institutions are not covered in France and Italy. 	
+
+	
+
+
+      
+ 
+
+ !"#	# $%&#'	(
+
+'01	
+
+
+
+	
+
+
+
+
+
+	
+	
+
+	
+	
+
+
+	
+
+ !
+"
+
+#$
+	
+	
+%
+	
+&
+'
+
+(
+!	)*+,-./
+)*+,-./
+
+--- PAGE BREAK ---
+
+In particular, tourism-related activities showed 
+a sharp increase of the job vacancy rate, reach -
+ing 8.5% in the second quarter of 2022 from 
+2.9% in the fourth quarter of 2019. On the 
+other hand, there were sectors like manufac -
+turing and industry which, despite starting 
+from low job vacancy rates, recorded mild 
+increases. In contrast, in services, i.e. the pub -
+lic administration, education and health sec -
+tors, the job vacancy rates remained flat com -
+pared to the fourth quarter of 2019. Overall, 
+the labour market appears to be tighter than 
+before the pandemic, with industry, trade, 
+tourism and construction revealing higher 
+tightness compared to services (Chart 15). 
+Important issues of heterogeneity across euro 
+area Member States appear when analysing 
+the job vacancy rate in combination with the 
+unemployment rate. Particularly, there are 
+countries with a low unemployment rate and 
+a high job vacancy rate, such as Germany, Belgium, the Netherlands and Austria, while 
+others show the opposite picture. Greece, with 
+an unemployment rate of 12.2% in the second 
+quarter of 2022 and a job vacancy rate of 
+1.1%, belongs to the group of countries with 
+a high unemployment rate and a low job 
+vacancy rate, pointing to labour market slack 
+(Chart 16). 
+However, looking at the evolution of the 
+labour market during the pre- and post- 
+COVID-19 periods, Greece has made signifi -
+cant progress, as it recorded the largest reduc -
+tion in the unemployment rate (-4.8 percent -
+age points), while in the majority of the euro 
+area countries the unemployment rate 
+decreased by less than 1 percentage point, with 
+a simultaneous increase in the job vacancy rate 
+(Chart 17). This suggests that after the pan -
+demic Greece is characterised by remaining 
+labour market slack and an increase in labour 
+market tightness. 
+49 
+Economic Bulletin 
+July 2019 58 Chart 15 Job vacancy rates by sector in Greece
+(2019:Q4-2022:Q2)
+	TFBTPOBMMZBEKVTUFEEBUB
+5PUBM
+FDPOPNZ*OEVTUSZ
+	FYDFQU
+DPOTUSVDUJPO
+.BOVGB
+DUVSJOH$POTUSVDUJPO 5SBEF
+USBOTQPSU
+BDDPNNP
+EBUJPO
+BOEGPPE
+TFSWJDF
+BDUJWJUJFT1SPGFTTJPOBM
+TDJFOUJGJD
+UFDIOJDBM
+BOE
+BENJOJ
+TUSBUJWF
+BDUJWJUJFT1VCMJD
+BENJOJ
+TUSBUJPO
+BOEEFGFODF
+FEVDBUJPO
+IVNBOIFBMUI
+BOEPUIFS
+TFSWJDF
+BDUJWJUJFT2 2
+
+
+
+
+
+
+        
+
+
+
+4PVSDF&VSPTUBU 
+
+&
+Chart 16 Job vacancy and unemployment rates in 
+the euro area (2022:Q2) 
+
+BUBEEFUTVKEKBZMMBOPTBFT	
+5/
+,
+
+
+
+
+FUBSZDOBDBWCP+
+
+
+
+
+*'
+,44-
+*4
+515"-//
+5&
+5
+-.6--
+5-%
+7-7
+:$
+-&&*&&&%
+&##
+"& 
+
+ F
+UBUTPSV&FDSVP4UBSUOFNZPMQNFO64& 
+
+ 
+
+ UBUTPSV&FDSVP4
+
+--- PAGE BREAK ---
+
+5INSIGHTS FROM THE BEVERIDGE CURVE 
+5.1 THE GREEK BEVERIDGE CURVE 
+To delve deeper into the relationship between 
+job vacancies and unemployment and its evo -
+lution over time, one needs to consider the 
+Beveridge curve. 9The Beveridge curve is an 
+empirical relationship between the vacancy ( v)
+and unemployment rates ( u); a negative slope 
+of the curve in the v-u space is a robust empir -
+ical feature of market economies, and useful 
+for drawing conclusions about labour market 
+tightness. It is an integral part of standard 
+macroeconomic analyses of the labour market, 
+principally the search and matching framework 
+(see Pissarides et al. 2000). 10 
+Intuitively, when the vacancy rate is low, 
+demand for new workers is low relative to the 
+labour force, so it is harder for unemployed 
+workers to find jobs. In a dynamic labour mar -ket with constant churn of workers, this means 
+that unemployment is higher. As vacancies 
+increase, the unemployment rate will decrease. 
+The higher the economy is on the v-u space, 
+the tighter the labour market is; θ= v/u is 
+labour market tightness. In tight labour mar -
+kets, it is harder for firms to fill vacancies, and 
+so vacancies will remain unfilled for longer. As 
+the search for workers is costly, a high θis typ -
+ically thought of as a useful summary statistic 
+of the labour market situation. 11 
+While movements along the Beveridge curve 
+reflect changes in tightness, shifts in the Bev -
+eridge curve reflect changes in matching effi -
+ciency, ε. The rate of matches in the labour 
+market is determined by the matching func -
+tion, m(θ, ε ); mis falling in θ, as fewer matches 
+per vacancy are made in tight labour markets, 
+and rising in ε. A less efficient labour market 
+will have fewer matches for each level of tight -
+ness; put another way, it implies a higher num -
+ber of vacancies to sustain a given unemploy -
+ment rate. As such, a shift out of the Beveridge 
+curve is associated with a less efficient labour 
+market. Labour market efficiency can depend 
+on a variety of factors, most prominently fric -
+tions in the allocation of workers and the 
+matching process itself (how easy it is to access 
+vacancies, screen candidates, etc.), as well as 
+search effort and the propensity of firms to fill 
+vacancies. The two main forces behind the 
+Beveridge curve, efficiency and tightness, are 
+depicted in Chart 18. 
+Labour market efficiency typically falls after 
+recessions. The Beveridge curve shifts out 
+when unemployment reaches its local maxi -
+mum; vacancies naturally precede job fillings 
+as firms start to look for workers more inten -
+sively, so the reduction in unemployment will 
+lag the rise in vacancies. As the economy 
+improves and unemployment falls, labour mar -
+56 
+Economic Bulletin 
+December 2022 59  
+
+
+FChart 17 Changes in job vacancy rates and 
+(2019:Q4-2022:Q2)unemployment rates in the euro area 
+
+BUBEEFUTVKEEKBZMMBOPTBFT	UBSZDDOBDBWCP+
+SU9LN
+E D
+PT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IF
+IS
+TPPTALNN
+LULL
+TL9
+YC
+SEELEEI
+EEED EB
+911A-AEE 
+
+F
+UBUTPSV&FDSVP4UBSUOFNZPMQNFO6
+
+
+
+
+KS
+VL
+9Note the different definitions of the vacancy rate. In the US it is 
+defined as vacancies over employment, and in Europe as vacancies 
+over the labour force (unemployed and occupied posts). 
+10Pissarides Committee, “Development Plan for the Greek Econ -
+omy”, 2020. 
+11If search were costless, firms could post high numbers of vacancies 
+irrespective of labour market conditions, making v/u an inappro -
+priate measure of tightness. 
+
+--- PAGE BREAK ---
+
+ket efficiency is gradually restored and the 
+curve shifts in. This cyclical relationship 
+between vacancies and unemployment gives 
+rise to a banana-shaped chart in the v-u space 
+and provides a good representation of 
+advanced economy labour markets during the 
+2010s recovery. Chart 19 depicts this pattern 
+for the US for illustration purposes. The 
+banana-shape formed by the blue and orange 
+segments of the US Beveridge curve never fully 
+closes, indicating that pre-crisis efficiency was never attained again. The euro area Beveridge 
+curve shows a similar relationship. 12 
+The Beveridge curve for the Greek labour mar -
+ket followed similar dynamics during and fol -
+lowing the financial crisis. This is shown in 
+Chart 20, separately for all firms in the business 
+sector (excluding the primary sector and house -
+holds) and firms with over 10 employees. 13 
+There was a steep movement along the Bev -
+eridge curve while unemployment was rising, 
+until around 2013. As unemployment stabilised, 
+vacancies started to rise, but it took some time 
+for unemployment to start falling, leading to a 
+temporary shift out. Interestingly though, the 
+recovery was not followed by movements along 
+a new, less efficient, curve, as was the case in the 
+US or the rest of the euro area. 
+The picture is somewhat different depending 
+on the data used. With vacancy data for all 
+56 
+Economic Bulletin 
+December 2022 60          
+       
+ 
+
+ 
+ 
+Chart 18 Movements along and shifts in the 
+Beveridge curve
+FVTT*OJUJFMMFMV#DJNPOPD&#$&FWSVDFHEJSFWF#FIUGPTOFMFIUIHVPSIUUFLSBNSVPCBMBFSBPSVFFI5
+	BWMMWJ4BETBJ%"EOB"PMPTOP$FDSVP4ZDOFJDJGGGGGFOJTFHOBI$
+CTTFOUIHJUOJTFHOBI$
+B
+FUBSUOFNZPMQNFO6FUBSZDDOBDB7FUBSUOFNZPMQNFO6FUBSZDDZOBDB77
+7
+7
+7ÔÔ
+Ô
+$#
+VVV7
+ÆÆ
+
+Æ	$#
+VVVÔ
+
+Æ	'$#
+   +PCWBDBODZSBUF
+6OFNQMPZNFOUSBUF  1BOEFNJDChart 19 The Beveridge curve in the United States
+	
+4PVSDF'3&%#BOLPG(SFFDFDBMDVMBUJPOT
+/PUF5IFWBDBODZSBUFJTEFGJOFEBTWBDBODJFTUPFNQMPZNFOU2 
+2 2 
+2 2 
+2 
+12Consolo, A. and A. Dias da Silva (2019), “The euro area labour 
+market through the lens of the Beveridge curve”, ECB, Economic 
+Bulletin , Issue 4. 
+13The vacancy rate has been seasonally adjusted by Bank of Greece 
+staff, as the official seasonally adjusted series is much shorter. A 
+non-seasonally adjusted Beveridge curve gives a very similar result 
+qualitatively. 
+
+--- PAGE BREAK ---
+
+firms, unemployment fell alongside a rela -
+tively flat vacancy rate, a development which 
+has persisted even through the pandemic. This 
+is in stark contrast to the dramatic increase in 
+vacancies recorded in the US following the 
+COVID-19 outbreak, as depicted in Chart 19 
+by the green segment of the Beveridge curve. 14 
+When considering firms with over 10 employ -ees, instead, the curve is steeper and has not 
+changed relative to the pre-crisis period. 
+As one would probably expect, a shift out dur -
+ing the recovery could be considered evidence 
+of improved efficiency, controlling for the 
+cycle, arguably a result of the structural labour 
+market reforms undertaken over the past 
+decade. Similarly, while both charts indicate an 
+increase in tightness (the ratio of vacancies to 
+unemployment), the increase in the bottom 
+panel is much stronger. 
+The improvement in the Greek labour market 
+is a result of both an increase in the finding 
+rate and a decrease in the separation rate 
+(Chart 21). This is common for continental 
+European countries, and unlike Nordic or 
+Anglo-Saxon countries, where movements in 
+the finding rate drive the majority of the cycle. 
+In fact, the finding rate stalled somewhat in the 
+last few quarters before the pandemic, but has 
+risen substantially since. 
+Putting these charts together, we have clear 
+evidence of improvements in the labour mar -
+ket, though with unclear relative magnitudes 
+regarding efficiency and tightness. Depending 
+on the vacancy measure, there is either mildly 
+increasing efficiency and rapidly increasing 
+tightness, or vice versa. The large reduction in 
+unemployment, together with the extensive set 
+of labour market reforms during the crisis 
+years, make both cases likely. Indeed, the 
+increase in efficiency due to the reforms is the 
+reason why, in the Greek Beveridge curve, we 
+do not observe the banana-shaped recovery, 
+common in other advanced economies. 
+It is not possible to analyse these implications 
+further, in particular with regard to wages, 
+56 
+Economic Bulletin 
+December 2022 61 14The pandemic seems to have dealt a strong blow to the efficiency 
+of the US labour market, by shifting out the Beveridge curve 
+greatly. It has been argued, however, that in the present context of 
+the Great Resignation and the increased job-to-job transition rates, 
+looking at only unemployment may be misleading about the level 
+of tightness in the labour market. In particular, to the extent that 
+a significant number of new jobs are taken by already employed 
+individuals, then just comparing vacancies with unemployment will 
+tend to underestimate the level of interested workers per vacancy, 
+and hence overestimate both tightness and inefficiency. 
+ Chart 20 The Beveridge curve in Greece
+	
+4PVSDFT-'4&VSPTUBUBOE#BOLPG(SFFDFDBMDVMBUJPOT
+/PUF5IFWBDBODZSBUFJTEFGJOFEBTWBDBODJFTUPUIFTVNPG
+WBDBODJFTBOEPDDVQJFEQPTJUJPOT5IFUPQQBOFMTIPXTWBDBODJFTGPSBMMGJSNTUIFCPUUPNQBOFMTIPXTWBDBODJFTGPSGJSNTXJUIPWFSFNQMPZFFT5IFVOFNQMPZNFOUSBUFJTEFGJOFEBTBQFSDFOUBHFPGUIFUPUBMMBCPVSGPSDF
+    +PCWBDBODZSBUF
+6OFNQMPZNFOUSBUF 
+
+    +PCWBDBODZSBUF
+6OFNQMPZNFOUSBUFB
+"MMGJSNT
+C
+FNQMPZFFT2
+2
+22
+2
+22
+22
+22
+22
+
+--- PAGE BREAK ---
+
+without a model. Either case is consistent with 
+a combination of productivity and efficiency 
+shocks, as well as (to a lesser extent) bar -
+gaining shocks. Establishing which shocks 
+dominate is beyond the scope of this article, 
+whose intent is to lay out the different sce -
+narios. In particular, in a standard search and 
+matching framework, the difference depends 
+on the relative size of shocks. 15 In both cases, 
+the results are consistent with an increase in 
+productivity (profitability), which would 
+induce firms to increase vacancies and hence 
+employment, as well as to offer higher wages, 
+given the assumed higher productivity. 
+Higher efficiency and moderately increasing 
+tightness (i.e. an inward shift of the curve, as 
+in the top panel of Chart 20) may additionally 
+reflect higher bargaining power, which would 
+explain why firms might avoid posting more 
+vacancies per unemployed worker. Instead, 
+higher tightness but mostly constant efficiency 
+(i.e. a movement along the curve, as in the 
+bottom panel of Chart 20) is consistent with a 
+larger role for productivity; higher productiv -ity raises tightness for given bargaining power 
+and efficiency. 16 
+Either of these two scenarios implies higher 
+wages. Moreover, the larger the role for pro -
+ductivity, the more likely it is that further wage 
+gains may occur (e.g. when bargaining power 
+improves), without disrupting employment 
+gains. However, an inward shift of the Bev -
+eridge curve without an increase in the vacancy 
+rate is less empirically plausible, and so the sec -
+ond case, with a larger role for productivity 
+gains, seems more likely. That said, establish -
+ing the relative statistical significance of each 
+of the aforementioned shocks in driving recent 
+developments in the Greek labour market is an 
+empirical matter which remains to be 
+addressed. 
+5.2 EFFICIENT UNEMPLOYMENT 
+The literature typically measures the unem -
+ployment gap by comparing actual unemploy -
+ment with trend unemployment or NAIRU. A 
+fundamental problem with both these meas -
+ures is that, because they are latent, they are 
+calculated using unobserved components 
+models, which are known to be particularly 
+problematic in end-points and hence real-time 
+estimation. A second problem has to do with 
+the interpretation of the measures; the trend 
+measure may make little sense in an economy 
+with as large shocks as the Greek one, while 
+NAIRU can also be a poor measure of slack at 
+a time of large supply shocks, such as the cur -
+rent episode. 
+A new alternative measure, proposed by 
+Michaillat and Saez (2021), 17 is theoretically 
+grounded and is designed to account for the 
+fact that unemployment is itself wasteful, as 
+willing workers remain idle, but the recruiting 
+process is also wasteful, as hiring committees 
+56 
+Economic Bulletin 
+December 2022 62 Chart 21 Job finding and separation rates in Greece
+	
+2 2 2 2 2 2 2 2
+'JOEJOHSBUF 4FQBSBUJPOSBUF
+4PVSDFT-'4&VSPTUBUBOE#BOLPG(SFFDFDBMDVMBUJPOT
+/PUFT'JOEJOHBOETFQBSBUJPOSBUFTBSFDBMDVMBUFEVTJOHUIF
+QSPDFEVSFPG4IJNFS3	
+3FBTTFTTJOHUIF*OTBOE0VUTPG 6OFNQMPZNFOU 3FWJFX PG &DPOPNJD %ZOBNJDT  	
+
+BOEUIFSFGJOFNFOUPG&MTCZ.#)PCJKOBOE"
+܇BIJO 	
+ 6OFNQMPZNFOU %ZOBNJDT JO UIF 0&$%
+3FWJFXPG&DPOPNJDTBOE4UBUJTUJDT	
+ 
+15For a deeper discussion of the framework, see Consolo, A. and A. 
+Dias da Silva (2019), “The euro area labour market through the 
+lens of the Beveridge curve”, ECB, Economic Bulletin , Issue 4. 
+16The rise is higher with lower worker bargaining power, but this is 
+an unlikely scenario at the current juncture. 
+17See Michaillat, P. and E. Saez (2021), “Beveridgean unemployment 
+gap”, Journal of Public Economics Plus .
+
+--- PAGE BREAK ---
+
+need to expend valuable resources in non-pro -
+ductive activities. This gives rise to the notion 
+of “efficient unemployment”, the rate of unem -
+ployment which minimises the sum of unem -
+ployment and vacancy creation, subject to the 
+Beveridge curve, which recognises that it is not 
+possible to reduce both unemployment and 
+vacancies to zero at the same time. Frictions in 
+the labour market imply that vacancies are 
+needed to reduce unemployment, and that 
+lower vacancies will raise unemployment. 
+Michaillat and Saez (2021) end up with a suf -
+ficient statistic formula composed of three 
+parameters: the slope of the Beveridge curve, 
+the cost of recruiting, and the value of non- 
+employment. We estimate the slope of the Bev -
+eridge curve with Greek data, taking into 
+account structural breaks around turning 
+points in the cycle. The elasticity is estimated 
+to be between 1.4 and 2, depending on the sam -
+ple and definition used (excluding outliers). 18 
+This is substantially higher than the value of 
+around 1 reported for the US, which is rea -
+sonable given the much lower levels of trend 
+unemployment in the US. 19 Given model and 
+estimation uncertainty, we consider levels of u* 
+for values of the elasticity αfrom 1.4 to 2. In 
+our baseline estimates, we use the same value 
+of non-labour ζas Michaillat and Saez (2021) 
+at 0.26 (especially given that the US values 
+have a very large confidence interval), while we 
+assume the cost of recruiting κis at 2, double 
+the US value. 20 
+The estimates are shown in Chart 22. We plot, 
+in dark blue, actual headline unemployment, 
+together with efficient unemployment under 
+four different levels of the Beveridge elastic -
+ity, from 1.4 to 2. As expected, the value of effi -
+cient unemployment is a key predictor of the 
+Beveridge elasticity; moreover, the higher 
+unemployment is, the larger the discrepancy of 
+u* across different measures. Focusing on the 
+current juncture, we see that for all values of 
+the Beveridge elasticity, u* is comfortably 
+below the current value of headline unem -
+ployment of 11.8% (September 2022); with an 
+elasticity of 2, u* is 10.1%, indicating that there still exists slack in the labour market. Note that 
+slack in this context refers to underutilisation 
+of resources below their efficient level and 
+does not imply the existence of price pressures, 
+as does its more common interpretation in a 
+NAIRU/Phillips curve framework. 
+The 10% value is likely a conservative estimate. 
+It assumes that u* is essentially at the same 
+level as in 2010, despite a very expansive set of 
+reforms that took place during the crisis years. 
+It is also based on conservative assumptions 
+about the cost of recruiting and the value of 
+56 
+Economic Bulletin 
+December 2022 63 18The procedure involves regressing log vacancies on log unem -
+ployment, for each segment of the Beveridge curve, to take into 
+account the breaks in the relationship at turning points of the busi -
+ness cycle. There are several breaks whose identification is 
+required. Michaillat and Saez (2021) use the Bai-Perron procedure, 
+and that same approach is followed here as well. The estimation 
+is conducted separately in each segment. See Michaillat, P. and E. 
+Saez (2021), “Beveridgean unemployment gap”, Journal of Pub -
+lic Economics Plus .
+19The specific features of the Greek labour market, where informal 
+networks are likely more important than in the US or other EU 
+countries, may mean that firms post fewer vacancies for given 
+labour needs. However, the survey asks firms about positions they 
+create and take steps to fill; it does not require that a formal 
+vacancy is posted. 
+20Sensitivity checks have been performed and are available upon 
+request. Chart 22 Efficient unemployment in Greece
+	
+2 2 2 2 2 2 2 2 2
+Â Â Â Â
+6OFNQMPZNFOU
+4PVSDFT-'4&VSPTUBUBOE#BOLPG(SFFDFDBMDVMBUJPOT
+/PUF&GGJDJFOUVOFNQMPZNFOUJTFTUJNBUFEVTJOHUIFNFUIPEPG.JDIBJMMBU1BOE&4BF[	
+#FWFSJEHFBOVOFNQMPZNFOU
+HBQ+PVSOBMPG1VCMJD&DPOPNJDT1MVT 	
+
+
+--- PAGE BREAK ---
+
+non-labour. Sensitivity checks show that less 
+conservative values, especially for the cost of 
+recruiting, give larger values of slack. 21 With the 
+baseline calibration, a value of the Beveridge 
+elasticity αof 1.8 gives u* equal to 9%. Note 
+that, while efficient unemployment remains 
+well below headline unemployment, irrespec -
+tive of the calibration used, there is clearly a 
+rapid narrowing of the distance between actual 
+and efficient unemployment in Chart 22. Not 
+only has actual unemployment fallen in recent 
+years, but efficient unemployment has also 
+risen, as a result of higher vacancy creation. 
+This suggests that, while still slack, the Greek 
+labour market could tighten over the medium 
+term, if current trends persist. 
+6WAGES AND EMPLOYMENT FLOWS: INSIGHTS 
+FROM THE ERGANI INFORMATION SYSTEM 
+This section focuses on the evolution of 
+employment flows and wages across major sec -
+tors of activity, with the general aim of identi -
+fying common trends and indications of market 
+tightness. Our analysis of employment devel -
+opments is based on data for the period from 
+January 2016 to December 2021 from the 
+ERGANI information system, an administra -
+tive database covering the whole population of 
+employees working under private law contracts 
+in Greece. 22 The data used in this section are 
+micro-aggregated data from the ERGANI 
+monthly flows as well as the ERGANI annual 
+accounts. The information available to us refers 
+to monthly employment flows (i.e. hires, fires 
+and voluntary exits/resignations) and their 
+respective wage. We also use annual wages for 
+the employment stock as obtained from the 
+ERGANI annual accounts, which are extrapo -
+lated to a monthly frequency for comparability. 
+In particular, we have the above information 
+across the following worker, employer and job 
+characteristics, respectively: (i) worker gender, 
+age and occupation; (ii) region, main sector of 
+establishment activity, firm size (in number of 
+employees); (iii) type of job contract (open- 
+ended or fixed-term) and type of employment 
+(full-time, part-time or intermittent). 23 The analysis is limited to full-time jobs, which 
+ensures comparability of wages. For con -
+creteness we also focus our analysis on the sec -
+toral and skill dimension of the data by aggre -
+gating appropriately the relevant information. 
+We will proceed by presenting net employment 
+flows (hires-fires-voluntary exits) and the 
+respective wage of the new hires in order to see 
+whether any significant common trends emerge 
+(see Chart 23). Moreover, to see how the wage 
+of newcomers compares to the wage of those 
+already employed, we also analyse the evolution 
+of the wage of newcomers in relation to the 
+wage of the relevant employment stock. Usu -
+ally, the wages of the incumbent workers ben -
+efit from a tenure-related premium, which 
+reflects the firm-specific human capital that has 
+been acquired through the years. If the wage of 
+newcomers comes closer to the wage of incum -
+bent workers, i.e. their relative wage comes 
+closer to one, there are indications of wage 
+pressures as the newcomers get a premium in 
+order to accept the job offer, which reduces the 
+wage differential relative to incumbents. 
+Most major sectors exhibit positive net employ -
+ment flows in the years following the 
+COVID-19 outbreak, with the exception of 
+Utilities and the Primary sector, the net flows 
+of which are mostly in negative territory. The 
+Manufacturing, Construction, Trade, Trans -
+portation & Storage (T&S in Chart 23) and 
+Other Services sectors are characterised by sig -
+nificant net employment flows that are above 
+those of the pre-COVID period. 
+Hotels & Restaurants also exhibits significant 
+positive net employment flows following the 
+56 
+Economic Bulletin 
+December 2022 64 21Available upon request. 
+22This database includes information submitted by all private sector 
+employers and serves as a detailed registry of the employment in 
+the private sector. Employees working in public sector entities, 
+whose contracts are governed by private sector labour laws are also 
+registered in this database. The information collected is at the job- 
+employment position level. 
+23This information is available at the level of 89 2-digit NACE sec -
+tors of activity, 7 age categories, 46 occupation categories, 12 firm 
+size categories, 13 NUTS-2 regions (for a description of the data 
+dimension, see Kosma, T., P. Petroulas and E. Vourvachaki (2020) 
+“What drives wage differentials in Greece: workplaces or work -
+ers?”, Bank of Greece, Economic Bulletin , 52, pp. 69-72, Decem -
+ber). 
+
+--- PAGE BREAK ---
+
+56 
+Economic Bulletin 
+December 2022 65 Chart 23 Net employment flows and wage developments for new hires in main sectors of activity
+8BHFPGOFXIJSFT	&63MFGUIBOETDBMF
+/FUFNQMPZNFOUGMPXT	OVNCFSPGQFSTPOTSJHIUIBOETDBMF
+3FMBUJWFXBHF	SBUJPMFGUIBOETDBMF
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+4PVSDF&3("/*BOE#BOLPG(SFFDFDBMDVMBUJPOT
+/PUF/FUFNQMPZNFOUGMPXTBSFUPUBMGMPXTJOUIFZFBS	TVNPGNPOUIMZOFUGMPXT
+UPBEESFTTTFBTPOBMJUZ5IFXBHFTPGOFXDPNFSTBSF
+ZFBSBWFSBHFTCBTFEPONPOUIMZEBUB5IFSFMBUJWFXBHFJTUIFSBUJPPGUIFXBHFPGOFXDPNFSTUPUIFSFTQFDUJWFXBHFPGUIFFNQMPZNFOU
+TUPDLPCUBJOFEGSPNUIFBOOVBM&3("/*BDDPVOUTSFGFSSJOHUP/PWFNCFSJOFBDIZFBS1SJNBSZTFDUPS
+.BOVGBDUVSJOH
+6UJMJUJFT
+
+--- PAGE BREAK ---
+
+56 
+Economic Bulletin 
+December 2022 66 Chart 23 Net employment flows and wage developments for new hires in main sectors of activity
+	DPOUJOVFE
+8BHFPGOFXIJSFT	&63MFGUIBOETDBMF
+/FUFNQMPZNFOUGMPXT	OVNCFSPGQFSTPOTSJHIUIBOETDBMF
+3FMBUJWFXBHF	SBUJPMFGUIBOETDBMF
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+4PVSDF&3("/*BOE#BOLPG(SFFDFDBMDVMBUJPOT
+/PUF/FUFNQMPZNFOUGMPXTBSFUPUBMGMPXTJOUIFZFBS	TVNPGNPOUIMZOFUGMPXT
+UPBEESFTTTFBTPOBMJUZ5IFXBHFTPGOFXDPNFSTBSF
+ZFBSBWFSBHFTCBTFEPONPOUIMZEBUB5IFSFMBUJWFXBHFJTUIFSBUJPPGUIFXBHFPGOFXDPNFSTUPUIFSFTQFDUJWFXBHFPGUIFFNQMPZNFOU
+TUPDLPCUBJOFEGSPNUIFBOOVBM&3("/*BDDPVOUTSFGFSSJOHUP/PWFNCFSJOFBDIZFBS$POTUSVDUJPO
+5SBEF
+54
+
+--- PAGE BREAK ---
+
+remarkable decline in net flows after the adop -
+tion of the social distancing measures. Actually, 
+Hotels & Restaurants is the only major sector 
+with significant negative net employment flows 
+in 2020, which do not seem to have been coun -
+terbalanced yet by the consecutive positive net 
+employment flows in 2021. Specifically, while 
+we observed declines of a magnitude of about 
+43,000 positions cumulatively in 2020, the cor -
+responding increase in 2021 is about 24,000 
+positions. However, it is not feasible to infer 
+from our data whether this was due to the 
+social distancing measures remaining in 2021 (i.e. demand effects due to partial reopening of 
+the sector) or due to labour supply effects. 
+Even so, it seems that the “lost” flows of the 
+hospitality sector have moved to the Other 
+Services sector which overperformed in terms 
+of new hires. Specifically, in 2021 new hires 
+stood at around 35,000 positions above the cor -
+responding 2020 level and about 20,000 posi -
+tions above the 2019 level. We can also note 
+that the Other Services sector has a somewhat 
+higher average wage for new hires, i.e. around 
+€980 compared to €850 in the Hotels & 
+Restaurants sector, and significantly less sea -
+56 
+Economic Bulletin 
+December 2022 67 Chart 23 Net employment flows and wage developments for new hires in main sectors of activity
+	DPOUJOVFE
+8BHFPGOFXIJSFT	&63MFGUIBOETDBMF
+/FUFNQMPZNFOUGMPXT	OVNCFSPGQFSTPOTSJHIUIBOETDBMF
+3FMBUJWFXBHF	SBUJPMFGUIBOETDBMF
+    
+
+    
+
+    
+
+    
+
+4PVSDF&3("/*BOE#BOLPG(SFFDFDBMDVMBUJPOT
+/PUF/FUFNQMPZNFOUGMPXTBSFUPUBMGMPXTJOUIFZFBS	TVNPGNPOUIMZOFUGMPXT
+UPBEESFTTTFBTPOBMJUZ5IFXBHFTPGOFXDPNFSTBSF
+ZFBSBWFSBHFTCBTFEPONPOUIMZEBUB5IFSFMBUJWFXBHFJTUIFSBUJPPGUIFXBHFPGOFXDPNFSTUPUIFSFTQFDUJWFXBHFPGUIFFNQMPZNFOU
+TUPDLPCUBJOFEGSPNUIFBOOVBM&3("/*BDDPVOUTSFGFSSJOHUP/PWFNCFSJOFBDIZFBS0UIFSTFSWJDFTJODMVEF/"$&TFDUPSTUP)PUFMTBOE3FTUBVSBOUT
+0UIFSTFSWJDFT
+
+--- PAGE BREAK ---
+
+sonality in employment. In this respect, there 
+are strong indications that during the COVID- 
+19 period workers shifted jobs from the hos -
+pitality sector to Other Services for both a bet -
+ter pay and more “constant” employment. 
+In sum, whereas the post-COVID period of 
+2021 has been characterised by robust 
+employment dynamics across most major sec -
+tors, the question is whether they have been 
+followed by any significant wage increases. For 
+most sectors, the wages of new hires and their 
+relative wages compared to those of incumbent 
+workers do not depict any significant upward 
+trend. 24 Other Services, Hotels & Restaurants, 
+and Construction are the three sectors with an 
+upward trend in wages of new hires as well as 
+in employment flows. The combination of the 
+two could be indicative of some emerging mar -
+ket pressures. However, the upward trend in 
+wages for Other Services is more modest and 
+the wages of new hires are still well below those 
+of incumbents (at 75%). By contrast, the 
+upward trend in relative wages of new hires is 
+more pronounced, reaching 85% for Con -
+struction and almost 90% for Hotels & Restau -
+rants on average in 2021. 25 Thus, in what fol -
+lows we delve deeper into the employment and 
+wage dynamics of these two sectors. 
+We decompose employment flows in the Con -
+struction and Hotels & Restaurants sectors by 
+four skill categories: high-skilled white collar, 
+low-skilled white collar, high-skilled blue col -
+lar and low-skilled blue collar, to observe 
+whether the above developments are driven by 
+any particular skill category. 26 
+In the Construction sector, in terms of employ -
+ment, all segments, both blue and white collar 
+workers as well as high- and low-skilled work -
+ers have seen a strong increase in net employ -
+ments flows in the post-COVID period. More -
+over, for blue collar workers in particular there 
+was no strong decline of employment flows 
+during the pandemic. For new hires, blue col -
+lar workers (both high- and low-skilled) have 
+seen a significant increase in wages. Wage 
+pressures in the blue collar segment of Con -struction seem to be present as well. In par -
+ticular, the wages of new blue collar hires are 
+fast approaching those of incumbents being 
+about 90%. By contrast, for white collar work -
+ers, new hires do not exhibit an upward trend 
+in wages if they are high-skilled, or are far 
+below the wages of incumbents if they are low- 
+skilled. In this respect, the data show that wage 
+and employment pressures in the Construction 
+sector are mainly driven by the blue collars’ 
+market segment. 
+For Hotels & Restaurants, the main contrib -
+utor to the developments in this sector is the 
+low-skilled white collar segment. In particular, 
+we can note the sheer size of outflows during 
+the pandemic, which reached a total of 34,000 
+in 2020, while the subsequent increase barely 
+reached a total of 19,000 positions in 2021. 
+Moreover, the relative wage of new hires ver -
+sus incumbents has reached high levels of 
+above 95% in 2021 (up from about 84% in 
+2017), on average. For the low-skilled blue 
+collar segment, similar developments are 
+observed, albeit at significant lower magni -
+tudes. For both these categories a non-negli -
+gible tightness in their respective sectoral 
+labour market is indicated by the data. 
+On balance, the ERGANI data indicate that 
+there is no general tightness in the labour mar -
+ket. That is, the wages of new hires are not 
+increasing significantly, in tandem with strong 
+employment developments. However, there 
+are some specific sectors and worker types for 
+which the respective segments of the labour 
+market indicate some tightness. 
+In particular, for Construction, we can note 
+that it is a sector which has seen a significant 
+56 
+Economic Bulletin 
+December 2022 68 24One could note, though, an upward shift in wages in the trade sec -
+tor at the beginning of 2019, which can be related to the minimum 
+wage increase in February 2019. 
+25In Hotels & Restaurants we observe relative wages which are close 
+to 90%, indicating a high premium for the new hires. However, a 
+specificity of this particular sector should be noted at this point. 
+This is a sector with high seasonality where hires and layoffs may 
+refer to the same employee. Therefore, the same employee is hired 
+at the beginning of the tourist season with a wage similar to that 
+of the previous year and is laid off at the end of the tourist season. 
+26Charts are not presented for space considerations but are available 
+upon request. 
+
+--- PAGE BREAK ---
+
+decline in the level of activity during the last 
+decade and where a significant share of the 
+labour pool has disappeared. In this respect, 
+the Construction sector is expected to continue 
+having a tight labour market in the foreseeable 
+future. For Hotels & Restaurants, there are 
+indications that the outflow of labour during 
+the pandemic has to a large extent been 
+absorbed by the Other Services sector. If this 
+is the case, we can note that the wage for a new 
+hire in Other Services is approximately 15-20% 
+higher (depending on the skill category) than 
+in Hotels & Restaurants. Moreover, Other 
+Services does not have the same seasonality in 
+employment (and hence income) as Hotels & 
+Restaurants. Thus, from an employee’s per -
+spective, if they have switched sectors, they 
+may have experienced both a higher and more 
+steady income. In this respect, it will be diffi -
+cult to attract them back to the Hotels & 
+Restaurants sector. 
+7A SNAPSHOT OF SKILLS AND SKILLS 
+MISMATCH 
+7.1 SURVEY EVIDENCE 
+Turning to more qualitative evidence of labour 
+market mismatch, a common finding reported 
+in business surveys is that of limited availability 
+of skilled labour. Indeed, on the labour 
+demand side, skill shortages have been con -
+sistently high in Greece. According to the Sur -
+vey on the Access to Finance of Enterprises 
+(SAFE), 27 the second most pressing problem 
+for Greek SMEs in the second half of 2021, 
+following the cost of production or labour, is 
+the availability of skilled staff and/or experi -
+enced managers (reported by approximately 
+18%). Data from the EIB Investment Survey 
+2021 28 show that the limited availability of 
+skills has increasingly become a concern for 
+firms: 73% of Greek firms reported the limited 
+availability of staff with the right skills as an 
+impediment to long-term investment. More -
+over, according to the latest Manpower Talent 
+Shortage Survey 29 (which covers more than 40 
+countries globally), in Greece talent shortages reached a 10-year high in 2022, as 78% of 
+Greek firms report talent shortages, 30 i.e. they 
+cannot find employees with the blend of tech -
+nical skills and human strengths they need. 
+Especially in Attica, 61% of employers state 
+that they face relative difficulty in searching 
+for talent, 18% a lot of difficulty and 19% 
+none. As for response variation by company 
+size, 23% of very small businesses, 17% of 
+small businesses, 16% of medium-sized busi -
+nesses and 14% of large businesses have a lot 
+of difficulty filling positions. Accordingly, 54% 
+of very small businesses, 63% of small busi -
+nesses, 58% of medium-sized businesses and 
+65% of large businesses experience relative 
+difficulty. Greater difficulty is found in the 
+manufacturing sector, with 30% of employers 
+reporting that they are having a very difficult 
+time filling positions due to a lack of talent and 
+63% reporting relative difficulty. Most 
+employers (23%) report that it is more diffi -
+cult to find talent in Human Resources (with 
+small businesses facing a more acute problem), 
+followed by IT/Data and manufacturing. 
+However, the problem existed even before the 
+pandemic. In fact, according to the European 
+Company Survey 2019, 31 66% of Greek firms 
+indicated that they have difficulty in finding 
+employees with the right skills (EU average: 
+76%). When asked what percentage of their 
+employees have skills that are about right to do 
+the job, only 33% reported a percentage of 
+80% or more (one of the lowest percentages). 
+To date, most EU Member States, including 
+Greece, have responded to the challenges 
+posed by demand for higher skills by seeking 
+to increase skills supply, mostly through rais -
+ing educational attainment. Notably, according 
+to the latest OECD education data, in Greece, 
+56 
+Economic Bulletin 
+December 2022 69 27https://www.ecb.europa.eu/stats/ecb_surveys/safe/html/index.en. 
+html .
+28https://www.eib.org/en/publications/econ-eibis-2021-eu .
+29https://go.manpowergroup.com/hubfs/Talent%20Shortage%20 -
+2022 /MPG_2022_TS_Infographic-Greece.pdf .
+3060% of employers state that they face relative difficulty in filling 
+positions due to a lack of talent, 18% a lot of difficulty and 20% 
+none. 
+31https://www.eurofound.europa.eu/surveys/2019/european-company- 
+survey-2019 .
+
+--- PAGE BREAK ---
+
+in 2021, 44% of 25-64 year-olds had attained 
+tertiary education, against 33% in 2011. 32 This 
+is in line with projections of future skills 
+demand shifting towards more highly skilled 
+economic activities, as around half of all job 
+openings over the next decade are expected to 
+require a high qualification. 33 However, there 
+are concerns that the Greek education and 
+training system is not sufficiently aligned with 
+labour market needs. In fact, university edu -
+cation is frequently criticised for not conferring 
+upon its graduates the cutting-edge skills that 
+their future employers are likely to seek. 
+In the Global Talent Competitiveness Index 
+2022, Greece ranked 40th out of a sample of 
+133 countries. The country’s main strength 
+relates to retaining talent (mainly thanks to the 
+lifestyle offered) and the quality of the talent 
+(mainly thanks to the availability of high-level 
+skills and professionals). The greatest scope for 
+improvement, meanwhile, is in vocational and 
+technical skills, and in attracting talent. 34 
+Greece had one of the lowest overall scores in 
+the European Skills Index survey for 2022, only 
+marginally improving its performance relative 
+to 2020 (achieving a score of 23 from 20), 
+pointing to a relatively weak skills system in 
+Greece on multiple fronts. 35 Greece ranked 
+41st out of 141 countries in the skills sub-pil -
+lar of the Global Competitiveness Index 4.0 
+published by the World Economic Forum in 
+2019 (up from 36th in 2017). 36 
+Because of structural digitalisation trends and 
+the recent rapid change in labour markets fol -
+lowing the COVID-19 outbreak, digital skill 
+needs have grown. CEDEFOP’s second Euro -
+pean Skills and Jobs Survey (ESJS2) shows that 
+the health crisis affected the employment of 
+one in three EU+ workers (33%), with younger 
+and lower-educated workers most negatively 
+affected. 37,38 In Greece, 48% of adult employ -
+ees had to learn to use new digital technologies 
+to do their main job in 2020-21. Moreover, 
+most EU+ adult workers use a computer 
+device (a desktop computer, laptop or note -
+book, tablet or smartphone) as part of their 
+work, and more than eight in ten EU+ jobs (87%) require at least basic digital skills. The 
+need to learn to work with new computer tech -
+nologies challenges individuals to update, 
+upgrade or learn new digital skills; in the short 
+to medium term this can cause imbalances 
+between digital skills demand and supply. 
+Greece ranks 25th among ΕU-27 countries as 
+regards the Digital Economy and Society Index 
+for 2022. As regards human capital, in 2021, 
+52% of the Greek population was equipped 
+with basic or above basic digital skills (very 
+close to the ΕU average of 54%). However, the 
+share of ICT specialists in total employment 
+barely reached 2.8%, i.e. the second lowest 
+among ΕU-27 countries ( ΕU-27: 4.5%), 
+despite some progress in the past three years. 
+At the same time, according to data from the 
+OECD Survey of Adult Skills (PIAAC), only 
+about one in 20 adults in Greece attains the 
+highest levels of proficiency in literacy, com -
+pared with around one in ten adults (10.6%) 
+on average across OECD countries, and sim -
+ilarly for numeracy. Moreover, only 2.5% of 
+adults in Greece attain the highest proficiency 
+level in problem-solving in technology-rich 
+environments. This is the fourth lowest per -
+centage among all participating countries and 
+significantly lower than the OECD average 
+of 5.4%. 
+The low skills level of the Greek economy 
+means that employers may be unable to fill 
+vacant positions because of skills gaps or short -
+ages (lack of employees with suitable skills or 
+qualifications), making this mismatch between 
+the supply of and demand for skills a signifi -
+cant impediment to potential growth. How -
+56 
+Economic Bulletin 
+December 2022 70 32https://www.oecd-ilibrary.org/docserver/3197152b-en.pdf?expires 
+=1667392434&id=id&accname=ocid177073a&checksum=8B310 
+EE22CEC9AE099EB8DD5FDC15B73 .
+33CEDEFOP (2020), Skills forecast 2020: Greece, CEDEFOP skills 
+forecast. 
+34https://www.insead.edu/sites/default/files/assets/dept/fr/gtci/GTCI- 
+2022-report.pdf .
+35A score of 23 suggests that the country has reached 23% of the ideal 
+performance and that there is still 77% room for improvement. 
+A score of 100 corresponds to achieving the “frontier”: 
+https://www.cedefop.europa.eu/en/tools/european-skills-index .
+36https://www3.weforum.org/docs/WEF_TheGlobalCompetitivene -
+ss Report2019.pdf .
+37EU Member States plus Norway and Iceland. 
+38https://www.cedefop.europa.eu/files/9173_en.pdf .
+
+--- PAGE BREAK ---
+
+ever, data from PIACC also suggest that 
+Greece suffers from a high level of mismatch 
+between the skills workers possess and those 
+demanded of their jobs. Around 28% of work -
+ers are more proficient in literacy than their 
+job requires (overskilled), the largest propor -
+tion across all participating economies and 
+much higher than the OECD average of 
+10.8%. Moreover, almost four out of ten work -
+ers in Greece are either over- or underquali -
+fied for the work they are doing. As for field- 
+of-study mismatch, which measures the extent 
+to which workers, typically graduates, are 
+employed in an occupation that is unrelated to 
+their principal field of study, almost one in two 
+workers (41.4%) is employed in a different 
+field than the one in which they earned their 
+highest educational qualification. Most grad -
+uates in the areas of Arts and Humanities 
+(80%) and ICT (more than 70%) are employed 
+in jobs that do not match their sector of spe -
+cialisation. 
+To add to the above evidence, Eurostat’s 
+experimental indicators on skills mismatches 
+provide information on vertical skills mis -
+matches (overqualification rates) and hori -
+zontal skills mismatches (job mismatch by 
+field of education). 39 For Greece, there has 
+been a 10.3% increase between 2008 and 2020 
+in the overqualification rate (i.e. % of people 
+aged 20-64 with tertiary education and work -
+ing in ISCO 4-9). At the same time, the hor -
+izontal skills mismatch rate was 26.4% for the 
+age group 15-34 and 30% for the age group 
+25-34 in 2020. 
+An efficient allocation of workers across tasks 
+is particularly important when the aggregate 
+skills supply is relatively limited, as is the case 
+with Greece. Persistent skill gaps and mis -
+matches come at economic and social costs, 
+while skills constraints can negatively affect 
+labour productivity and hamper the ability to 
+innovate and adopt technological advances. 
+Education, skills and labour market policies 
+should ensure that workers are equipped with 
+the right skills and that businesses can flexibly 
+deploy workers to meet changing labour mar -ket needs. To steer technological development, 
+vocational education and training (VET) 
+should enable those exposed to technological 
+innovation to reduce their digital skill gaps. 
+The implementation of these policies will help 
+ensure that technology adoption has a positive 
+impact on both productivity and workers. 
+7.2 AN EMPIRICAL EXPLORATION 40 
+In line with theoretical predictions, mismatch 
+has been shown to be significantly negatively 
+related to labour productivity. 41 Chart 24 shows 
+that Greece has by far the highest professional 
+overskill mismatch (i.e. those working in highly 
+skilled jobs are more proficient in literacy than 
+their job requires) compared with all other 
+countries in the sample. Most surprisingly, 
+while in virtually all countries overskill mis -
+match is much lower for professional occupa -
+tions than for lower-skilled jobs, the opposite 
+holds for Greece. Moreover, even for lower- 
+skilled jobs, overskill mismatch in Greece is 
+high compared with other EU countries, 
+although it is much closer to the sample aver -
+age. Similar results are obtained when using 
+skills mismatch in numeracy and controlling 
+for sector and firm effects. 
+Given the above evidence of high mismatch in 
+professional occupations in Greece, it is inter -
+esting to examine the importance of overskill 
+mismatch in professional occupations relative 
+to others combining PIACC and Orbis data. 42 
+56 
+Economic Bulletin 
+December 2022 71 39More information on these experimental indicators is available at 
+https://ec.europa.eu/eurostat/web/experimental-statistics/skills 
+40For a more in depth analysis, see Anyfantaki, S., Y. Caloghirou, 
+K. Dellis, A. Karadimitropoulou and F. Petroulakis (2022), “Skills, 
+management practices and technology adoption in Greek manu -
+facturing firms”, Bank of Greece, Economic Bulletin , 55. 
+41See, among others, Decker, R.A., J. Haltiwanger, R.S. Jarmin and 
+J. Miranda (2017), “Declining dynamism, allocative efficiency, and 
+the productivity slowdown”, American Economic Review , 107(5), 
+322-326; Hsieh, C.T. and P.J. Klenow (2009), “Misallocation and 
+manufacturing TFP in China and India”, The Quarterly Journal of 
+Economics , 124(4), 1403-1448. 
+42Data for productivity from Orbis include 17 countries (Austria, Bel -
+gium, Germany, Denmark, Estonia, Spain, Finland, France, United 
+Kingdom, Greece, Hungary, Italy, Japan, Korea, Latvia, Sweden 
+and Slovenia). All measures are averaged for each sector across 
+2009 and 2013 to improve reliability. Sectors covered are: manu -
+facturing; electricity, gas, steam and air conditioning supply; water 
+supply; construction; wholesale and retail trade; transportation and 
+storage; accommodation and food service activities; information 
+and communication technologies; professional, scientific and tech -
+nical activities; administrative and support service activities. 
+
+--- PAGE BREAK ---
+
+56 
+Economic Bulletin 
+December 2022 72 	
+
+
+	
+
+
+
+
+	
+     ! " #! $ % & '( ) $" #" $ "  * &+ $ " & (  ,-,,,-,.,-/,,-/.,-0,,-0.,-1,,-1.
+,-,,,-,.,-/,,-/.,-0,,-0.,-1,,-1.
+		
+     ! " #! $ % & '( ) $" #" $ "  * &+ $ " & (  ,-,,,-,0,-,2,-,3,-,4,-/,,-/0
+,-,,,-,0,-,2,-,3,-,4,-/,,-/0
+$5678&(9$5:	5$"&&-
+%78:	6666;.6		
+
+6<--	:	
+
+
+=>			5
+>>	
+65=>	6<65665-)
+	6666.6		
+665
+665-9
+5
+665"$&86655/1924;96:-6
+	66?	-
+
+--- PAGE BREAK ---
+
+Adalet McGowan and Andrews (2015) 43 split 
+aggregate productivity in each sector into a 
+within-firm component and an allocative effi -
+ciency component. Allocative efficiency 
+requires that resources flow to their more pro -
+ductive uses. As such, if more productive firms 
+are larger, then the allocative efficiency term is 
+positive. The effect of mismatch on productiv -
+ity can be estimated through linear regression 
+models, separately for the three productivity 
+measures (aggregate sectoral, allocative effi -
+ciency and average firm) on under- and over -
+skill mismatch indicators at the sectoral level. 
+In fact, when the aggregate sectoral produc -
+tivity is the dependent variable, the coefficient 
+of overskilling is negative and highly significant; 
+it is also negative for underskilling, although 
+not significant. The economic magnitude of the 
+relationship is quite sizeable: a one standard- 
+deviation increase in overskilling, at the 
+expense of well-matched workers, holding con -
+stant the share of underskilled workers, reduces 
+weighted sectoral productivity by almost 10%. 44 
+Overall, the results corroborate the findings of 
+Adalet McGowan and Andrews (2015): over -
+skilling has a negative effect on productivity. 
+Although regression analysis is only meant to 
+be indicative, given the small cell sizes espe -
+cially for the professional occupations, the 
+upshot is that overskill mismatch plays an 
+important role for productivity, and overskilling 
+in professional occupations, where Greece 
+scores especially poorly, is a major drag. 
+Overall, the analysis suggests that there is a 
+need to improve the alignment of workers’ 
+skills with the needs of industry, in terms of 
+enhancing both skills endowment and the allo -
+cation of current skills to jobs. The key mes -
+sage is that the various policies should be 
+closely coordinated for both higher education 
+as well as vocational education and training 
+(VET). More specifically, concrete strategic 
+initiatives should be carefully designed and 
+implemented. These could include: (a) estab -
+lishing and promoting university-industry 
+cooperation schemes; (b) maintaining a bal -
+ance between formal education, in-firm train -
+ing and lifelong learning; (c) maintaining a bal -ance between the formal and tacit curricula in 
+Greek universities; and (d) upgrading sec -
+ondary and upper-secondary technical-voca -
+tional education and training. 
+8CONCLUSIONS 
+Euro area labour markets are much tighter 
+than they were before the pandemic, with 
+unemployment at a record low and vacancies 
+rising across sectors. Conversely, in Greece, 
+the labour market is still not tight overall. 
+Unemployment is nearly double the euro area 
+average and, although the job vacancy rate 
+increased after the pandemic, it remains rela -
+tively low. However, there is heterogeneity at 
+the sectoral level, with construction and trade, 
+transport and accommodation presenting high 
+job vacancy rates, and the tourism subsector in 
+particular showing the greatest tightness by this 
+measure. Similarly, while wage growth data do 
+not show signs of generalised tightness, the 
+Construction, Hotels & Restaurants and Other 
+Services sectors exhibit an upward trend in the 
+wages of new hires and in employment flows, 
+which may reflect emerging labour market 
+pressures. 
+Furthermore, it is notable that, while the 
+unemployment rate in Greece remains high, it 
+declined rapidly in recent years, reflecting gov -
+ernment support measures during the pan -
+demic, the implementation of important labour 
+market reforms in the previous decade and 
+robust real GDP growth. This sharp decline, in 
+combination with the high share of long-term 
+unemployment and the rather elevated esti -
+mates of efficient unemployment presented in 
+this article, suggests that labour market slack 
+may in fact be less than indicated by the base -
+line measure. Given recent strong employment 
+growth and the prospect of a significant need 
+for additional labour over the coming years 
+56 
+Economic Bulletin 
+December 2022 73 43Adalet McGowan, M. and D. Andrews (2015), “Skill mismatch and 
+public policy in OECD countries”, OECD Economics Department 
+Working Paper No. 1210. 
+44See Anyfantaki et al. (2022), op. cit., for a description of the 
+methodology and detailed results. 
+
+--- PAGE BREAK ---
+
+due to the implementation of the NextGener -
+ationEU plan, labour market tightness could 
+increase significantly over the coming years. 
+This concern is further compounded by exten -
+sive survey evidence of skills mismatches in the 
+Greek labour market, which are known to 
+adversely affect allocative efficiency and, thus, 
+productivity. 
+It follows that, from a policy perspective, it is 
+particularly important to pursue labour mar -
+ket policies aimed at increasing participation 
+rates and upskilling or reskilling the labour 
+force, including in particular the long-term 
+unemployed. This need is all the more press -
+ing in light of the adverse demographic trends 
+and the recent exodus of young highly skilled 
+workers following the sovereign debt crisis. 
+Such active labour market policies would sup -port employment, increase skills and enhance 
+the experience of workers, especially the more 
+vulnerable ones, thereby increasing attach -
+ment to the labour market and eventually 
+resulting in higher employment and partici -
+pation rates. As regards skills mismatch in 
+particular, redesigning training programmes 
+and educational curricula to be more closely 
+linked to the needs of the labour market, as 
+well as strengthening the digital literacy of 
+workers would help reduce the mismatch 
+between the job skills demanded by firms and 
+those on offer, thus boosting productivity and 
+potential output. In this regard, the measures 
+included in Greece’s National Recovery and 
+Resilience Plan to foster labour market acti -
+vation and upskilling through redesigning and 
+strengthening active labour market policies 
+are well-timed and crucially important. 
+56 
+Economic Bulletin 
+December 2022 74 
