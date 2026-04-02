@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Thesis PoC</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" />
+  <link rel="stylesheet" href="/static/css/style.css" />
+</head>
+<body>
+
+  <header class="top-bar">
+    <span class="logo">Thesis PoC</span>
+  </header>
+
+  <main class="content">
+
+    <!-- ESCO Panel -->
+    <section id="panel-esco" class="panel active">
+      <div class="panel-header">
+        <div class="sub-tabs">
+          <button class="sub-tab active" data-subtab="occupations">Occupations</button>
+          <button class="sub-tab" data-subtab="skills">Skills</button>
+          <button class="sub-tab" data-subtab="isco">ISCO Groups</button>
+        </div>
+        <div id="esco-filters" class="filter-controls"></div>
+        <div class="search-box">
+          <input type="text" id="esco-search" placeholder="Search..." autocomplete="off" />
+        </div>
+      </div>
+
+      <div id="esco-content" class="list-area"></div>
+      <div id="esco-pagination" class="pagination-bar"></div>
+    </section>
+
+    <!-- OJA Panel -->
+    <section id="panel-oja" class="panel hidden">
+      <div class="panel-header">
+        <div class="sub-tabs">
+          <button class="sub-tab active" data-subtab="jobs">Job Postings</button>
+        </div>
+        <div id="oja-filters" class="filter-controls"></div>
+        <div class="search-box">
+          <input type="text" id="oja-search" placeholder="Search jobs..." autocomplete="off" />
+        </div>
+      </div>
+      <div id="oja-status" class="status-bar"></div>
+
+      <div id="oja-scroll" class="list-area oja-scroll-area">
+        <div id="oja-content" class="jobs-grid"></div>
+        <div id="oja-sentinel" class="scroll-sentinel"></div>
+      </div>
+    </section>
+
+  </main>
+
+  <nav class="bottom-bar">
+    <button class="nav-btn active" data-panel="esco">ESCO</button>
+    <button class="nav-btn" data-panel="oja">OJA</button>
+  </nav>
+
+  <script src="/static/js/app.js"></script>
+  <script src="/static/js/esco.js"></script>
+  <script src="/static/js/oja.js"></script>
+</body>
+</html>

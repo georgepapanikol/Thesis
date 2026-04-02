@@ -1,2 +1,2 @@
-# Thesis
+# Thesis Development Project 
 ## Green skills 
